@@ -1,0 +1,14 @@
+,feature,importance
+0,base_G_(-1),0.053
+1,base_T_(-1),0.051
+2,base_A_(-1),0.049
+3,base_C_(-1),0.046
+4,base_T_(+1),0.043
+5,base_C_(+1),0.042
+6,base_G_(+1),0.04
+7,base_A_(+1),0.033
+8,TU_(-1),0.022
+9,operon_(+1),0.02
+10,sigmulon_Sigma70,0.013
+11,mRNA_structure,0.012
+12,TU_(+1),0.012

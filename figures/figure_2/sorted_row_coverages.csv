@@ -1,0 +1,1641 @@
+,Row Label,Coverage (%)
+0,operon_(-1),48
+1,TU_(-1),47
+2,operon_(+1),46
+3,TU_(+1),45
+4,sigmulon_Sigma70,35
+5,mRNA_structure,29
+6,base_C_(+1),25
+7,base_G_(-1),25
+8,base_G_(+1),25
+9,base_C_(-1),25
+10,base_A_(+1),25
+11,base_T_(-1),25
+12,base_T_(+1),25
+13,base_A_(-1),25
+14,gene_CDS_(-2),15
+15,protein_(-2),15
+16,gene_CDS_(-1),14
+17,protein_(-1),14
+18,gene_CDS_(+1),14
+19,protein_(+1),14
+20,gene_CDS_(-3),14
+21,protein_(-3),14
+22,gene_CDS_(+2),13
+23,gene_CDS_(+3),13
+24,protein_(+2),13
+25,protein_(+3),13
+26,residue_exposure_-_(-2),8.6
+27,residue_exposure_-_(-1),8.3
+28,residue_exposure_-_(-3),8.1
+29,residue_exposure_-_(+1),8.1
+30,residue_exposure_-_(+3),7.7
+31,residue_exposure_-_(+2),7.7
+32,sigmulon_Sigma38,7.5
+33,residue_exposure_e_(-1),5.9
+34,residue_exposure_e_(-2),5.9
+35,residue_exposure_e_(+1),5.7
+36,residue_exposure_e_(-3),5.7
+37,residue_exposure_e_(+3),5.4
+38,residue_exposure_e_(+2),5.4
+39,secondary_structure_H_(-2),4.9
+40,secondary_structure_H_(-3),4.9
+41,secondary_structure_H_(+1),4.9
+42,secondary_structure_H_(+3),4.8
+43,secondary_structure_H_(-1),4.7
+44,secondary_structure_H_(+2),4.5
+45,secondary_structure_-_(-2),3.8
+46,secondary_structure_-_(-1),3.7
+47,sigmulon_Sigma32,3.6
+48,secondary_structure_-_(+1),3.6
+49,secondary_structure_-_(-3),3.6
+50,secondary_structure_-_(+2),3.4
+51,secondary_structure_-_(+3),3.3
+52,sigmulon_Sigma54,3
+53,sigmulon_Sigma24,3
+54,secondary_structure_E_(-1),2
+55,secondary_structure_E_(-2),2
+56,COG_E_(-1),1.9
+57,i-modulon_RpoS,1.9
+58,secondary_structure_E_(-3),1.9
+59,COG_G_(-2),1.8
+60,secondary_structure_E_(+2),1.8
+61,secondary_structure_E_(+3),1.7
+62,secondary_structure_E_(+1),1.7
+63,COG_G_(+1),1.6
+64,COG_E_(+1),1.6
+65,promoter_(-1),1.6
+66,amino_acid_L_(-2),1.6
+67,promoter_(+1),1.6
+68,COG_E_(+3),1.6
+69,COG_G_(+2),1.5
+70,amino_acid_L_(-1),1.5
+71,COG_G_(-3),1.5
+72,amino_acid_L_(-3),1.5
+73,amino_acid_L_(+1),1.5
+74,COG_G_(-1),1.5
+75,amino_acid_L_(+2),1.5
+76,COG_C_(-2),1.4
+77,amino_acid_L_(+3),1.4
+78,regulon_LexA_LexA repressor,1.4
+79,amino_acid_A_(-2),1.4
+80,secondary_structure_T_(-2),1.4
+81,COG_E_(-3),1.4
+82,secondary_structure_S_(-1),1.4
+83,secondary_structure_T_(-3),1.4
+84,secondary_structure_T_(-1),1.4
+85,secondary_structure_S_(-2),1.4
+86,secondary_structure_S_(-3),1.4
+87,secondary_structure_T_(+1),1.4
+88,amino_acid_A_(+1),1.4
+89,amino_acid_A_(-1),1.4
+90,secondary_structure_S_(+1),1.3
+91,amino_acid_A_(-3),1.3
+92,sigmulon_Sigma28,1.3
+93,i-modulon_Crp-1,1.3
+94,secondary_structure_S_(+2),1.3
+95,secondary_structure_T_(+2),1.3
+96,secondary_structure_T_(+3),1.3
+97,amino_acid_A_(+3),1.3
+98,secondary_structure_S_(+3),1.3
+99,amino_acid_A_(+2),1.3
+100,COG_G_(+3),1.2
+101,i-modulon_NtrC+RpoN,1.2
+102,COG_C_(+2),1.2
+103,COG_C_(+1),1.2
+104,COG_E_(-2),1.2
+105,COG_C_(+3),1.2
+106,COG_C_(-3),1.2
+107,i-modulon_Fur-1,1.1
+108,COG_M_(-2),1.1
+109,amino_acid_G_(-2),1.1
+110,COG_C_(-1),1.1
+111,COG_M_(-1),1.1
+112,amino_acid_V_(-2),1.1
+113,amino_acid_G_(-1),1.1
+114,COG_M_(+1),1
+115,amino_acid_V_(-1),1
+116,COG_J_(-2),1
+117,i-modulon_Fnr,1
+118,amino_acid_G_(+1),1
+119,i-modulon_ArcA-1,1
+120,regulon_CRP_CRP activator,1
+121,amino_acid_G_(-3),1
+122,amino_acid_V_(+1),0.99
+123,amino_acid_G_(+2),0.98
+124,amino_acid_V_(-3),0.98
+125,amino_acid_G_(+3),0.97
+126,COG_K_(+3),0.97
+127,COG_K_(-2),0.96
+128,amino_acid_V_(+2),0.94
+129,COG_P_(-2),0.93
+130,COG_E_(+2),0.93
+131,COG_R_(-2),0.92
+132,amino_acid_V_(+3),0.92
+133,COG_M_(-3),0.92
+134,COG_M_(+2),0.91
+135,i-modulon_Nac,0.9
+136,i-modulon_Lrp,0.89
+137,amino_acid_I_(-2),0.89
+138,i-modulon_SoxS,0.87
+139,COG_J_(-3),0.86
+140,COG_J_(-1),0.86
+141,amino_acid_I_(-1),0.86
+142,amino_acid_I_(+1),0.86
+143,amino_acid_S_(-2),0.85
+144,COG_R_(+3),0.84
+145,amino_acid_E_(-1),0.84
+146,amino_acid_E_(-2),0.84
+147,amino_acid_S_(-1),0.82
+148,COG_L_(-3),0.82
+149,amino_acid_I_(-3),0.82
+150,COG_T_(-1),0.82
+151,COG_T_(+1),0.82
+152,COG_R_(-3),0.82
+153,i-modulon_Crp-2,0.81
+154,amino_acid_E_(-3),0.81
+155,amino_acid_S_(+1),0.81
+156,amino_acid_E_(+1),0.81
+157,COG_M_(+3),0.8
+158,amino_acid_I_(+3),0.8
+159,COG_P_(-1),0.8
+160,amino_acid_T_(-2),0.8
+161,amino_acid_I_(+2),0.79
+162,COG_K_(-3),0.79
+163,codon_CTG_(-2),0.79
+164,amino_acid_R_(-1),0.79
+165,COG_K_(-1),0.78
+166,COG_K_(+2),0.78
+167,amino_acid_S_(-3),0.78
+168,amino_acid_R_(-2),0.78
+169,amino_acid_S_(+2),0.78
+170,amino_acid_R_(-3),0.77
+171,amino_acid_E_(+3),0.77
+172,codon_CTG_(-1),0.77
+173,amino_acid_S_(+3),0.76
+174,amino_acid_T_(-1),0.76
+175,amino_acid_T_(+1),0.76
+176,codon_CTG_(-3),0.76
+177,amino_acid_E_(+2),0.75
+178,amino_acid_D_(-1),0.75
+179,amino_acid_R_(+1),0.75
+180,amino_acid_D_(-2),0.75
+181,COG_R_(+2),0.75
+182,amino_acid_T_(-3),0.75
+183,codon_CTG_(+1),0.74
+184,amino_acid_R_(+2),0.74
+185,regulon_NsrR_NsrR repressor,0.74
+186,amino_acid_R_(+3),0.74
+187,COG_P_(+2),0.73
+188,amino_acid_D_(+1),0.73
+189,gene_pseudo_(+2),0.73
+190,amino_acid_T_(+2),0.72
+191,codon_CTG_(+2),0.72
+192,regulon_PhoB_PhoB activator,0.71
+193,regulon_FlhDC_FlhDC activator,0.71
+194,amino_acid_D_(-3),0.71
+195,codon_CTG_(+3),0.71
+196,amino_acid_T_(+3),0.7
+197,COG_K_(+1),0.69
+198,COG_L_(+3),0.69
+199,regulon_FNR_FNR activator,0.68
+200,COG_T_(-3),0.68
+201,amino_acid_D_(+2),0.68
+202,amino_acid_D_(+3),0.67
+203,COG_H_(-2),0.67
+204,COG_J_(+3),0.67
+205,i-modulon_FlhDC,0.67
+206,COG_S_(-3),0.66
+207,amino_acid_P_(-2),0.65
+208,amino_acid_P_(-1),0.65
+209,amino_acid_Q_(-3),0.64
+210,amino_acid_K_(+1),0.64
+211,amino_acid_Q_(-2),0.64
+212,amino_acid_K_(-1),0.64
+213,amino_acid_K_(-2),0.64
+214,i-modulon_RcsAB,0.64
+215,COG_F_(+1),0.64
+216,COG_T_(+2),0.63
+217,i-modulon_NarL,0.63
+218,COG_P_(+3),0.63
+219,repeat_region_(+1),0.63
+220,COG_S_(+2),0.62
+221,COG_L_(+1),0.62
+222,amino_acid_Q_(-1),0.62
+223,i-modulon_FliA,0.62
+224,regulon_CRP_CRP repressor,0.62
+225,amino_acid_P_(-3),0.62
+226,amino_acid_P_(+1),0.61
+227,amino_acid_Q_(+1),0.61
+228,COG_L_(-1),0.61
+229,COG_P_(+1),0.61
+230,amino_acid_K_(-3),0.6
+231,amino_acid_P_(+3),0.6
+232,amino_acid_Q_(+2),0.6
+233,COG_P_(-3),0.6
+234,"regulon_Fis,H-NS,Lrp_Fis activator H-NS repressor Lrp repressor",0.59
+235,COG_T_(-2),0.59
+236,amino_acid_Q_(+3),0.59
+237,amino_acid_P_(+2),0.58
+238,COG_S_(+1),0.58
+239,codon_GAA_(-1),0.58
+240,amino_acid_N_(-2),0.58
+241,COG_L_(+2),0.58
+242,COG_J_(+2),0.58
+243,codon_GAA_(-2),0.58
+244,amino_acid_F_(-2),0.57
+245,amino_acid_N_(-1),0.57
+246,amino_acid_K_(+2),0.57
+247,amino_acid_K_(+3),0.56
+248,mobile_element_(+1),0.56
+249,amino_acid_F_(-1),0.56
+250,COG_H_(+3),0.56
+251,codon_GAA_(+1),0.56
+252,regulon_PhoP_PhoP activator,0.56
+253,codon_GAA_(-3),0.56
+254,COG_H_(-1),0.56
+255,gene_pseudo_(+1),0.56
+256,COG_O_(-1),0.55
+257,amino_acid_F_(+1),0.55
+258,mobile_element_(-1),0.55
+259,amino_acid_N_(-3),0.54
+260,regulon_Cra_Cra repressor,0.54
+261,amino_acid_N_(+1),0.54
+262,COG_O_(-2),0.54
+263,amino_acid_F_(-3),0.54
+264,regulon_NtrC_NtrC activator,0.54
+265,codon_GAA_(+3),0.53
+266,regulon_Fis_Fis activator,0.53
+267,i-modulon_Fur-2,0.53
+268,COG_R_(-1),0.53
+269,COG_O_(+1),0.53
+270,i-modulon_EvgA,0.52
+271,codon_GAA_(+2),0.52
+272,amino_acid_F_(+3),0.52
+273,amino_acid_N_(+2),0.51
+274,amino_acid_F_(+2),0.51
+275,amino_acid_N_(+3),0.51
+276,codon_GCG_(-2),0.5
+277,codon_GCG_(-3),0.5
+278,gene_pseudo_(-1),0.5
+279,codon_AAA_(-1),0.49
+280,codon_AAA_(+1),0.49
+281,codon_AAA_(-2),0.49
+282,COG_S_(-1),0.49
+283,codon_GCG_(-1),0.48
+284,i-modulon_ArcA-2,0.48
+285,COG_N_(-2),0.48
+286,COG_I_(-3),0.48
+287,codon_GCG_(+1),0.48
+288,COG_O_(+3),0.48
+289,COG_T_(+3),0.48
+290,i-modulon_NagC/TyrR,0.47
+291,COG_I_(+1),0.47
+292,i-modulon_AllR/AraC/FucR,0.47
+293,codon_GAT_(-2),0.47
+294,codon_GAT_(-1),0.47
+295,COG_I_(-1),0.47
+296,regulon_CpxR_CpxR activator,0.47
+297,codon_AAA_(-3),0.47
+298,COG_H_(+2),0.47
+299,gene_pseudo_(-3),0.46
+300,codon_GGC_(-2),0.46
+301,codon_GAT_(+1),0.46
+302,codon_GCG_(+3),0.46
+303,codon_ATT_(-2),0.46
+304,i-modulon_Cra,0.45
+305,codon_GCG_(+2),0.45
+306,COG_S_(-2),0.45
+307,COG_N_(+1),0.44
+308,codon_GAT_(-3),0.44
+309,codon_AAA_(+2),0.44
+310,codon_ATT_(-1),0.44
+311,i-modulon_PurR-1,0.44
+312,codon_GGC_(-1),0.44
+313,COG_H_(-3),0.43
+314,codon_ATT_(+1),0.43
+315,COG_F_(+3),0.43
+316,i-modulon_CysB,0.43
+317,codon_AAA_(+3),0.43
+318,gene_pseudo_(+3),0.43
+319,codon_GAT_(+2),0.43
+320,i-modulon_ExuR/FucR,0.42
+321,amino_acid_M_(-2),0.42
+322,COG_I_(-2),0.42
+323,codon_GAT_(+3),0.42
+324,codon_CAG_(-2),0.42
+325,codon_CAG_(-3),0.42
+326,amino_acid_Y_(-1),0.42
+327,COG_I_(+3),0.42
+328,codon_ATT_(-3),0.42
+329,codon_ATG_(-2),0.42
+330,amino_acid_Y_(-2),0.42
+331,codon_GGC_(+1),0.41
+332,codon_ATT_(+2),0.41
+333,codon_ATT_(+3),0.41
+334,i-modulon_MetJ,0.41
+335,codon_GGC_(-3),0.41
+336,amino_acid_M_(-1),0.41
+337,codon_CAG_(-1),0.4
+338,codon_ATG_(-1),0.4
+339,COG_J_(+1),0.4
+340,amino_acid_Y_(+1),0.4
+341,codon_GGC_(+2),0.4
+342,amino_acid_M_(+1),0.4
+343,codon_CAG_(+1),0.4
+344,codon_GGC_(+3),0.4
+345,attenuator_transcription_(-1),0.4
+346,codon_ATG_(+1),0.39
+347,regulon_H-NS_H-NS repressor,0.39
+348,COG_L_(-2),0.39
+349,COG_F_(-2),0.39
+350,regulon_Fur_Fur repressor,0.39
+351,codon_GTG_(-2),0.39
+352,codon_CAG_(+2),0.39
+353,codon_CAG_(+3),0.39
+354,regulon_ArgR_ArgR repressor,0.39
+355,COG_H_(+1),0.39
+356,codon_GTG_(-1),0.39
+357,amino_acid_M_(-3),0.39
+358,COG_N_(-3),0.39
+359,amino_acid_Y_(-3),0.39
+360,"regulon_MraZ,PdhR_MraZ repressor PdhR repressor",0.39
+361,COG_V_(-3),0.38
+362,COG_V_(+2),0.38
+363,codon_GGT_(-2),0.38
+364,codon_ATG_(-3),0.38
+365,COG_I_(+2),0.38
+366,amino_acid_Y_(+3),0.38
+367,COG_S_(+3),0.38
+368,i-modulon_GadEWX,0.38
+369,secondary_structure_G_(-2),0.38
+370,secondary_structure_G_(-1),0.38
+371,amino_acid_M_(+3),0.37
+372,codon_ATC_(-2),0.37
+373,gene_pseudo_(-2),0.37
+374,codon_GTG_(+1),0.37
+375,attenuator_transcription_(+1),0.37
+376,COG_R_(+1),0.37
+377,regulon_Fis_Fis repressor,0.37
+378,amino_acid_M_(+2),0.37
+379,codon_ATG_(+3),0.37
+380,COG_O_(-3),0.37
+381,codon_GTG_(-3),0.37
+382,codon_ATC_(-1),0.37
+383,codon_GCC_(+1),0.37
+384,secondary_structure_G_(+1),0.37
+385,codon_GCC_(-2),0.37
+386,codon_ATG_(+2),0.37
+387,codon_GCC_(-1),0.37
+388,codon_ATC_(+1),0.37
+389,codon_GGT_(-1),0.36
+390,amino_acid_Y_(+2),0.36
+391,secondary_structure_G_(-3),0.36
+392,COG_N_(+3),0.36
+393,codon_GCC_(-3),0.36
+394,secondary_structure_G_(+3),0.36
+395,i-modulon_XylR,0.36
+396,COG_O_(+2),0.36
+397,codon_GGT_(+1),0.35
+398,codon_GTG_(+2),0.35
+399,regulon_Lrp_Lrp repressor,0.35
+400,codon_GTG_(+3),0.35
+401,regulon_PurR_PurR repressor,0.35
+402,codon_GCC_(+2),0.35
+403,codon_CCG_(-2),0.35
+404,codon_CCG_(-1),0.35
+405,codon_ACC_(-2),0.35
+406,codon_ATC_(-3),0.35
+407,codon_GGT_(-3),0.34
+408,"regulon_FNR,NarL_FNR activator NarL repressor",0.34
+409,codon_GCC_(+3),0.34
+410,codon_ACC_(-1),0.34
+411,i-modulon_GntR/TyrR,0.34
+412,codon_ACC_(+1),0.34
+413,codon_ATC_(+3),0.33
+414,codon_ATC_(+2),0.33
+415,i-modulon_FadR/IclR,0.33
+416,COG_N_(+2),0.33
+417,amino_acid_H_(-2),0.33
+418,codon_CCG_(-3),0.33
+419,"regulon_ArcA,FNR,IHF,NarL_ArcA repressor FNR repressor IHF repressor NarL activator",0.33
+420,codon_ACC_(-3),0.33
+421,codon_AAC_(-2),0.33
+422,codon_TTT_(-2),0.33
+423,amino_acid_H_(-3),0.33
+424,i-modulon_RpoH,0.32
+425,codon_GGT_(+3),0.32
+426,codon_CCG_(+3),0.32
+427,COG_F_(-1),0.32
+428,codon_CCG_(+1),0.32
+429,codon_TTT_(-1),0.32
+430,codon_CGC_(-2),0.32
+431,codon_GGT_(+2),0.32
+432,COG_F_(+2),0.32
+433,codon_AAC_(-1),0.32
+434,amino_acid_H_(-1),0.32
+435,"regulon_BaeR,CpxR_BaeR activator CpxR activator",0.32
+436,codon_ACC_(+2),0.32
+437,codon_CGC_(-3),0.32
+438,secondary_structure_G_(+2),0.32
+439,codon_CGC_(-1),0.32
+440,codon_CGT_(-1),0.31
+441,regulon_CpxR_CpxR repressor,0.31
+442,amino_acid_H_(+1),0.31
+443,amino_acid_H_(+3),0.31
+444,COG_V_(+3),0.31
+445,i-modulon_ArgR,0.31
+446,codon_TTT_(-3),0.31
+447,codon_CCG_(+2),0.31
+448,codon_CGT_(-2),0.31
+449,codon_ACC_(+3),0.31
+450,codon_TTT_(+1),0.31
+451,i-modulon_MalT,0.31
+452,COG_V_(-1),0.3
+453,codon_CGC_(+3),0.3
+454,codon_CGC_(+1),0.3
+455,codon_TTT_(+2),0.3
+456,codon_TTT_(+3),0.3
+457,codon_GCA_(-2),0.3
+458,codon_AAC_(+1),0.3
+459,codon_AAC_(-3),0.3
+460,codon_CGC_(+2),0.3
+461,codon_CGT_(-3),0.3
+462,i-modulon_Tryptophan,0.29
+463,codon_CGT_(+1),0.29
+464,"regulon_CRP,FNR,FhlA,HyfR_CRP activator FNR repressor FhlA activator HyfR activator",0.29
+465,codon_GCA_(+1),0.29
+466,i-modulon_DhaR/Mlc,0.29
+467,"regulon_CRP,Fur_CRP activator Fur repressor",0.29
+468,i-modulon_Leu/Ile,0.29
+469,codon_GAC_(-1),0.29
+470,codon_CGT_(+2),0.29
+471,codon_GCA_(-1),0.28
+472,codon_AAC_(+2),0.28
+473,amino_acid_H_(+2),0.28
+474,COG_Q_(+2),0.28
+475,codon_GTT_(-2),0.28
+476,codon_GCA_(-3),0.28
+477,codon_GAC_(-2),0.28
+478,COG_F_(-3),0.28
+479,codon_AAC_(+3),0.27
+480,codon_CGT_(+3),0.27
+481,COG_V_(-2),0.27
+482,COG_N_(-1),0.27
+483,codon_GTT_(-1),0.27
+484,codon_GCA_(+3),0.27
+485,codon_GAC_(-3),0.27
+486,codon_GAC_(+1),0.27
+487,codon_GCA_(+2),0.26
+488,i-modulon_Copper,0.26
+489,"regulon_FlhDC,ModE,NarL,NarP_FlhDC activator ModE activator NarL repressor NarP repressor",0.26
+490,"regulon_FNR,FlhDC,ModE,NarL,NarP_FNR activator FlhDC activator ModE activator NarL repressor NarP activator",0.26
+491,codon_GAG_(-2),0.26
+492,i-modulon_Zinc,0.26
+493,gene_rRNA_(+2),0.26
+494,i-modulon_CdaR,0.26
+495,i-modulon_Pyruvate,0.26
+496,codon_AAT_(-2),0.26
+497,codon_GAG_(-1),0.25
+498,codon_GAC_(+3),0.25
+499,codon_GTT_(-3),0.25
+500,codon_GTT_(+1),0.25
+501,codon_GAG_(-3),0.25
+502,codon_GAC_(+2),0.25
+503,i-modulon_PurR-2,0.25
+504,codon_TTC_(-2),0.25
+505,codon_AAT_(-1),0.25
+506,i-modulon_GlpR,0.25
+507,codon_AAT_(-3),0.24
+508,codon_GAG_(+1),0.24
+509,regulon_IscR_IscR repressor,0.24
+510,codon_GTT_(+2),0.24
+511,codon_AAT_(+1),0.24
+512,codon_TTC_(+1),0.24
+513,i-modulon_CsqR,0.24
+514,codon_TTC_(-1),0.24
+515,codon_GAG_(+3),0.24
+516,COG_D_(+2),0.24
+517,codon_TAT_(-2),0.24
+518,"regulon_Fis,Lrp_Fis activator Lrp repressor",0.23
+519,codon_GCT_(-2),0.23
+520,codon_GTC_(-2),0.23
+521,codon_AGC_(-1),0.23
+522,codon_GTT_(+3),0.23
+523,codon_GAG_(+2),0.23
+524,codon_AGC_(-2),0.23
+525,codon_TTC_(-3),0.23
+526,codon_AAT_(+3),0.23
+527,"regulon_H-NS,SlyA_H-NS repressor SlyA activator",0.23
+528,"regulon_Fur,H-NS_Fur repressor H-NS repressor",0.23
+529,regulon_AllR_AllR repressor,0.23
+530,codon_AAT_(+2),0.23
+531,codon_TAT_(-1),0.23
+532,codon_AGC_(+2),0.23
+533,codon_TAT_(+1),0.23
+534,regulon_NagC_NagC repressor,0.23
+535,codon_CAA_(-3),0.23
+536,codon_GTC_(-1),0.23
+537,regulon_EvgA_EvgA activator,0.22
+538,codon_TGG_(-2),0.22
+539,amino_acid_W_(-2),0.22
+540,i-modulon_CpxR,0.22
+541,COG_D_(-1),0.22
+542,i-modulon_Thiamine,0.22
+543,codon_CAA_(-2),0.22
+544,codon_TAT_(-3),0.22
+545,codon_AGC_(-3),0.22
+546,codon_TTC_(+3),0.22
+547,"regulon_ArcA,CRP,FNR,Fur_ArcA dual CRP activator FNR repressor Fur activator",0.22
+548,codon_AGC_(+1),0.22
+549,codon_TGG_(-1),0.22
+550,amino_acid_W_(-1),0.22
+551,codon_GCT_(+1),0.22
+552,codon_ACG_(-2),0.22
+553,codon_TAT_(+3),0.22
+554,codon_CAA_(-1),0.22
+555,codon_GTC_(+1),0.21
+556,codon_GCT_(-1),0.21
+557,codon_CAA_(+1),0.21
+558,codon_TGG_(-3),0.21
+559,amino_acid_W_(-3),0.21
+560,codon_AGC_(+3),0.21
+561,regulon_Nac_Nac activator,0.21
+562,codon_TAT_(+2),0.21
+563,codon_TGG_(+1),0.21
+564,amino_acid_W_(+1),0.21
+565,codon_GTC_(-3),0.21
+566,i-modulon_FecI,0.21
+567,codon_CAA_(+2),0.21
+568,codon_TTC_(+2),0.21
+569,codon_TGG_(+3),0.21
+570,amino_acid_W_(+3),0.21
+571,regulon_SoxS_SoxS activator,0.21
+572,codon_TTG_(-2),0.21
+573,"regulon_CRP,IHF,PaaX,SlyA_CRP activator IHF activator PaaX repressor SlyA activator",0.21
+574,COG_U_(+1),0.21
+575,codon_GCT_(+3),0.2
+576,codon_GTC_(+2),0.2
+577,codon_GCT_(-3),0.2
+578,codon_TGG_(+2),0.2
+579,amino_acid_W_(+2),0.2
+580,codon_ACG_(+2),0.2
+581,regulon_RcsB-BglJ_RcsB-BglJ activator,0.2
+582,codon_ACG_(-3),0.2
+583,codon_ACG_(+1),0.2
+584,"regulon_CRP,LsrR_CRP activator LsrR repressor",0.2
+585,codon_GCT_(+2),0.2
+586,COG_Q_(+3),0.2
+587,codon_CAA_(+3),0.2
+588,codon_TTA_(-2),0.2
+589,codon_ACG_(-1),0.2
+590,codon_GTC_(+3),0.2
+591,i-modulon_YgbI,0.2
+592,i-modulon_GadWX,0.2
+593,"regulon_CRP,Cra_CRP activator Cra repressor",0.2
+594,COG_V_(+1),0.19
+595,codon_TTA_(+2),0.19
+596,i-modulon_YieP,0.19
+597,regulon_FadR_FadR activator,0.19
+598,codon_TTA_(+1),0.19
+599,"regulon_CusR,HprR,PhoB_CusR activator HprR activator PhoB activator",0.19
+600,codon_TTG_(-3),0.19
+601,codon_TTG_(+2),0.19
+602,"regulon_CRP,FNR,IHF,TdcA,TdcR_CRP activator FNR activator IHF activator TdcA activator TdcR activator",0.19
+603,codon_TTA_(-3),0.19
+604,codon_TAC_(-1),0.19
+605,codon_TTA_(+3),0.19
+606,i-modulon_YiaJ,0.19
+607,codon_ACG_(+3),0.19
+608,codon_TTA_(-1),0.19
+609,codon_TTG_(-1),0.19
+610,codon_CAT_(-3),0.19
+611,codon_TTG_(+1),0.19
+612,codon_TTG_(+3),0.19
+613,COG_D_(+1),0.18
+614,codon_CAT_(-1),0.18
+615,i-modulon_PrpR,0.18
+616,codon_CAT_(-2),0.18
+617,"regulon_ArcA,GlcC,IHF,PdhR_ArcA repressor GlcC activator IHF activator PdhR repressor",0.18
+618,codon_CAT_(+1),0.18
+619,codon_TAC_(-2),0.18
+620,i-modulon_Cbl+CysB,0.18
+621,i-modulon_PuuR,0.18
+622,"regulon_CRP,IHF,YiaJ_CRP unknown CRP activator IHF activator YiaJ repressor",0.17
+623,COG_Q_(+1),0.17
+624,codon_CAT_(+3),0.17
+625,i-modulon_GlcC,0.17
+626,codon_TAC_(+1),0.17
+627,i-modulon_His-tRNA,0.17
+628,"regulon_FhlA,IHF,ModE,NsrR_FhlA activator IHF activator ModE activator NsrR repressor",0.17
+629,"regulon_CRP,FucR_CRP activator FucR activator",0.17
+630,"regulon_ArcA,CRP,CaiF,FNR,H-NS_ArcA activator CRP activator CaiF activator FNR activator H-NS repressor",0.17
+631,amino_acid_C_(-2),0.17
+632,codon_GTA_(-2),0.17
+633,amino_acid_C_(-1),0.17
+634,gene_rRNA_(+1),0.17
+635,codon_TAC_(-3),0.17
+636,regulon_PhoB_PhoB repressor,0.17
+637,codon_CAT_(+2),0.17
+638,amino_acid_C_(+1),0.17
+639,codon_GGG_(-2),0.16
+640,codon_TAC_(+3),0.16
+641,amino_acid_C_(-3),0.16
+642,regulon_GadX_GadX activator,0.16
+643,codon_CTC_(-2),0.16
+644,"regulon_AdiY,ArgR,CRP,FNR,Fur,GadE,HdfR,IHF,Lrp,Nac_AdiY activator ArgR repressor CRP repressor FNR repressor Fur repressor GadE activator HdfR activator IHF activator Lrp activator Nac repressor",0.16
+645,COG_D_(-3),0.16
+646,regulon_CysB_CysB activator,0.16
+647,regulon_PgrR_PgrR repressor,0.16
+648,regulon_H-NS_H-NS activator,0.16
+649,"regulon_CRP,Cra,FNR,PdhR_CRP activator Cra repressor FNR dual PdhR repressor",0.16
+650,codon_CTC_(+1),0.16
+651,codon_CTT_(-2),0.16
+652,codon_GTA_(+1),0.16
+653,codon_GGG_(-3),0.16
+654,codon_CTC_(+2),0.16
+655,codon_CTC_(-1),0.16
+656,codon_GTA_(-1),0.15
+657,codon_CTT_(-1),0.15
+658,codon_CTT_(+1),0.15
+659,codon_CTT_(+2),0.15
+660,codon_GGG_(-1),0.15
+661,amino_acid_C_(+3),0.15
+662,"regulon_NhaR,OmpR_NhaR activator OmpR repressor",0.15
+663,codon_GGG_(+2),0.15
+664,codon_CTC_(+3),0.15
+665,codon_CTC_(-3),0.15
+666,codon_CTT_(-3),0.15
+667,"regulon_H-NS,IHF,Lrp_H-NS activator IHF activator Lrp activator",0.15
+668,codon_TAC_(+2),0.15
+669,regulon_OxyR_OxyR activator,0.15
+670,codon_GGG_(+1),0.15
+671,codon_AAG_(+1),0.15
+672,codon_GGG_(+3),0.15
+673,codon_GTA_(-3),0.15
+674,amino_acid_C_(+2),0.15
+675,codon_CTT_(+3),0.15
+676,COG_U_(+2),0.15
+677,codon_AAG_(-2),0.15
+678,codon_CAC_(-2),0.15
+679,secondary_structure_I_(+3),0.15
+680,"regulon_CRP,CsiR,H-NS,Lrp_CRP activator CsiR repressor H-NS activator Lrp activator",0.14
+681,"regulon_FNR,Fis,IHF,NarL,RstA_FNR activator Fis repressor IHF activator NarL activator RstA activator",0.14
+682,codon_GTA_(+2),0.14
+683,"regulon_CsgD,FlhDC_CsgD repressor FlhDC activator",0.14
+684,"regulon_FNR,Fur,H-NS_FNR activator Fur repressor H-NS activator",0.14
+685,regulon_DeoR_DeoR repressor,0.14
+686,codon_AAG_(-1),0.14
+687,regulon_FNR_FNR repressor,0.14
+688,regulon_Cra_Cra activator,0.14
+689,"regulon_ArcA,NarL_ArcA repressor NarL repressor",0.14
+690,codon_GTA_(+3),0.14
+691,regulon_IHF_IHF repressor,0.14
+692,regulon_IHF_IHF activator,0.14
+693,secondary_structure_I_(-3),0.14
+694,codon_AAG_(-3),0.14
+695,"regulon_FNR,Fis,FlhDC,IHF,NarL,NarP,NsrR_FNR activator Fis repressor FlhDC activator IHF dual NarL dual NarP activator NsrR repressor",0.14
+696,secondary_structure_I_(+1),0.14
+697,codon_CAC_(-3),0.14
+698,i-modulon_OxyR,0.14
+699,codon_CAC_(+3),0.14
+700,"regulon_CRP,MhpR_CRP activator MhpR activator",0.14
+701,"regulon_MarA,SoxS_MarA activator SoxS activator",0.14
+702,codon_CAC_(-1),0.14
+703,"regulon_CRP,NagC_CRP dual NagC repressor",0.13
+704,codon_ACT_(-2),0.13
+705,COG_D_(-2),0.13
+706,secondary_structure_I_(-2),0.13
+707,codon_CAC_(+1),0.13
+708,codon_AAG_(+3),0.13
+709,i-modulon_RbsR,0.13
+710,"regulon_ArgR,NtrC_ArgR activator NtrC activator",0.13
+711,secondary_structure_B_(-1),0.13
+712,"regulon_ArcA,FadR_ArcA repressor FadR repressor",0.13
+713,sigmulon_Sigma19,0.13
+714,"regulon_CRP,Fur,HypT,PdhR_CRP activator Fur repressor HypT repressor PdhR activator",0.13
+715,codon_TCT_(-2),0.13
+716,"regulon_FNR,IHF_FNR repressor IHF activator",0.13
+717,regulon_AgaR_AgaR repressor,0.13
+718,"regulon_MarA,Rob,SoxS_MarA activator Rob activator SoxS activator",0.13
+719,secondary_structure_B_(-2),0.13
+720,"regulon_AraC,CRP_AraC activator CRP activator",0.13
+721,"regulon_CRP,Cra,PrpR_CRP activator Cra repressor PrpR activator",0.13
+722,codon_TCC_(-2),0.13
+723,TFBS_CRP-cAMP,0.13
+724,codon_AGT_(-2),0.13
+725,regulon_AlsR_AlsR repressor,0.13
+726,codon_ACT_(+1),0.13
+727,"regulon_CRP,RbsR_CRP activator RbsR repressor",0.13
+728,"regulon_FNR,NarL,NarP_FNR activator NarL repressor NarP repressor",0.13
+729,codon_TCG_(+1),0.13
+730,codon_TCG_(+2),0.13
+731,codon_TCG_(-2),0.13
+732,codon_ACT_(-1),0.13
+733,"regulon_ArcA,BetI,Cra_ArcA repressor BetI repressor Cra activator",0.13
+734,codon_AAG_(+2),0.13
+735,codon_ACT_(-3),0.13
+736,i-modulon_NikR,0.13
+737,COG_U_(-2),0.13
+738,secondary_structure_I_(+2),0.13
+739,gene_rRNA_(-1),0.13
+740,codon_TCC_(-1),0.13
+741,"regulon_FhlA,IHF,NsrR_FhlA activator IHF activator NsrR repressor",0.12
+742,regulon_RcsB_RcsB activator,0.12
+743,codon_TCT_(-1),0.12
+744,codon_TCG_(-1),0.12
+745,"regulon_ArcA,CRP,PuuR_ArcA repressor CRP repressor PuuR repressor",0.12
+746,codon_CCA_(-1),0.12
+747,"regulon_CRP,H-NS,LeuO,SlyA_CRP repressor H-NS repressor LeuO activator SlyA activator",0.12
+748,secondary_structure_I_(-1),0.12
+749,codon_TCG_(-3),0.12
+750,"regulon_CRP,CytR_CRP dual CytR repressor",0.12
+751,"regulon_ArcA,Fur,Lrp,ModE_ArcA repressor Fur repressor Lrp repressor ModE repressor",0.12
+752,secondary_structure_B_(-3),0.12
+753,codon_CCA_(-2),0.12
+754,codon_AGT_(-1),0.12
+755,regulon_CecR_CecR repressor,0.12
+756,secondary_structure_B_(+1),0.12
+757,codon_TCC_(+1),0.12
+758,"regulon_AppY,ArcA,Fis,IscR,NarL,NarP,YdeO_AppY activator ArcA activator Fis repressor IscR repressor NarL repressor NarP repressor YdeO activator",0.12
+759,secondary_structure_B_(+2),0.12
+760,i-modulon_CecR,0.12
+761,codon_TCC_(-3),0.12
+762,codon_TCT_(+1),0.12
+763,"regulon_Fur,IHF,IscR,NsrR,OxyR_Fur repressor IHF activator IscR activator NsrR repressor OxyR activator",0.12
+764,codon_TCG_(+3),0.12
+765,codon_CAC_(+2),0.12
+766,regulon_RcsAB_RcsAB activator,0.12
+767,"regulon_ArcA,NtrC,PhoP,RutR_ArcA activator NtrC activator PhoP activator RutR repressor",0.12
+768,regulon_MngR_MngR repressor,0.12
+769,codon_AGT_(+2),0.12
+770,codon_AGT_(-3),0.12
+771,codon_CCA_(-3),0.12
+772,codon_CCA_(+1),0.12
+773,COG_Q_(-1),0.12
+774,"regulon_CRP,DpiA,FNR,NarL_CRP repressor DpiA activator FNR repressor NarL repressor",0.12
+775,"regulon_ArcA,CRP,GatR_ArcA repressor CRP activator GatR repressor",0.12
+776,codon_AGT_(+1),0.12
+777,codon_TCC_(+3),0.12
+778,"regulon_FNR,NarL,NikR_FNR activator NarL repressor NikR repressor",0.12
+779,codon_GGA_(-2),0.12
+780,"regulon_CRP,ChbR,NagC_CRP activator ChbR dual NagC repressor",0.12
+781,regulon_PhoP_PhoP repressor,0.12
+782,regulon_MetJ_MetJ repressor,0.11
+783,regulon_ArcA_ArcA activator,0.11
+784,codon_AGT_(+3),0.11
+785,"regulon_ArcA,DpiA_ArcA repressor DpiA activator",0.11
+786,codon_ACT_(+2),0.11
+787,"regulon_CRP,Cra,FNR,Fis,H-NS,IHF,NarL,NarP_CRP repressor Cra repressor FNR activator Fis repressor H-NS repressor IHF dual NarL activator NarP activator",0.11
+788,codon_TCT_(-3),0.11
+789,secondary_structure_B_(+3),0.11
+790,"regulon_CRP,H-NS,LacI_CRP activator H-NS repressor LacI repressor",0.11
+791,codon_GGA_(+2),0.11
+792,codon_CCA_(+2),0.11
+793,"regulon_CRP,EvgA,FliZ,GadE,GadW,GadX,H-NS,YdeO_CRP repressor EvgA activator FliZ repressor GadE activator GadW activator GadX activator H-NS repressor YdeO activator",0.11
+794,"regulon_ArcA,FNR_ArcA repressor FNR activator",0.11
+795,codon_ACT_(+3),0.11
+796,codon_CCA_(+3),0.11
+797,regulon_SgrR_SgrR repressor,0.11
+798,codon_TCC_(+2),0.11
+799,i-modulon_GcvA,0.11
+800,"regulon_CRP,Fis,XylR_CRP activator Fis repressor XylR activator",0.11
+801,i-modulon_AtoC,0.11
+802,"regulon_CRP,PhoB_CRP activator PhoB repressor",0.11
+803,attenuator_translation_(-1),0.11
+804,codon_GGA_(-1),0.11
+805,"regulon_CRP,GutM,H-NS,SrlR_CRP activator GutM activator H-NS activator SrlR repressor",0.11
+806,"regulon_CdaR,FNR,Fur,H-NS_CdaR activator FNR activator Fur repressor H-NS repressor",0.11
+807,regulon_BirA_BirA repressor,0.11
+808,codon_TCT_(+3),0.11
+809,"regulon_ArcA,CRP,Cra,IHF,IclR_ArcA repressor CRP repressor Cra activator IHF activator IclR repressor",0.11
+810,regulon_MarA_MarA activator,0.11
+811,"regulon_CysB,H-NS_CysB activator H-NS repressor",0.11
+812,"regulon_CRP,GntR,IdnR_CRP activator GntR repressor IdnR activator",0.11
+813,regulon_YjjQ_YjjQ repressor,0.11
+814,COG_U_(+3),0.11
+815,codon_TCT_(+2),0.1
+816,"regulon_CRP,NagC_CRP activator NagC repressor",0.1
+817,"regulon_ArcA,CRP,Cra,CusR,FNR,Fis,Fur,GadE,HprR,PdhR_ArcA repressor CRP activator Cra repressor CusR activator FNR repressor Fis activator Fur repressor GadE activator HprR repressor PdhR repressor",0.1
+818,"regulon_CRP,H-NS_CRP activator H-NS activator",0.1
+819,codon_GGA_(+1),0.1
+820,codon_TCA_(+1),0.1
+821,codon_GGA_(-3),0.1
+822,codon_CCT_(-1),0.1
+823,codon_TCA_(-2),0.1
+824,"regulon_Fis,IHF_Fis repressor IHF repressor",0.1
+825,COG_U_(-3),0.1
+826,"regulon_CRP,FNR,NarL_CRP activator FNR activator NarL repressor",0.1
+827,codon_CCT_(-2),0.1
+828,codon_GGA_(+3),0.1
+829,"regulon_ArcA,FNR,NsrR_ArcA repressor FNR repressor NsrR repressor",0.1
+830,codon_ACA_(-2),0.1
+831,"regulon_CRP,FNR,GcvA,Lrp,PurR_CRP activator FNR activator GcvA dual Lrp activator PurR repressor",0.1
+832,"regulon_FNR,NarL,NarP_FNR dual NarL activator NarP repressor",0.1
+833,codon_CCT_(+1),0.099
+834,"regulon_Fis,IHF,PepA,PurR,RutR_Fis activator IHF dual PepA repressor PurR repressor RutR activator",0.098
+835,"regulon_CRP,UidR,UxuR_CRP activator UidR repressor UxuR repressor",0.098
+836,"regulon_CysB,IHF_CysB activator IHF activator",0.098
+837,i-modulon_YneJ,0.098
+838,"regulon_FNR,MalT_FNR activator MalT activator",0.098
+839,"regulon_FNR,NarL,NarP,NsrR,OxyR_FNR activator NarL activator NarP activator NsrR repressor OxyR activator",0.097
+840,regulon_OxyR_OxyR repressor,0.097
+841,"regulon_FNR,H-NS_FNR activator H-NS repressor",0.096
+842,codon_ACA_(+1),0.096
+843,codon_TCA_(+2),0.096
+844,"regulon_CRP,IHF,UlaR_CRP activator IHF repressor UlaR repressor",0.096
+845,regulon_Lrp_Lrp activator,0.096
+846,terminator_(-1),0.096
+847,"regulon_AcrR,EnvR,MarA,MprA,PhoP,Rob,SoxS_AcrR repressor EnvR repressor MarA activator MprA repressor PhoP repressor Rob activator SoxS activator",0.096
+848,regulon_KdpE_KdpE activator,0.096
+849,codon_ACA_(-1),0.096
+850,"regulon_ArcA,FNR,IHF_ArcA repressor FNR repressor IHF repressor",0.095
+851,codon_TCA_(-1),0.095
+852,"regulon_CRP,CytR,DeoR,Fis,ModE_CRP dual CytR repressor DeoR repressor Fis activator ModE repressor",0.094
+853,codon_CCT_(+3),0.094
+854,"regulon_CRP,NtrC_CRP activator NtrC repressor",0.094
+855,codon_TGC_(-3),0.094
+856,"regulon_NarL,TorR_NarL repressor TorR activator",0.094
+857,"regulon_EvgA,H-NS_EvgA activator H-NS repressor",0.093
+858,codon_ACA_(-3),0.093
+859,codon_TGC_(-2),0.093
+860,codon_TGC_(-1),0.093
+861,codon_CCT_(-3),0.093
+862,codon_TGC_(+1),0.092
+863,"regulon_Cbl,CysB,FNR,IHF_Cbl activator CysB repressor FNR activator IHF dual",0.092
+864,"regulon_AraC,CRP_AraC dual CRP activator",0.092
+865,regulon_HcaR_HcaR activator,0.092
+866,attenuator_translation_(+1),0.092
+867,riboswitch_(-1),0.092
+868,codon_ACA_(+2),0.091
+869,"regulon_CRP,Fis,NtrC_CRP repressor Fis activator NtrC activator",0.091
+870,-10_box_(-1),0.091
+871,"regulon_CRP,Cra,Fis_CRP activator Cra repressor Fis repressor",0.091
+872,regulon_CueR_CueR activator,0.091
+873,codon_TCA_(-3),0.091
+874,"regulon_AppY,ArcA,YdeO_AppY activator ArcA activator YdeO activator",0.091
+875,codon_CCT_(+2),0.09
+876,codon_TCA_(+3),0.09
+877,codon_ACA_(+3),0.09
+878,"regulon_ArcA,CRP,FNR,Fis,FlhDC,GlpR_ArcA repressor CRP activator FNR activator Fis activator FlhDC activator GlpR repressor",0.09
+879,COG_Q_(-3),0.09
+880,"regulon_CRP,Fis,IHF_CRP activator Fis repressor IHF repressor",0.089
+881,regulon_TtdR_TtdR activator,0.089
+882,COG_D_(+3),0.088
+883,"regulon_FNR,Fis,NarL_FNR activator Fis repressor NarL repressor",0.088
+884,"regulon_CRP,RhaS_CRP activator RhaS activator",0.087
+885,"regulon_IHF,ModE_IHF repressor ModE repressor",0.087
+886,"regulon_ArgP,CRP,DnaA,Fis,H-NS,NrdR_ArgP activator CRP activator DnaA dual Fis activator H-NS repressor NrdR repressor",0.086
+887,"regulon_BasR,MarA,PutA_BasR repressor MarA activator PutA repressor",0.086
+888,-10_box_(+1),0.086
+889,"regulon_CRP,Lrp_CRP activator Lrp repressor",0.086
+890,-35_box_(-1),0.085
+891,"regulon_CRP,CreB,Fis,MalT_CRP activator CreB repressor Fis activator MalT activator",0.085
+892,regulon_CsgD_CsgD activator,0.085
+893,"regulon_FNR,Fur_FNR dual Fur repressor",0.084
+894,"regulon_AtoC,IHF_AtoC activator IHF activator",0.084
+895,codon_TGC_(+3),0.084
+896,"regulon_IHF,RcsAB_IHF activator RcsAB activator",0.083
+897,"regulon_CRP,MelR_CRP activator MelR dual",0.083
+898,"regulon_CRP,FlhDC,GalR,GalS_CRP activator FlhDC repressor GalR repressor GalS repressor",0.082
+899,codon_TGC_(+2),0.082
+900,regulon_DicA_DicA repressor,0.082
+901,"regulon_ArgP,DnaA_ArgP activator DnaA repressor",0.082
+902,"regulon_Fur,IscR,NrdR_Fur repressor IscR activator NrdR repressor",0.082
+903,-35_box_(+1),0.082
+904,terminator_(+1),0.082
+905,"regulon_Fur,MetR_Fur repressor MetR activator",0.082
+906,"regulon_CRP,MalT_CRP activator MalT activator",0.081
+907,regulon_DnaA_DnaA dual,0.08
+908,"regulon_ArcA,LldR_ArcA repressor LldR dual",0.08
+909,"regulon_CRP,Fis_CRP activator Fis activator",0.08
+910,regulon_CsgD_CsgD repressor,0.079
+911,"regulon_ArcA,LexA_ArcA repressor LexA repressor",0.078
+912,"regulon_ArcA,CadC,GadE-RcsB,GadX,H-NS,Lrp_ArcA repressor CadC activator GadE-RcsB activator GadX activator H-NS repressor Lrp activator",0.078
+913,"regulon_CRP,GlpR_CRP activator GlpR repressor",0.078
+914,"regulon_HypT,MetJ,PhoP_HypT activator MetJ repressor PhoP activator",0.078
+915,"regulon_CRP,EbgR_CRP activator EbgR repressor",0.078
+916,codon_CCC_(-3),0.078
+917,regulon_SdiA_SdiA repressor,0.077
+918,codon_CCC_(-2),0.077
+919,regulon_NadR_NadR repressor,0.077
+920,"regulon_ArcA,FNR,NarL_ArcA activator FNR activator NarL activator",0.077
+921,regulon_TyrR_TyrR repressor,0.077
+922,codon_CGG_(-3),0.076
+923,codon_CCC_(+1),0.076
+924,COG_W_(+2),0.076
+925,codon_CGG_(+3),0.075
+926,codon_TGT_(-2),0.075
+927,regulon_ArgP_ArgP activator,0.075
+928,"regulon_CRP,GalR,GalS,H-NS,HU_CRP activator GalR repressor GalS repressor H-NS repressor HU repressor",0.075
+929,regulon_DcuR_DcuR activator,0.075
+930,codon_CGG_(+2),0.074
+931,codon_CCC_(+2),0.074
+932,regulon_ArcA_ArcA repressor,0.074
+933,"regulon_DcuR,FNR,NarL_DcuR activator FNR activator NarL repressor",0.074
+934,"regulon_Cbl,CysB_Cbl activator CysB activator",0.074
+935,TFBS_Fis,0.074
+936,"regulon_CRP,CaiF,FNR_CRP activator CaiF activator FNR activator",0.074
+937,codon_TGT_(-1),0.074
+938,"regulon_H-NS,IHF_H-NS repressor IHF activator",0.074
+939,regulon_NagC_NagC activator,0.074
+940,regulon_MprA_MprA repressor,0.073
+941,"regulon_ArcA,FadR,Fis_ArcA repressor FadR repressor Fis activator",0.073
+942,codon_CCC_(-1),0.073
+943,codon_TGT_(+1),0.073
+944,"regulon_FNR,H-NS,NrdR_FNR activator H-NS repressor NrdR repressor",0.073
+945,codon_CCC_(+3),0.072
+946,"regulon_AsnC,Nac_AsnC repressor Nac repressor",0.072
+947,"regulon_CRP,NagC,NanR_CRP activator NagC repressor NanR repressor",0.071
+948,COG_Q_(-2),0.071
+949,regulon_Fis_Fis dual,0.071
+950,riboswitch_(+1),0.071
+951,"regulon_ArcA,CRP,FNR,IHF,NarL_ArcA activator CRP activator FNR activator IHF activator NarL repressor",0.071
+952,regulon_MlrA_MlrA activator,0.071
+953,codon_CGG_(-1),0.07
+954,"regulon_CRP,GalR,GalS,HU_CRP repressor GalR dual GalS dual HU repressor",0.07
+955,"regulon_ArcA,CRP,FNR_ArcA repressor CRP activator FNR repressor",0.07
+956,"regulon_ArcA,FNR,IHF_ArcA activator FNR repressor IHF activator",0.07
+957,regulon_DhaR_DhaR activator,0.07
+958,TFBS_YeiE,0.07
+959,codon_TGT_(+3),0.069
+960,codon_TGT_(-3),0.069
+961,gene_rRNA_(-2),0.069
+962,"regulon_CRP,DnaA,Fis,PurR_CRP activator DnaA repressor Fis repressor PurR repressor",0.069
+963,codon_CGG_(-2),0.068
+964,"regulon_AdiY,CRP,Fis,FliZ,GadE,GadW,GadX,RcsB_AdiY activator CRP repressor Fis repressor FliZ repressor GadE activator GadW dual GadX activator RcsB activator",0.068
+965,"regulon_CRP,GntR_CRP activator GntR repressor",0.068
+966,"regulon_ArcA,FNR,PuuR_ArcA repressor FNR repressor PuuR repressor",0.068
+967,"regulon_ArcA,CRP,TreR_ArcA activator CRP repressor CRP unknown TreR repressor",0.068
+968,regulon_AllS_AllS activator,0.068
+969,COG_X_(+3),0.067
+970,"regulon_ArgR,H-NS_ArgR repressor H-NS activator",0.067
+971,gene_rRNA_(+3),0.066
+972,codon_CGG_(+1),0.066
+973,"regulon_FNR,IHF,PhoB_FNR activator IHF activator PhoB activator",0.066
+974,"regulon_HipAB,HipB_HipAB repressor HipB repressor",0.066
+975,regulon_Rob_Rob activator,0.066
+976,codon_TGT_(+2),0.066
+977,i-modulon_SrlR+GutM,0.065
+978,"regulon_CRP,ExuR,FNR_CRP activator ExuR repressor FNR activator",0.065
+979,"regulon_CRP,GlrR,NtrC,RcsB_CRP activator GlrR activator NtrC activator RcsB activator",0.065
+980,"regulon_ArcA,FNR,H-NS,HypT_ArcA activator FNR repressor H-NS repressor HypT activator",0.065
+981,"regulon_PhoP,PurR,RbsR_PhoP activator PurR repressor RbsR repressor",0.064
+982,"regulon_AscG,CRP_AscG repressor CRP activator",0.064
+983,"regulon_BasR,CRP,CpxR,Cra,CsgD,FliZ,H-NS,IHF,MlrA,MqsA,OmpR,RcdA,RcsAB,RstA_BasR activator CRP activator CpxR repressor Cra activator CsgD activator FliZ repressor H-NS repressor IHF activator MlrA activator MqsA repressor OmpR activator RcdA activator RcsAB repressor RstA repressor",0.064
+984,regulon_Zur_Zur repressor,0.064
+985,"regulon_ArcA,FNR,H-NS_ArcA activator FNR repressor H-NS repressor",0.064
+986,"regulon_FliZ,RstA_FliZ repressor RstA repressor",0.064
+987,"regulon_Cra,Fis,Lrp,NarL_Cra repressor Fis activator Lrp repressor NarL repressor",0.064
+988,"regulon_FhlA,FlhDC_FhlA activator FlhDC activator",0.064
+989,"regulon_AraC,NagC_AraC repressor NagC repressor",0.063
+990,"regulon_CueR,FNR_CueR repressor FNR activator",0.063
+991,"regulon_FNR,Fur,NagC_FNR activator Fur repressor NagC unknown",0.063
+992,"regulon_ArcA,FNR,H-NS_ArcA activator FNR dual H-NS repressor",0.062
+993,"regulon_CpxR,GadE_CpxR activator GadE activator",0.062
+994,"regulon_AraC,CRP,XylR_AraC repressor CRP activator XylR activator",0.062
+995,regulon_GadX_GadX repressor,0.062
+996,"regulon_CRP,Mlc,NagC_CRP activator Mlc repressor NagC repressor",0.062
+997,"regulon_CRP,Cra,Mlc,NagC_CRP activator Cra repressor Mlc repressor NagC repressor",0.061
+998,"regulon_CRP,ExuR,OxyR,UxuR_CRP activator ExuR repressor OxyR repressor UxuR repressor",0.061
+999,regulon_ModE_ModE activator,0.061
+1000,"regulon_CRP,MalI_CRP activator MalI repressor",0.061
+1001,regulon_DnaA_DnaA activator,0.061
+1002,"regulon_EvgA,FNR_EvgA activator FNR activator",0.061
+1003,"regulon_CRP,Lrp,Mlc_CRP activator Lrp activator Mlc repressor",0.06
+1004,"regulon_CRP,Cra_CRP repressor Cra activator",0.06
+1005,"regulon_ArcA,CRP,Cra,Fis_ArcA repressor CRP activator Cra repressor Fis repressor",0.059
+1006,"regulon_AgaR,CRP_AgaR repressor CRP activator",0.059
+1007,"regulon_ArcA,FNR_ArcA activator FNR activator",0.059
+1008,"regulon_H-NS,Lrp_H-NS repressor Lrp activator",0.059
+1009,"regulon_CRP,ZraR_CRP activator ZraR activator",0.059
+1010,"regulon_ArcA,CRP,Cra,FNR,MarA,Rob,SoxS_ArcA repressor CRP activator Cra activator FNR repressor MarA activator Rob activator SoxS activator",0.059
+1011,codon_ATA_(+1),0.059
+1012,"regulon_Nac,PurR_Nac activator PurR repressor",0.058
+1013,"regulon_CRP,DsdC_CRP activator DsdC activator",0.058
+1014,regulon_AlaS_AlaS repressor,0.058
+1015,codon_ATA_(-2),0.058
+1016,"regulon_AdiY,ArcA,CRP,FNR,Fis,GadE-RcsB,GadW,GadX,H-NS,RcsB,TorR_AdiY activator ArcA activator CRP repressor FNR repressor Fis repressor GadE-RcsB activator GadW dual GadX activator H-NS repressor RcsB repressor TorR repressor",0.058
+1017,"regulon_CRP,CspA,Fis_CRP activator CspA activator Fis repressor",0.057
+1018,"regulon_CRP,FNR_CRP activator FNR activator",0.057
+1019,codon_ATA_(+3),0.057
+1020,codon_ATA_(-3),0.057
+1021,"regulon_Cra,GntR,KdgR_Cra repressor GntR repressor KdgR repressor",0.057
+1022,regulon_DpiA_DpiA activator,0.056
+1023,"regulon_FNR,IHF,NarL,NarP,NorR_FNR repressor IHF dual NarL repressor NarP repressor NorR activator",0.056
+1024,"regulon_HypT,MetJ_HypT activator MetJ repressor",0.056
+1025,"regulon_FNR,ModE_FNR repressor ModE activator",0.056
+1026,"regulon_ArcA,CRP,DpiA,FNR,NarL_ArcA activator CRP repressor DpiA activator FNR repressor NarL repressor",0.055
+1027,"regulon_CRP,ModE_CRP activator ModE repressor",0.055
+1028,"regulon_MarA,OxyR,Rob,SoxS_MarA activator OxyR repressor Rob activator SoxS activator",0.055
+1029,codon_CTA_(+2),0.055
+1030,"regulon_CRP,FNR,Fis,GlpR,IHF_CRP activator FNR activator Fis activator GlpR repressor IHF repressor",0.054
+1031,codon_CTA_(+1),0.054
+1032,regulon_NtrC_NtrC repressor,0.054
+1033,"regulon_CRP,Lrp_CRP repressor Lrp activator",0.054
+1034,regulon_BolA_BolA dual,0.054
+1035,regulon_RclR_RclR activator,0.054
+1036,codon_CTA_(-2),0.054
+1037,codon_CTA_(-3),0.053
+1038,"regulon_Fis,Fur_Fis repressor Fur activator",0.053
+1039,codon_CTA_(-1),0.053
+1040,"regulon_CRP,IHF_CRP repressor IHF activator",0.053
+1041,"regulon_MetJ,OxyR_MetJ repressor OxyR activator",0.053
+1042,"regulon_EvgA,H-NS,NagC,NarL,NarP,PhoP,RcsB,UvrY_EvgA activator H-NS repressor NagC repressor NarL activator NarP repressor PhoP repressor RcsB activator UvrY activator",0.053
+1043,codon_CTA_(+3),0.053
+1044,"regulon_CRP,Lrp_CRP dual Lrp repressor",0.053
+1045,codon_ATA_(-1),0.052
+1046,"regulon_MetJ,MetR_MetJ repressor MetR activator",0.052
+1047,regulon_CreB_CreB activator,0.052
+1048,regulon_NanR_NanR repressor,0.051
+1049,"regulon_DcuR,NarL_DcuR activator NarL repressor",0.051
+1050,"regulon_CRP,MurR_CRP activator MurR repressor",0.051
+1051,"regulon_AdiY,H-NS,IHF_AdiY activator H-NS repressor IHF activator",0.051
+1052,regulon_FeaR_FeaR activator,0.05
+1053,codon_ATA_(+2),0.05
+1054,codon_CGA_(-2),0.05
+1055,"regulon_IHF,NtrC_IHF activator NtrC dual",0.05
+1056,regulon_HU_HU repressor,0.05
+1057,"regulon_FNR,GadE,GadW,GadX,H-NS,PhoB,RutR_FNR repressor GadE activator GadW repressor GadX activator H-NS repressor PhoB activator RutR repressor",0.05
+1058,COG_X_(+2),0.049
+1059,"regulon_CsgD,FlhDC,H-NS,IHF,MatA,NsrR,SutR_CsgD repressor FlhDC activator H-NS activator IHF repressor MatA repressor NsrR repressor SutR repressor",0.049
+1060,"regulon_IHF,RtcR_IHF activator RtcR activator",0.049
+1061,"regulon_Fur,PurR_Fur repressor PurR repressor",0.049
+1062,"regulon_NemR,RutR_NemR repressor RutR repressor",0.049
+1063,codon_CGA_(-1),0.049
+1064,"regulon_FNR,Fur,OxyR_FNR activator Fur activator OxyR activator",0.048
+1065,"regulon_BtsR,CRP_BtsR activator CRP activator",0.048
+1066,"regulon_IHF,PspF_IHF activator PspF activator",0.048
+1067,"regulon_FNR,FhlA,NarL,NarP_FNR activator FhlA activator NarL repressor NarP activator",0.048
+1068,regulon_ZntR_ZntR activator,0.048
+1069,"regulon_FliZ,GadE,GadW,GadX,H-NS,Lrp,MarA,PhoP,RcsB,TorR_FliZ repressor GadE activator GadW dual GadX dual H-NS repressor Lrp repressor MarA repressor PhoP activator RcsB activator TorR activator",0.048
+1070,regulon_XapR_XapR activator,0.048
+1071,COG_W_(-3),0.047
+1072,codon_CGA_(+2),0.047
+1073,"regulon_CRP,IHF_CRP repressor IHF repressor",0.047
+1074,codon_CGA_(-3),0.047
+1075,"regulon_H-NS,NhaR_H-NS repressor NhaR unknown NhaR activator",0.047
+1076,regulon_BCCP_BCCP repressor,0.047
+1077,"regulon_ArgP,Lrp_ArgP activator Lrp activator",0.047
+1078,"regulon_CRP,MalT,PhoP_CRP activator MalT activator PhoP activator",0.046
+1079,regulon_ArsR_ArsR repressor,0.046
+1080,regulon_YqhC_YqhC activator,0.046
+1081,COG_W_(-1),0.046
+1082,codon_CGA_(+3),0.046
+1083,regulon_LrhA_LrhA activator,0.046
+1084,"regulon_FliZ,RutR_FliZ repressor RutR repressor",0.045
+1085,regulon_Fur_Fur dual,0.045
+1086,"regulon_BasR,QseB_BasR activator QseB activator",0.045
+1087,"regulon_CRP,Fis_CRP activator Fis repressor",0.045
+1088,"regulon_CRP,IHF,PaaX_CRP activator IHF activator PaaX repressor",0.045
+1089,"regulon_CRP,Mlc_CRP activator Mlc repressor",0.045
+1090,"regulon_ArcA,CRP,FadR,HipB_ArcA repressor CRP activator FadR repressor HipB repressor",0.044
+1091,regulon_MalT_MalT activator,0.044
+1092,regulon_NimR_NimR repressor,0.044
+1093,codon_CGA_(+1),0.044
+1094,regulon_SdiA_SdiA activator,0.044
+1095,"regulon_ArcA,FNR,NarL_ArcA activator FNR repressor NarL activator",0.043
+1096,regulon_DhaR_DhaR repressor,0.043
+1097,COG_X_(-2),0.042
+1098,regulon_YdeO_YdeO activator,0.042
+1099,regulon_AscG_AscG repressor,0.042
+1100,"regulon_FabR,FadR_FabR repressor FadR activator",0.042
+1101,"regulon_CRP,ExuR,UxuR_CRP activator ExuR repressor UxuR repressor",0.041
+1102,"regulon_TrpR,TyrR_TrpR repressor TyrR repressor",0.039
+1103,"regulon_ArcA,CRP,FadR_ArcA repressor CRP activator FadR repressor",0.039
+1104,"regulon_CRP,RhaR,RhaS_CRP activator RhaR activator RhaS unknown RhaS activator",0.038
+1105,COG_X_(+1),0.038
+1106,regulon_OmpR_OmpR activator,0.038
+1107,regulon_TrpR_TrpR repressor,0.038
+1108,"regulon_CRP,Cra_CRP dual Cra activator",0.038
+1109,"regulon_Cra,MarA,SoxS_Cra activator MarA activator SoxS activator",0.038
+1110,"regulon_FNR,Fur,GadX,NtrC_FNR dual Fur dual GadX activator NtrC activator",0.038
+1111,regulon_CRP_CRP dual,0.037
+1112,regulon_Ada_Ada dual,0.037
+1113,"regulon_Fis,Mlc_Fis repressor Mlc repressor",0.037
+1114,"regulon_FNR,PurR_FNR repressor PurR repressor",0.037
+1115,"regulon_ArcA,FNR,Fis,Fur_ArcA activator FNR activator Fis repressor Fur activator",0.037
+1116,regulon_PepA_PepA repressor,0.037
+1117,regulon_RcdA_RcdA activator,0.037
+1118,gene_tRNA_(+2),0.036
+1119,"regulon_ArcA,CRP,FNR,Fis,Fur_ArcA repressor CRP repressor FNR dual Fis activator Fur dual",0.036
+1120,regulon_PutA_PutA repressor,0.036
+1121,"regulon_Ada,AidB,Lrp_Ada activator AidB repressor Lrp repressor",0.036
+1122,"regulon_ArcA,CRP,IHF_ArcA repressor CRP activator IHF activator",0.035
+1123,"regulon_HipAB,HipB,IHF_HipAB repressor HipB repressor IHF activator",0.035
+1124,regulon_IlvY_IlvY activator,0.035
+1125,"regulon_AscG,CRP,PhoB,PrpR_AscG repressor CRP activator PhoB repressor PrpR repressor",0.035
+1126,"regulon_PgrR,TyrR_PgrR repressor TyrR repressor",0.035
+1127,"regulon_AscG,CRP_AscG repressor CRP dual",0.035
+1128,"regulon_ArcA,CRP,Fis,Mlc,SoxS_ArcA repressor CRP activator Fis dual Mlc repressor SoxS activator",0.034
+1129,regulon_PdeL_PdeL activator,0.034
+1130,"regulon_CadC,FNR,H-NS,LeuO,MlrA_CadC activator FNR activator H-NS repressor LeuO repressor MlrA activator",0.034
+1131,"regulon_GadE,H-NS,MatA_GadE activator H-NS activator MatA repressor",0.034
+1132,"regulon_ArcA,CRP,Fur,GadX,MqsA_ArcA repressor CRP activator Fur repressor GadX activator MqsA repressor",0.034
+1133,gene_STS_(+3),0.034
+1134,regulon_PaaX_PaaX repressor,0.033
+1135,"regulon_ArcA,CRP,GlpR_ArcA repressor CRP activator GlpR repressor",0.033
+1136,"regulon_Cra,FNR,Fur,MarA,Rob,SoxS_Cra repressor FNR repressor Fur repressor MarA activator Rob activator SoxS activator",0.033
+1137,"regulon_NorR,NsrR_NorR repressor NsrR repressor",0.033
+1138,"regulon_Cra,TyrR_Cra activator TyrR repressor",0.033
+1139,"regulon_CRP,FeaR,NsrR_CRP activator FeaR activator NsrR repressor",0.033
+1140,"regulon_ArcA,CRP,FNR,Fur,MarA,SoxR,SoxS_ArcA repressor CRP unknown CRP activator FNR repressor Fur repressor MarA activator SoxR activator SoxS activator",0.033
+1141,"regulon_CRP,DpiA,ExuR_CRP activator DpiA activator ExuR repressor",0.033
+1142,"regulon_Fur,SlyA_Fur repressor SlyA repressor",0.033
+1143,"regulon_H-NS,LeuO_H-NS repressor LeuO activator",0.033
+1144,"regulon_GadE-RcsB,PhoB_GadE-RcsB activator PhoB activator",0.033
+1145,"regulon_ArgP,CRP,FNR,Fur,Nac_ArgP activator CRP repressor FNR activator Fur dual Nac repressor",0.032
+1146,regulon_CynR_CynR activator,0.032
+1147,"regulon_CpxR,H-NS_CpxR activator H-NS repressor",0.032
+1148,"regulon_MetR,PurR_MetR dual PurR repressor",0.032
+1149,"regulon_CRP,ExuR_CRP activator ExuR repressor",0.032
+1150,"regulon_ArcA,CRP,DnaA,FNR,MarA,Rob,SoxS_ArcA repressor CRP activator DnaA repressor FNR repressor MarA activator Rob activator SoxS activator",0.032
+1151,"regulon_Fis,MazE,MazE-MazF_Fis activator MazE repressor MazE-MazF repressor",0.032
+1152,"regulon_Fur,RcnR_Fur repressor RcnR repressor",0.032
+1153,"regulon_Lrp,Nac_Lrp activator Nac repressor",0.032
+1154,"regulon_FNR,Fur,GadE_FNR repressor Fur repressor GadE activator",0.032
+1155,"regulon_CRP,GalR,GalS,NagC_CRP activator GalR repressor GalS repressor NagC repressor",0.031
+1156,"regulon_Fis,IHF,NtrC_Fis unknown IHF unknown NtrC activator",0.031
+1157,regulon_IscR_IscR activator,0.031
+1158,"regulon_ArcA,FNR,IHF,NarL_ArcA repressor FNR repressor IHF repressor NarL repressor",0.031
+1159,TFBS_YbaQ,0.031
+1160,COG_W_(+1),0.031
+1161,"regulon_ArcA,CRP,FadR,OmpR,PhoP_ArcA repressor CRP activator FadR repressor OmpR repressor PhoP activator",0.031
+1162,"regulon_CpxR,CsgD,FliZ_CpxR repressor CsgD activator FliZ repressor",0.031
+1163,"regulon_Cra,SgrR_Cra repressor SgrR activator",0.031
+1164,"regulon_CRP,UhpA,UvrY_CRP activator UhpA activator UvrY activator",0.031
+1165,"regulon_ArgR,CRP_ArgR repressor CRP activator",0.031
+1166,"regulon_FNR,Fis,IHF,NarL_FNR activator Fis repressor IHF activator NarL activator",0.031
+1167,"regulon_CRP,OxyR,UxuR_CRP activator OxyR repressor UxuR repressor",0.03
+1168,"regulon_GadE-RcsB,Rob_GadE-RcsB activator Rob activator",0.03
+1169,"regulon_CRP,MarA_CRP repressor MarA activator",0.03
+1170,TFBS_IHF,0.03
+1171,"regulon_ArcA,FNR,Fis,Fur,IHF,NsrR,PdhR_ArcA repressor FNR repressor Fis dual Fur repressor IHF repressor NsrR repressor PdhR repressor",0.03
+1172,"regulon_CRP,Fis,IHF_CRP dual Fis repressor IHF activator",0.03
+1173,"regulon_GadE,MarA,PurR_GadE activator MarA repressor PurR repressor",0.03
+1174,gene_STS_(+1),0.029
+1175,TTS_(-1),0.029
+1176,codon_TAA_(-1),0.029
+1177,regulon_SgrR_SgrR activator,0.029
+1178,codon_TAA_(-2),0.029
+1179,"regulon_ArcA,CRP,DcuR_ArcA repressor CRP activator DcuR activator",0.029
+1180,"regulon_ArcA,CysB,FNR_ArcA activator CysB activator FNR activator",0.029
+1181,codon_TAA_(+1),0.029
+1182,"regulon_CRP,MetJ_CRP repressor MetJ repressor",0.029
+1183,TTS_(+1),0.029
+1184,codon_TAA_(-3),0.028
+1185,"regulon_CRP,CytR,DeoR_CRP dual CytR repressor DeoR repressor",0.028
+1186,"regulon_PdhR,PhoP_PdhR repressor PhoP activator",0.028
+1187,"regulon_ArgP,LysR_ArgP activator LysR activator",0.028
+1188,regulon_MatA_MatA repressor,0.028
+1189,regulon_MatA_MatA activator,0.028
+1190,gene_tRNA_(+3),0.028
+1191,"regulon_HU,IHF,TrpR,TyrR_HU repressor IHF repressor TrpR repressor TyrR activator",0.028
+1192,"regulon_ArcA,GadX,YdeO_ArcA activator GadX activator YdeO activator",0.028
+1193,"regulon_GadE-RcsB,GadW,GadX,H-NS,MarA,YdeO_GadE-RcsB activator GadW repressor GadX activator H-NS repressor MarA repressor YdeO activator",0.028
+1194,"regulon_IHF,Lrp_IHF repressor Lrp repressor",0.028
+1195,"regulon_Fur,MntR,OxyR_Fur repressor MntR repressor OxyR activator",0.027
+1196,"regulon_ArgR,PhoP_ArgR repressor PhoP repressor",0.027
+1197,"regulon_CRP,NadR_CRP repressor NadR repressor",0.027
+1198,"regulon_CRP,Mlc_CRP repressor Mlc repressor",0.027
+1199,codon_AGA_(+1),0.027
+1200,TFBS_FNR,0.027
+1201,"regulon_HU,IHF,TyrR_HU repressor IHF repressor TyrR dual",0.027
+1202,regulon_BluR_BluR repressor,0.027
+1203,regulon_YpdB_YpdB activator,0.027
+1204,TFBS_NarL-Phosphorylated,0.027
+1205,"regulon_GadW,GadX,H-NS,PhoP,SdiA_GadW repressor GadX repressor H-NS repressor PhoP activator SdiA activator",0.027
+1206,codon_TAA_(+3),0.027
+1207,TFBS_ArcA-Phosphorylated,0.027
+1208,codon_TAA_(+2),0.027
+1209,"regulon_CRP,CytR,Nac_CRP activator CytR repressor Nac activator",0.027
+1210,"regulon_CpxR,TyrR_CpxR activator TyrR repressor",0.027
+1211,"regulon_AraC,CRP_AraC activator CRP dual",0.027
+1212,"regulon_FNR,Fur,MetR,NsrR_FNR repressor Fur repressor MetR activator NsrR repressor",0.026
+1213,"regulon_CpxR,EnvY,IHF,Lrp,OmpR,YjjQ_CpxR activator EnvY activator IHF repressor Lrp repressor OmpR activator YjjQ repressor",0.026
+1214,codon_AGA_(+3),0.026
+1215,"regulon_CRP,CpxR,EnvY,Fur,IHF,OmpR,PhoB,RstA_CRP activator CpxR repressor EnvY activator Fur activator IHF dual OmpR dual PhoB activator RstA repressor",0.026
+1216,codon_AGA_(-3),0.026
+1217,regulon_CdaR_CdaR activator,0.025
+1218,"regulon_Fur,RutR_Fur repressor RutR repressor",0.025
+1219,COG_X_(-3),0.025
+1220,"regulon_GadE-RcsB,H-NS_GadE-RcsB activator H-NS repressor",0.025
+1221,codon_AGA_(-1),0.025
+1222,"regulon_AcrR,CRP,FliZ,Fur,H-NS,HdfR,IHF,LrhA,MatA,OmpR,QseB,RcsAB,YjjQ_AcrR repressor CRP activator FliZ repressor Fur repressor H-NS activator HdfR repressor IHF repressor LrhA repressor MatA repressor OmpR repressor QseB activator RcsAB repressor YjjQ repressor",0.024
+1223,codon_AGA_(+2),0.024
+1224,regulon_PspF_PspF repressor,0.024
+1225,"regulon_H-NS,LeuO,LrhA,SlyA_H-NS repressor LeuO activator LrhA activator SlyA activator",0.024
+1226,gene_antisense_RNA_(+2),0.024
+1227,"regulon_IHF,UlaR_IHF repressor UlaR repressor",0.024
+1228,regulon_CynR_CynR repressor,0.024
+1229,"regulon_AcrR,CRP,CpxR,Cra,Fis,MarA,MarR,Rob,SoxS_AcrR repressor CRP activator CpxR activator Cra repressor Fis activator MarA activator MarR repressor Rob activator SoxS activator",0.024
+1230,"regulon_CRP,IHF,MprA,OmpR_CRP activator IHF repressor MprA repressor OmpR repressor",0.024
+1231,regulon_ZraR_ZraR activator,0.024
+1232,"regulon_NsrR,PhoB_NsrR repressor PhoB activator",0.024
+1233,"regulon_EvgA,PhoP,RcsB,YdeO_EvgA activator PhoP repressor RcsB activator YdeO repressor",0.024
+1234,"regulon_CRP,MalI_CRP dual MalI repressor",0.024
+1235,"regulon_CysB,PhoP_CysB repressor PhoP activator",0.023
+1236,codon_AGA_(-2),0.023
+1237,gene_antisense_RNA_(+1),0.023
+1238,"regulon_CRP,GalR,GalS_CRP activator GalR repressor GalS repressor",0.023
+1239,"regulon_CRP,RcsB-BglJ_CRP activator RcsB-BglJ activator",0.023
+1240,"regulon_ArcA,CRP,RhaS_ArcA repressor CRP activator RhaS unknown RhaS activator",0.023
+1241,gene_tRNA_(-1),0.023
+1242,"regulon_GalR,GalS_GalR repressor GalS repressor",0.023
+1243,"regulon_CRP,Fis,H-NS,LeuO,RcsB-BglJ,StpA_CRP activator Fis repressor H-NS repressor LeuO activator RcsB-BglJ activator StpA repressor",0.023
+1244,"regulon_DsdC,NsrR_DsdC repressor NsrR repressor",0.023
+1245,"regulon_Fis,PurR_Fis repressor PurR repressor",0.023
+1246,regulon_MurR_MurR dual,0.022
+1247,regulon_RbsR_RbsR activator,0.022
+1248,"regulon_H-NS,LrhA,Lrp_H-NS repressor LrhA activator Lrp activator",0.022
+1249,TFBS_Fur-Fe<SUP>2+</SUP>,0.022
+1250,regulon_KdgR_KdgR repressor,0.022
+1251,"regulon_AraC,CRP,XylR_AraC dual CRP activator XylR repressor",0.022
+1252,regulon_AsnC_AsnC activator,0.022
+1253,COG_A_(-3),0.022
+1254,"regulon_CysB,NtrC_CysB activator NtrC activator",0.022
+1255,"regulon_H-NS,LeuO,RcsB-BglJ,StpA_H-NS repressor LeuO dual RcsB-BglJ activator StpA repressor",0.022
+1256,regulon_LysR_LysR repressor,0.022
+1257,TSS_(-1),0.022
+1258,COG_U_(-1),0.022
+1259,"regulon_MetJ,MetR_MetJ repressor MetR repressor",0.021
+1260,regulon_GcvA_GcvA repressor,0.021
+1261,regulon_IlvY_IlvY repressor,0.021
+1262,"regulon_CRP,CytR,DnaA_CRP repressor CytR repressor DnaA repressor",0.021
+1263,"regulon_ArcA,CRP,DpiA,FlhDC_ArcA repressor CRP activator DpiA activator FlhDC repressor",0.021
+1264,"regulon_CRP,FNR,Fis,H-NS,SlyA_CRP activator FNR activator Fis repressor H-NS dual SlyA activator",0.021
+1265,regulon_QseB_QseB activator,0.021
+1266,TFBS_CpxR-Phosphorylated,0.021
+1267,TSS_(+1),0.021
+1268,"regulon_FNR,Fur,Nac,NtrC_FNR repressor Fur repressor Nac repressor NtrC activator",0.021
+1269,"regulon_CRP,Rob_CRP dual Rob activator",0.021
+1270,gene_tRNA_(-3),0.021
+1271,regulon_HcaR_HcaR repressor,0.021
+1272,"regulon_ArgP,PhoB_ArgP repressor PhoB activator",0.02
+1273,"regulon_CRP,OxyR_CRP activator OxyR repressor",0.02
+1274,regulon_SutR_SutR repressor,0.02
+1275,"regulon_CRP,Fis,NanR_CRP activator Fis repressor NanR repressor",0.02
+1276,gene_tRNA_(-2),0.02
+1277,"regulon_CRP,IHF,YiaJ_CRP repressor IHF repressor YiaJ repressor",0.02
+1278,"regulon_CRP,Nac,NsrR,PhoB,QseB_CRP activator Nac activator NsrR repressor PhoB repressor QseB repressor",0.02
+1279,gene_ncRNA_(-3),0.02
+1280,"regulon_CpxR,CysB_CpxR activator CysB activator",0.02
+1281,"regulon_CRP,FNR,Fis_CRP repressor FNR repressor Fis repressor",0.02
+1282,"regulon_MarA,Rob,SoxS_MarA repressor Rob repressor SoxS repressor",0.02
+1283,"regulon_CRP,CytR,NsrR_CRP dual CytR repressor NsrR repressor",0.02
+1284,"regulon_BasR,H-NS,IHF,NagC,NanR_BasR activator H-NS repressor IHF activator NagC activator NanR activator",0.019
+1285,"regulon_CRP,Fis,FliZ,IHF,Lrp_CRP repressor Fis repressor FliZ repressor IHF repressor Lrp repressor",0.019
+1286,TFBS_H-NS,0.019
+1287,"regulon_RelB,RelB-RelE_RelB repressor RelB-RelE repressor",0.019
+1288,regulon_Ada_Ada activator,0.019
+1289,"regulon_DpiA,H-NS_DpiA repressor H-NS repressor",0.019
+1290,gene_ncRNA_(+3),0.018
+1291,TFBS_SoxS,0.018
+1292,"regulon_FadR,IclR_FadR activator IclR repressor",0.018
+1293,"regulon_CRP,Cra,Fis_CRP dual Cra activator Fis repressor",0.018
+1294,"regulon_ArcA,GadE,PhoP_ArcA activator GadE activator PhoP activator",0.018
+1295,"regulon_CRP,Cra,Fis,GlcC_CRP activator Cra repressor Fis repressor GlcC repressor",0.018
+1296,"regulon_Fur,YqjI_Fur repressor YqjI repressor",0.018
+1297,gene_antisense_RNA_(+3),0.018
+1298,"regulon_Fur,OxyR_Fur repressor OxyR repressor",0.018
+1299,gene_ncRNA_(+2),0.018
+1300,TFBS_LexA,0.018
+1301,"regulon_CRP,ExuR,UxuR_CRP repressor ExuR repressor UxuR repressor",0.017
+1302,regulon_MqsA_MqsA repressor,0.017
+1303,regulon_RcdA_RcdA repressor,0.017
+1304,"regulon_Fur,MntR_Fur activator MntR activator",0.017
+1305,"regulon_CRP,IHF,NsrR_CRP repressor IHF repressor NsrR repressor",0.017
+1306,gene_tRNA_(+1),0.017
+1307,"regulon_ArcA,FNR,Fur,IHF_ArcA repressor FNR repressor Fur repressor IHF activator",0.017
+1308,regulon_RutR_RutR repressor,0.017
+1309,TFBS_Lrp,0.016
+1310,"regulon_GadE,H-NS,Lrp,NsrR_GadE activator H-NS repressor Lrp repressor NsrR repressor",0.016
+1311,"regulon_BasR,PhoP_BasR repressor PhoP activator",0.016
+1312,codon_AGG_(+1),0.016
+1313,regulon_FliZ_FliZ repressor,0.016
+1314,"regulon_GadE,H-NS,RcsAB_GadE activator H-NS repressor RcsAB activator",0.016
+1315,"regulon_HigA,HigB-HigA_HigA repressor HigB-HigA repressor",0.016
+1316,TFBS_Cra,0.016
+1317,TFBS_YbiH,0.016
+1318,codon_AGG_(+3),0.016
+1319,"regulon_ArcA,CRP,FNR,Fur,IHF,MarA,Rob,SoxS_ArcA repressor CRP activator FNR repressor Fur repressor IHF repressor MarA activator Rob activator SoxS activator",0.016
+1320,"regulon_CRP,CytR_CRP repressor CytR repressor",0.016
+1321,"regulon_FNR,IHF,Lrp,YeiL_FNR repressor IHF activator Lrp activator YeiL activator",0.016
+1322,regulon_TorR_TorR repressor,0.016
+1323,"regulon_OxyR,SoxS_OxyR activator SoxS activator",0.015
+1324,regulon_AcrR_AcrR repressor,0.015
+1325,"regulon_BasR,CpxR,PdhR_BasR activator CpxR activator PdhR repressor",0.015
+1326,"regulon_FNR,NarL,NarP,NsrR_FNR repressor NarL activator NarP activator NsrR repressor",0.015
+1327,gene_antisense_RNA_(-1),0.015
+1328,TFBS_GadX,0.015
+1329,"regulon_Fur,SoxS,Zur_Fur activator SoxS activator Zur repressor",0.015
+1330,"regulon_ArcA,CRP,FNR,NarL_ArcA repressor CRP repressor FNR dual NarL repressor",0.014
+1331,codon_TGA_(-2),0.014
+1332,"regulon_DinJ-YafQ,LexA_DinJ-YafQ repressor LexA repressor",0.014
+1333,"regulon_FNR,YqjI_FNR activator YqjI repressor",0.014
+1334,"regulon_CRP,GntR,IdnR_CRP activator GntR repressor IdnR repressor",0.014
+1335,regulon_UidR_UidR repressor,0.013
+1336,"regulon_FadR,IHF_FadR repressor IHF activator",0.013
+1337,codon_AGG_(+2),0.013
+1338,terminator_rho_(-1),0.013
+1339,"regulon_CRP,IHF_CRP activator IHF repressor",0.013
+1340,"regulon_GadE,GadX,H-NS,PhoP,RcsB_GadE activator GadX activator H-NS repressor PhoP activator RcsB activator",0.013
+1341,codon_AGG_(-2),0.013
+1342,regulon_UvrY_UvrY activator,0.013
+1343,TFBS_CysB-<i>O</i>-acetyl-L-serine,0.013
+1344,"regulon_Fis,NarL,NarP,NsrR_Fis repressor NarL activator NarP activator NsrR repressor",0.013
+1345,codon_TGA_(-3),0.013
+1346,codon_AGG_(-1),0.013
+1347,TFBS_YddM,0.013
+1348,TFBS_OxyR,0.012
+1349,TFBS_PhoP-Phosphorylated,0.012
+1350,codon_TGA_(-1),0.012
+1351,TFBS_YieP,0.012
+1352,TFBS_YdcI-acetate,0.012
+1353,TFBS_YdcI-ph5,0.012
+1354,TFBS_ArgR-L-arginine,0.012
+1355,"regulon_Fis,NarL_Fis repressor NarL activator",0.012
+1356,codon_AGG_(-3),0.012
+1357,regulon_SutR_SutR dual,0.012
+1358,"regulon_IHF,Lrp_IHF activator Lrp repressor",0.012
+1359,codon_TGA_(+2),0.012
+1360,codon_TGA_(+1),0.012
+1361,regulon_BasR_BasR activator,0.012
+1362,COG_A_(+2),0.012
+1363,"regulon_Fis,H-NS,IHF,MntR,OxyR_Fis repressor H-NS repressor IHF activator MntR repressor OxyR activator",0.012
+1364,"regulon_ArcA,FNR_ArcA repressor FNR repressor",0.012
+1365,"regulon_LexA,RcdA_LexA repressor RcdA repressor",0.012
+1366,"regulon_Fur,H-NS_Fur activator H-NS repressor",0.011
+1367,"regulon_Fis,H-NS,Lrp,StpA_Fis repressor H-NS repressor Lrp repressor StpA repressor",0.011
+1368,"regulon_YefM,YefM-YoeB_YefM repressor YefM-YoeB repressor",0.011
+1369,TFBS_NsrR,0.011
+1370,gene_ncRNA_(+1),0.011
+1371,codon_TGA_(+3),0.011
+1372,TFBS_MarA,0.011
+1373,"regulon_CRP,LexA_CRP activator LexA repressor",0.011
+1374,TFBS_PhoB-Phosphorylated,0.011
+1375,"regulon_AcrR,FNR,Fur,SoxR_AcrR repressor FNR repressor Fur repressor SoxR repressor",0.011
+1376,"regulon_H-NS,Lrp,NhaR,RcsB_H-NS repressor Lrp repressor NhaR activator RcsB activator",0.011
+1377,"regulon_IHF,TyrR_IHF activator TyrR activator",0.011
+1378,"regulon_CspA,Fis,GadX,H-NS_CspA activator Fis activator GadX activator H-NS repressor",0.011
+1379,"regulon_CRP,FNR,H-NS,NarL_CRP activator FNR activator H-NS repressor NarL repressor",0.01
+1380,regulon_MraZ_MraZ repressor,0.01
+1381,TFBS_NagC,0.01
+1382,"regulon_CpxR,NsrR_CpxR repressor NsrR repressor",0.0099
+1383,TFBS_Lrp-leucine,0.0099
+1384,regulon_CysB_CysB repressor,0.0099
+1385,"regulon_ArcA,CRP,FNR,Fis,Fur,PdhR_ArcA activator CRP activator FNR dual Fis activator Fur repressor PdhR repressor",0.0099
+1386,TFBS_NtrC-Phosphorylated,0.0098
+1387,gene_antisense_RNA_(-3),0.0096
+1388,"regulon_H-NS,Lrp,StpA_H-NS repressor Lrp activator StpA repressor",0.0096
+1389,regulon_FadR_FadR repressor,0.0095
+1390,"regulon_CRP,PhoB_CRP repressor PhoB activator",0.0094
+1391,gene_ncRNA_(-2),0.0094
+1392,"regulon_H-NS,OmpR_H-NS repressor OmpR repressor",0.0094
+1393,"regulon_Fis,H-NS_Fis activator H-NS repressor",0.0092
+1394,TFBS_OmpR-Phosphorylated,0.009
+1395,"regulon_ArcA,FNR,PhoP_ArcA activator FNR activator PhoP activator",0.0089
+1396,"regulon_H-NS,PhoB,RcdA,RstA_H-NS repressor PhoB activator RcdA activator RstA activator",0.0085
+1397,TFBS_CytR,0.0084
+1398,regulon_RcnR_RcnR repressor,0.0082
+1399,"regulon_FNR,NsrR_FNR repressor NsrR repressor",0.0081
+1400,regulon_DinJ-YafQ_DinJ-YafQ repressor,0.008
+1401,gene_ncRNA_(-1),0.0079
+1402,"regulon_IHF,UvrY_IHF activator UvrY activator",0.0079
+1403,"regulon_AcrR,FNR,Fur,SoxR,SoxS_AcrR repressor FNR repressor Fur repressor SoxR activator SoxS repressor",0.0078
+1404,gene_tmRNA_(+2),0.0078
+1405,"regulon_BasR,Fis_BasR activator Fis repressor",0.0077
+1406,regulon_YhaJ_YhaJ activator,0.0077
+1407,regulon_McbR_McbR repressor,0.0077
+1408,TFBS_GlpR,0.0076
+1409,"regulon_FNR,FlhDC_FNR activator FlhDC activator",0.0075
+1410,TFBS_CsgD,0.0075
+1411,"regulon_ArgR,CRP_ArgR repressor CRP repressor",0.0074
+1412,regulon_MntR_MntR repressor,0.0073
+1413,TFBS_GadW,0.0073
+1414,TFBS_PurR-hypoxanthine,0.0073
+1415,TFBS_FadR,0.007
+1416,"regulon_CRP,H-NS,MqsA_CRP activator H-NS activator MqsA repressor",0.0067
+1417,"regulon_Fis,H-NS,Lrp,StpA_Fis activator H-NS repressor Lrp repressor StpA repressor",0.0067
+1418,"regulon_H-NS,McbR_H-NS repressor McbR activator",0.0066
+1419,TFBS_ArgP,0.0065
+1420,"regulon_CRP,ComR_CRP repressor ComR repressor",0.0064
+1421,TFBS_Rob,0.0061
+1422,TFBS_FlhDC,0.0059
+1423,TFBS_TyrR-tyrosine,0.0058
+1424,"regulon_LexA,NagC_LexA repressor NagC repressor",0.0058
+1425,TFBS_MetJ-adenosylmethionine,0.0058
+1426,TFBS_YafC,0.0056
+1427,terminator_rho_(+1),0.0055
+1428,TFBS_NarP-Phosphorylated,0.0053
+1429,"regulon_CRP,UvrY_CRP repressor UvrY activator",0.0053
+1430,gene_rRNA_(-3),0.0052
+1431,TFBS_AraC-arabinose,0.0051
+1432,origin,0.005
+1433,TFBS_RcsB-BglJ,0.0049
+1434,TFBS_IscR,0.0049
+1435,regulon_OmpR_OmpR repressor,0.0049
+1436,TFBS_FliZ,0.0048
+1437,"regulon_Fis,IHF,OmpR_Fis activator IHF activator OmpR repressor",0.0048
+1438,TFBS_AgaR,0.0047
+1439,regulon_DnaA_DnaA repressor,0.0045
+1440,TFBS_LeuO,0.0045
+1441,regulon_GcvA_GcvA activator,0.0044
+1442,TFBS_Nac,0.0044
+1443,TFBS_GntR,0.0042
+1444,TFBS_YheO,0.0041
+1445,"regulon_GlrR,IHF_GlrR activator IHF activator",0.004
+1446,TFBS_ExuR,0.0039
+1447,codon_TAG_(+3),0.0037
+1448,TFBS_ModE-MoO<sub>4</sub><sup>2-</sup>,0.0036
+1449,regulon_LeuO_LeuO activator,0.0035
+1450,TFBS_Mlc,0.0035
+1451,gene_antisense_RNA_(-2),0.0034
+1452,TFBS_SlyA,0.0034
+1453,TFBS_BasR-Phosphorylated,0.0034
+1454,TFBS_YdeO,0.0034
+1455,TFBS_MalT-maltotriose-ATP,0.0033
+1456,TFBS_PdhR,0.0033
+1457,TFBS_HipB,0.0033
+1458,codon_TAG_(+1),0.0032
+1459,TFBS_EvgA-Phosphorylated,0.0031
+1460,TFBS_SoxR,0.0031
+1461,TFBS_UxuR,0.0031
+1462,codon_TAG_(-1),0.003
+1463,TFBS_MlrA,0.003
+1464,codon_TAG_(+2),0.0029
+1465,TFBS_DnaA-ATP,0.0028
+1466,TFBS_TrpR-tryptophan,0.0028
+1467,codon_TAG_(-2),0.0028
+1468,TFBS_MntR-Mn<SUP>2+</SUP>,0.0028
+1469,"regulon_AcrR,H-NS,HU,IHF,Lrp,MarA,OmpR,Rob,SoxS_AcrR repressor H-NS repressor HU activator IHF repressor Lrp repressor MarA activator OmpR activator Rob activator SoxS activator",0.0027
+1470,TFBS_RcsB-P<sup>asp56</sup>,0.0027
+1471,TFBS_YbaO,0.0027
+1472,TFBS_PaaX,0.0026
+1473,TFBS_HipAB,0.0025
+1474,TFBS_NhaR-Na<SUP>+</SUP>,0.0025
+1475,TFBS_DeoR,0.0024
+1476,TFBS_GalS,0.0024
+1477,TFBS_GalR,0.0024
+1478,TFBS_YiaJ,0.0024
+1479,TFBS_GlrR-P<sup>asp56</sup>,0.0024
+1480,TFBS_XylR-xylose,0.0024
+1481,TFBS_LrhA,0.0023
+1482,"regulon_GadW,GadX,RcsB_GadW repressor GadX activator RcsB activator",0.0023
+1483,"regulon_CpxR,RcsB_CpxR activator RcsB activator",0.0023
+1484,TFBS_YjjQ,0.0023
+1485,TFBS_DcuR-Phosphorylated,0.0022
+1486,TFBS_RhaS-&alpha;-L-rhamnopyranose,0.0022
+1487,TFBS_GadE,0.0022
+1488,"regulon_CRP,TorR_CRP activator TorR activator",0.0021
+1489,TFBS_FhlA-formate,0.0021
+1490,TFBS_MqsA,0.0021
+1491,codon_TAG_(-3),0.0021
+1492,TFBS_GalS-&beta;-D-galactose,0.0021
+1493,TFBS_GalR-&beta;-D-galactose,0.0021
+1494,TFBS_NrdR-Zn<SUP>2+</SUP>,0.0021
+1495,TFBS_Ada,0.002
+1496,TFBS_AscG,0.002
+1497,Shine-Dalgarno_(-1),0.002
+1498,TFBS_RutR,0.002
+1499,TFBS_GcvA,0.0019
+1500,TFBS_RcsAB,0.0019
+1501,regulon_LeuO_LeuO repressor,0.0019
+1502,"regulon_CRP,CpxR_CRP activator CpxR repressor",0.0019
+1503,TFBS_RcdA,0.0019
+1504,Shine-Dalgarno_(+1),0.0018
+1505,TFBS_FeaR,0.0018
+1506,TFBS_ArgP-arginine,0.0017
+1507,TFBS_AcrR,0.0017
+1508,TFBS_PepA,0.0017
+1509,TFBS_UlaR,0.0017
+1510,TFBS_Cbl,0.0017
+1511,TFBS_BaeR-Phosphorylated,0.0017
+1512,TFBS_PuuR,0.0017
+1513,TFBS_IclR-pyruvate,0.0016
+1514,TFBS_MelR-melibiose,0.0016
+1515,TFBS_DpiA-P<sup>asp</sup>,0.0016
+1516,TFBS_Zur-Zn<SUP>2+</SUP>,0.0015
+1517,TFBS_SgrR,0.0015
+1518,TFBS_RstA-Phosphorylated,0.0014
+1519,TFBS_CaiF-L-carnitine,0.0014
+1520,TFBS_MprA,0.0014
+1521,TFBS_LacI,0.0014
+1522,TFBS_TorR-Phosphorylated,0.0013
+1523,TFBS_MetR-L-homocysteine,0.0013
+1524,TFBS_CreB-Phosphorylated,0.0012
+1525,TFBS_HprR-Phosphorylated,0.0012
+1526,TFBS_CueR-Cu<SUP>+</SUP>,0.0012
+1527,TFBS_SdiA,0.0012
+1528,TFBS_AsnC,0.0012
+1529,TFBS_TyrR,0.0012
+1530,TFBS_NanR,0.0012
+1531,TFBS_QseB-Phosphorylated,0.0011
+1532,TFBS_YqjI,0.0011
+1533,TFBS_PspF,0.0011
+1534,TFBS_CusR-P<sup>asp</sup>,0.0011
+1535,TFBS_IscR-2Fe-2S,0.0011
+1536,"TFBS_PrpR-(2<i>S</i>,3<i>S</i>)-2-methylcitrate",0.001
+1537,TFBS_HigB-HigA,0.001
+1538,TFBS_RelB-RelE,0.001
+1539,TFBS_MurR,0.001
+1540,TFBS_LldR,0.00099
+1541,TFBS_YqhC,0.00099
+1542,TFBS_IdnR-5-ketogluconate,0.00097
+1543,TFBS_MngR,0.00095
+1544,TFBS_MarR,0.00095
+1545,TFBS_McbR,0.00093
+1546,TFBS_KdgR,0.0009
+1547,TFBS_SutR,0.0009
+1548,TFBS_MazE-MazF,0.0009
+1549,TFBS_BirA-biotinyl-5'-adenylate,0.00088
+1550,TFBS_MazE,0.00088
+1551,TFBS_TorR-TorI,0.00086
+1552,TFBS_RbsR,0.00086
+1553,TFBS_UhpA-Phosphorylated,0.00086
+1554,TFBS_NorR,0.00084
+1555,TFBS_AtoC-Phosphorylated,0.00084
+1556,TFBS_HU,0.00084
+1557,TFBS_ChbR,0.00082
+1558,TFBS_ChbR-<i>N</i>-monoacetylchitobiose 6'-phosphate,0.00082
+1559,TFBS_UvrY-Phosphorylated,0.00082
+1560,TFBS_TyrR-phenylalanine,0.00078
+1561,TFBS_FabR,0.00078
+1562,TFBS_MelR,0.00078
+1563,TFBS_IlvY,0.00078
+1564,TFBS_IlvY-(<i>S</i>)-2-acetolactate,0.00078
+1565,TFBS_MalI,0.00078
+1566,TFBS_Dan-L-tartrate,0.00078
+1567,TFBS_RhaS,0.00075
+1568,TFBS_AlaS-L-alanine,0.00075
+1569,TFBS_TreR,0.00073
+1570,TFBS_AraC,0.00073
+1571,TFBS_RhaR-&alpha;-L-rhamnopyranose,0.00073
+1572,TFBS_ZraR-Phosphorylated,0.00073
+1573,TFBS_AllR-allantoin,0.00073
+1574,TFBS_DinJ-YafQ,0.00073
+1575,TFBS_PutA,0.00065
+1576,TFBS_MetR,0.00065
+1577,TFBS_RcnR,0.00065
+1578,TFBS_BtsR-Phosphorylated,0.00065
+1579,TFBS_MraZ,0.00065
+1580,TFBS_NikR-Ni<SUP>2+</SUP>,0.00062
+1581,TFBS_HigA,0.0006
+1582,TFBS_AidB,0.00058
+1583,TFBS_YefM,0.00058
+1584,TFBS_YefM-YoeB,0.00058
+1585,TFBS_XapR-xanthosine,0.00056
+1586,TFBS_PdeL,0.00054
+1587,TFBS_ArsR,0.00052
+1588,TFBS_EnvR,0.00052
+1589,TFBS_RelB,0.00052
+1590,TFBS_LldR-(<i>S</i>)-lactate,0.0005
+1591,TFBS_YpdB-Phosphorylated,0.00047
+1592,TFBS_ZntR-Zn<SUP>2+</SUP>,0.00047
+1593,TFBS_CspA,0.00045
+1594,TFBS_DicA,0.00045
+1595,TFBS_BluR,0.00045
+1596,TFBS_CecR,0.00045
+1597,TFBS_GadE-RcsB,0.00045
+1598,TFBS_BetI,0.00043
+1599,TFBS_RbsR-D-ribose,0.00043
+1600,TFBS_HyfR,0.00039
+1601,TFBS_FadR-acyl-CoA,0.00039
+1602,"TFBS_ExuR-&alpha;-D-galacturonate, &alpha;-D-glucuronate",0.00039
+1603,TFBS_CynR,0.00039
+1604,TFBS_CynR-cyanate,0.00039
+1605,TFBS_KdpE-Phosphorylated,0.00039
+1606,TFBS_NemR,0.00037
+1607,TFBS_IdnR,0.00034
+1608,TFBS_UidR,0.00034
+1609,TFBS_AllS-(<i>S</i>)-(+)-allantoin,0.00034
+1610,TFBS_GlcC-glycolate,0.00032
+1611,TFBS_MhpR-3HPP,0.00032
+1612,TFBS_TdcA,0.00032
+1613,TFBS_PgrR,0.00032
+1614,TFBS_HcaR,0.00028
+1615,TFBS_HcaR-HCA,0.00028
+1616,TFBS_TdcR,0.00026
+1617,amino_acid_U_(+3),6.50E-05
+1618,amino_acid_U_(-1),6.50E-05
+1619,amino_acid_U_(-2),6.50E-05
+1620,gene_STS_(+2),0
+1621,gene_STS_(-1),0
+1622,gene_STS_(-2),0
+1623,gene_STS_(-3),0
+1624,gene_tmRNA_(+1),0
+1625,gene_tmRNA_(+3),0
+1626,gene_tmRNA_(-1),0
+1627,gene_tmRNA_(-2),0
+1628,gene_tmRNA_(-3),0
+1629,COG_W_(+3),0
+1630,COG_W_(-2),0
+1631,COG_X_(-1),0
+1632,COG_A_(+1),0
+1633,COG_A_(+3),0
+1634,COG_A_(-1),0
+1635,COG_A_(-2),0
+1636,amino_acid_U_(+1),0
+1637,amino_acid_U_(+2),0
+1638,amino_acid_U_(-3),0
+1639,repeat_region_(-1),0
