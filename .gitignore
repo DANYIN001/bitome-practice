@@ -1,0 +1,5 @@
+# ignore the local_cache directory
+local_cache/*
+
+# PyCharm profile settings
+.idea/
