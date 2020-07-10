@@ -3,3 +3,6 @@ local_cache/*
 
 # PyCharm profile settings
 .idea/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
