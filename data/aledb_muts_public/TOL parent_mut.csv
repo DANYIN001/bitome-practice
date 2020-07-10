@@ -1,0 +1,5 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,TOL parent A0 F0 I1 R1
+43128,NC_000913,"3,560,455",INS,+G,"glpR, glpR",,"pseudogene, DNA-binding transcriptional repressor,regulator, Energy metabolism, carbon: Anaerobic respiration, repressor of the glp operon/pseudogene, DNA-binding transcriptional repressor,regulator, Energy metabolism, carbon: Anaerobic respiration, repressor of the glp operon",,,intergenic (‑2/+1),1.00
+37947,NC_000913,"4,296,381",INS,+GC,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+587/+55),1.00
+26102,NC_000913,"257,908",DEL,Δ776 bp,[crl],,[crl],,,,1.00
+43127,NC_000913,"2,173,363",DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS,transport, Transport of small molecules: Carbohydrates, organic acids, alcohols, PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS,transport, Transport of small molecules: Carbohydrates, organic acids, alcohols, PTS system galactitol-specific enzyme IIC",,,intergenic (‑1/+1),1.00

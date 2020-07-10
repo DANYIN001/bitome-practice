@@ -1,0 +1,19 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,OxidizeME PQ3 A18 F36 I1 R1
+85467,NC_000913,"3,041,634",SNP,A→C,ygfZ,,"iron-sulfur cluster repair protein, plumbagin resistance",,,T108P (ACC→CCC),1.00
+26102,NC_000913,"257,908",DEL,Δ776 bp,[crl],,[crl],,,,1.00
+37947,NC_000913,"4,296,381",INS,+GC,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+587/+55),1.00
+83890,NC_000913,"3,815,859",DEL,Δ82 bp,"[rph],[rph]",,"[rph],[rph]",,,,1.00
+37945,NC_000913,"3,560,455",INS,+G,"glpR, glpR",,"pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon/pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon",,,intergenic (‑2/+1),1.00
+85469,NC_000913,"4,184,543",SNP,C→A,rpoB,,"RNA polymerase, beta subunit",,,P1100Q (CCG→CAG),1.00
+37938,NC_000913,"1,979,486",MOB,IS5 (+) +4 bp,"insA, uspC",,IS1 repressor TnpA/universal stress protein,,,intergenic (‑271/‑264),1.00
+37939,NC_000913,"2,173,363",DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,intergenic (‑1/+1),1.00
+85461,NC_000913,"124,241",SNP,C→T,aceE,,"pyruvate dehydrogenase, decarboxylase component E1, thiamine triphosphate-binding",,,Q409* (CAG→TAG),1.00
+85462,NC_000913,"754,446",SNP,A→G,gltA,,citrate synthase,,,L8P (CTC→CCC),1.00
+85463,NC_000913,"760,485",SNP,G→A,sucA,,"2-oxoglutarate decarboxylase, thiamine triphosphate-binding",,,G594S (GGC→AGC),1.00
+85464,NC_000913,"1,293,032",MOB,IS1 (–) +8 bp,"hns, tdk",,global DNA-binding transcriptional dual regulator H-NS/thymidine kinase/deoxyuridine kinase,,,intergenic (‑110/‑488),1.00
+85465,NC_000913,"2,368,101",SNP,T→C,arnA,,fused UDP-L-Ara4N formyltransferase/UDP-GlcA C-4'-decarboxylase,,,A21A (GCT→GCC),1.00
+83866,NC_000913,"1,978,503",DEL,Δ776 bp,"insB1,insA",,"insB1,insA",,,,1.00
+61055,NC_000913,"696,470",SNP,C→T,glnX,,tRNA-Gln,,,noncoding (35/75 nt),1.00
+85468,NC_000913,"4,001,645",DEL,Δ5 bp,corA,,magnesium/nickel/cobalt transporter,,,coding (220‑224/951 nt),1.00
+85466,NC_000913,"2,661,821",SNP,C→G,iscR,,isc operon transcriptional repressor; suf operon transcriptional activator; oxidative stress- and iron starvation-inducible; autorepressor,,,C104S (TGC→TCC),1.00
+39445,NC_000913,"2,132,787",SNP,A→C,wcaA,,putative glycosyl transferase,,,I204S (ATC→AGC),1.00

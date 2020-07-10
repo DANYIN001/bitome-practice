@@ -1,0 +1,26 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,SSW AC A1 F56 I1 R1,SSW AC A2 F57 I1 R1,SSW AC A3 F53 I1 R1,SSW AC A4 F55 I1 R1
+40640,NC_000913,"2,966,745",SNP,C→A,ptsP,,PEP-protein phosphotransferase enzyme I; GAF domain containing protein,,,E564* (GAA→TAA),,,1.00,
+40641,NC_000913,"907,236",SNP,G→A,ybjT,,putative NAD-dependent oxidoreductase,,,G349G (GGC→GGT),,1.00,,
+40642,NC_000913,"1,132,064",SNP,G→T,flgD,,flagellar hook assembly protein,,,E71* (GAA→TAA),,1.00,,
+40643,NC_000913,"1,907,447",SNP,C→A,"cspC, yobF",,"stress protein, member of the CspA-family/DUF2527 family heat-induced protein",,,intergenic (‑12/+1),,1.00,,
+40644,NC_000913,"2,151,223",DEL,(T)6→5,yegJ,,uncharacterized protein,,,coding (39/462 nt),,1.00,,
+26102,NC_000913,"257,908",DEL,Δ776 bp,[crl],,[crl],,,,1.00,1.00,1.00,1.00
+40646,NC_000913,"4,606,809",SNP,C→A,rsmC,,"16S rRNA m(2)G1207 methyltransferase, SAM-dependent",,,E298* (GAG→TAG),,1.00,,
+40592,NC_000913,"3,815,859",DEL,Δ82 bp,"[rph], [rph]",,"[rph], [rph]",,,,,1.00,,
+37945,NC_000913,"3,560,455",INS,+G,"glpR, glpR",,"pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon/pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon",,,intergenic (‑2/+1),1.00,1.00,1.00,1.00
+40645,NC_000913,"3,050,297",SNP,C→T,gcvT,,"aminomethyltransferase, tetrahydrofolate-dependent, subunit (T protein) of glycine cleavage complex",,,W124* (TGG→TAG),,1.00,,
+40635,NC_000913,"3,966,667",SNP,G→T,rho,,transcription termination factor,,,S84I (AGC→ATC),,,1.00,1.00
+37938,NC_000913,"1,979,486",MOB,IS5 (+) +4 bp,"insA, uspC",,IS1 repressor TnpA/universal stress protein,,,intergenic (‑271/‑264),,1.00,,
+37939,NC_000913,"2,173,363",DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,intergenic (‑1/+1),1.00,1.00,1.00,1.00
+40628,NC_000913,"1,879,829",MOB,Δ1 bp :: IS186 (+) +6 bp :: Δ1 bp,yeaR,,"DUF1971 family protein, nitrate-inducible",,,coding (115‑120/360 nt),1.00,,,
+40629,NC_000913,"2,019,460",SNP,G→A,fliK,,flagellar hook-length control protein,,,V359I (GTC→ATC),1.00,,1.00,1.00
+40630,NC_000913,"2,108,006",SNP,A→T,glf,,"UDP-galactopyranose mutase, FAD/NAD(P)-binding",,,D108E (GAT→GAA),1.00,,,
+40631,NC_000913,"3,222,566",SNP,C→A,"ebgR, ebgA",,"transcriptional repressor/evolved beta-D-galactosidase, alpha subunit",,,intergenic (+117/‑67),1.00,,,
+40632,NC_000913,"3,890,075",MOB,IS5 (–) +4 bp,tnaA,,"tryptophanase/L-cysteine desulfhydrase, PLP-dependent",,,coding (1346‑1349/1416 nt),1.00,,1.00,1.00
+40633,NC_000913,"3,966,720",SNP,C→T,rho,,transcription termination factor,,,R102C (CGC→TGC),1.00,,,
+40634,NC_000913,"4,543,608",MOB,Δ1 bp :: IS186 (+) +6 bp :: Δ1 bp,fimA,,major type 1 subunit fimbrin (pilin),,,coding (494‑499/549 nt),1.00,,,
+37947,NC_000913,"4,296,381",INS,+GC,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+587/+55),1.00,1.00,1.00,1.00
+40636,NC_000913,"1,196,220",SNP,C→T,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,H366H (CAC→CAT),,,1.00,
+40637,NC_000913,"1,196,232",SNP,C→T,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,T370T (ACC→ACT),,,1.00,
+40638,NC_000913,"1,196,245",SNP,T→C,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,L375M (TTA→CTG),,,1.00,
+40639,NC_000913,"1,196,247",SNP,A→G,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,L375M (TTA→CTG),,,1.00,

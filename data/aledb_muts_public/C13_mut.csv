@@ -1,0 +1,36 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,C13 A1 F58 I1 R1,C13 A1 F133 I1 R1,C13 A1 F134 I1 R1,C13 A2 F58 I1 R1,C13 A3 F57 I1 R1,C13 A3 F133 I1 R1,C13 A4 F59 I1 R1,C13 A4 F135 I1 R1,C13 A5 F54 I1 R1,C13 A5 F135 I1 R1,C13 A6 F58 I1 R1,C13 A6 F133 I1 R1
+43363,NC_000913,"1,263,642",SNP,T→G,"lolB, hemA",,lipoprotein localization factor/glutamyl tRNA reductase,,,intergenic (‑142/‑72),,,,,,,,,,,,1.00
+26183,NC_000913,"1,978,503",DEL,Δ776 bp,"insB1, insA",,"insB1, insA",,,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,
+43214,NC_000913,"2,470,410",DEL,(T)7→6,gtrS,,"serotype-specific glucosyl transferase, CPS-53 (KpLE1) prophage",,,coding (1280/1332 nt),,,,,,,,,,,1.00,
+26191,NC_000913,"1,299,499",DEL,"Δ1,199 bp","ychE, oppA",,UPF0056 family inner membrane protein/oligopeptide ABC transporter periplasmic binding protein,,,intergenic (+254/‑485),,,,1.00,,,,,,,,
+43344,NC_000913,"1,293,038",MOB,IS1 (+) +9 bp,"hns, tdk",,global DNA-binding transcriptional dual regulator H-NS/thymidine kinase/deoxyuridine kinase,,,intergenic (‑116/‑481),,1.00,,,,,,,,,,
+43345,NC_000913,"4,184,809",SNP,G→T,rpoB,,"RNA polymerase, beta subunit",,,G1189C (GGT→TGT),1.00,1.00,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,,
+43346,NC_000913,"666,777",SNP,G→T,mrdA,,"penicillin-binding protein 2, transpeptidase involved in peptidoglycan synthesis",,,P481T (CCT→ACT),,,,,,,,,,1.00,,
+43347,NC_000913,"1,293,180",MOB,IS5 (+) +4 bp,"hns, tdk",,global DNA-binding transcriptional dual regulator H-NS/thymidine kinase/deoxyuridine kinase,,,intergenic (‑258/‑344),,,,,,,,,,1.00,,
+43348,NC_000913,"100,801",SNP,G→T,murC,,UDP-N-acetylmuramate:L-alanine ligase,,,V13L (GTG→TTG),,,1.00,,,,,,,,,
+43349,NC_000913,"1,212,088",INS,(C)8→9,"iraM, ycgX",,"RpoS stabilzer during Mg starvation, anti-RssB factor/DUF1398 family protein",,,intergenic (‑85/+615),,,1.00,,,,,,,,,
+43350,NC_000913,"1,529,175",SNP,T→C,rhsE,,"pseudogene, Rhs family",,,pseudogene (1274/2037 nt),,,1.00,,,,,,,,,1.00
+43351,NC_000913,"1,529,180",SNP,T→C,rhsE,,"pseudogene, Rhs family",,,pseudogene (1279/2037 nt),,,1.00,,,,,,,,,1.00
+43352,NC_000913,"1,529,185",SNP,C→T,rhsE,,"pseudogene, Rhs family",,,pseudogene (1284/2037 nt),,,1.00,,,,,,,,,1.00
+43353,NC_000913,"1,529,203",SNP,C→A,rhsE,,"pseudogene, Rhs family",,,pseudogene (1302/2037 nt),,,1.00,,,,,,,,,1.00
+43354,NC_000913,"1,529,218",SNP,C→T,rhsE,,"pseudogene, Rhs family",,,pseudogene (1317/2037 nt),,,1.00,,,,,,,,,1.00
+43355,NC_000913,"2,257,595",DEL,Δ6 bp,psuG,,pseudouridine 5'-phosphate glycosidase,,,coding (768‑773/939 nt),,,1.00,,,,,,,,,
+43356,NC_000913,"2,917,484",INS,+C,barA,,"hybrid sensory histidine kinase, in two-component regulatory system with UvrY",,,coding (2428/2757 nt),,,1.00,,,,,,,,,
+43357,NC_000913,"3,497,416",DEL,Δ13 bp,nirC,,nitrite transporter,,,coding (414‑426/807 nt),,,1.00,,,,,,,,,
+43358,NC_000913,"4,183,214",SNP,C→T,rpoB,,"RNA polymerase, beta subunit",,,T657I (ACC→ATC),,,1.00,,,,,,,,,
+43359,NC_000913,"2,809,552",SNP,T→G,"ygaY, ygaZ",,"pseudogene, major facilitator transporter superfamily,putative transport, Not classified, putative transport protein/putative L-valine exporter, norvaline resistance protein",,,intergenic (+59/‑65),,,,,,,,1.00,,,,
+43360,NC_000913,"2,966,822",SNP,T→A,ptsP,,"PEP-protein phosphotransferase enzyme I, GAF domain containing protein",,,Q538L (CAG→CTG),,,,,,,,1.00,,,,
+40592,NC_000913,"3,815,859",DEL,Δ82 bp,"[rph], [rph]",,"[rph], [rph]",,,,,1.00,,,1.00,1.00,,1.00,,,,
+43362,NC_000913,"3,815,806",SNP,A→C,"pyrE, rph",,"orotate phosphoribosyltransferase/ribonuclease PH (defective),enzyme, Degradation of RNA, RNase PH",,,intergenic (‑38/+28),,,,1.00,,,,,,,,
+43299,NC_000913,"3,815,810",DEL,Δ1 bp,"pyrE, rph",,"orotate phosphoribosyltransferase/ribonuclease PH (defective),enzyme, Degradation of RNA, RNase PH",,,intergenic (‑42/+24),,,1.00,,,,1.00,,1.00,1.00,,
+43364,NC_000913,"1,292,997",MOB,IS2 (–) +5 bp,"hns, tdk",,global DNA-binding transcriptional dual regulator H-NS/thymidine kinase/deoxyuridine kinase,,,intergenic (‑75/‑526),,,,,,,,,,,,1.00
+43365,NC_000913,"1,381,114",SNP,G→C,ycjV,,"pseudogene, putative ATP-binding component of a transport system",,,pseudogene (294/957 nt),,,,,,,,,,,,1.00
+43366,NC_000913,"2,769,750",INS,(GGCTGTCA)2→3,yfjR,,"CP4-57 prophage, putative DNA-binding transcriptional regulator",,,coding (48/702 nt),,,,,,,,,,,,1.00
+43367,NC_000913,"4,186,115",INS,(TTCCGCTGG)1→2,rpoC,,"RNA polymerase, beta prime subunit",,,coding (766/4224 nt),,,,,,,,,,,,1.00
+43368,NC_000913,"3,815,829",DEL,Δ26 bp,[rph],,[rph],,,,1.00,,,,,,,,,,,
+43369,NC_000913,"1,606,148",MOB,IS2 (+) +5 bp,lsrF,,putative autoinducer-2 (AI-2) aldolase,,,coding (49‑53/876 nt),,,,,,,,,,,1.00,
+43370,NC_000913,"4,185,540",SNP,C→T,rpoC,,"RNA polymerase, beta prime subunit",,,P64L (CCG→CTG),,,,,,,,,,,1.00,
+43371,NC_000913,"3,854,297",SNP,G→A,emrD,,multidrug efflux system protein,,,E126K (GAA→AAA),,,,,,,1.00,,,,,
+43372,NC_000913,"4,630,277",SNP,C→T,ettA,,energy-dependent translational throttle A,,,P82P (CCG→CCA),,,,,1.00,,,,,,,
+43373,NC_000913,"1,293,034",MOB,IS1 (+) +8 bp,"hns, tdk",,global DNA-binding transcriptional dual regulator H-NS/thymidine kinase/deoxyuridine kinase,,,intergenic (‑112/‑486),,,,,,1.00,,,,,,
+43361,NC_000913,"3,972,042",INS,(CCTGGC)2→3,wecC,,UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase,,,coding (783/1263 nt),,,,,,,,1.00,,,,

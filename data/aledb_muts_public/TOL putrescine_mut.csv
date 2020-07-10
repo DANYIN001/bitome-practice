@@ -1,0 +1,82 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,TOL putrescine A1 F50 I1 R1,TOL putrescine A1 F50 I2 R1,TOL putrescine A2 F50 I1 R1,TOL putrescine A2 F50 I2 R1,TOL putrescine A2 F50 I3 R1,TOL putrescine A3 F50 I1 R1,TOL putrescine A3 F50 I2 R1,TOL putrescine A3 F50 I3 R1,TOL putrescine A4 F50 I1 R1,TOL putrescine A4 F50 I2 R1,TOL putrescine A4 F50 I3 R1,TOL putrescine A5 F50 I1 R1,TOL putrescine A5 F50 I2 R1,TOL putrescine A5 F50 I3 R1,TOL putrescine A6 F50 I1 R1,TOL putrescine A6 F50 I2 R1,TOL putrescine A6 F50 I3 R1,TOL putrescine A7 F50 I1 R1,TOL putrescine A7 F50 I2 R1,TOL putrescine A7 F50 I3 R1
+81920,NC_000913,"3,816,611",SNP,C→A,"rph, yicC",,"ribonuclease PH (defective),enzyme, Degradation of RNA, RNase PH/UPF0701 family protein",,,intergenic (‑62/‑65),,,1.00,1.00,1.00,,,,,,,,,,,,,,,
+81921,NC_000913,"3,823,025",SNP,G→A,spoT,,"bifunctional (p)ppGpp synthetase II/ guanosine-3',5'-bis pyrophosphate 3'-pyrophosphohydrolase",,,R209H (CGT→CAT),,,1.00,1.00,1.00,,,,,,,,,,,,,,,
+83842,NC_000913,"4,392,456",SNP,A→G,"glyV, glyX",,tRNA-Gly/tRNA-Gly,,,intergenic (+21/‑16),,,,,,,,1.00,,,,,,,,,,,,
+83843,NC_000913,"1,907,273",INS,(CGTCCTG)1→2,cspC,,"stress protein, member of the CspA-family",,,coding (163/210 nt),1.00,1.00,,,,,,,,,,,,,,,,,,
+83844,NC_000913,"3,400,986",SNP,A→C,mreB,,"cell wall structural complex MreBCD, actin-like component MreB",,,N34K (AAT→AAG),1.00,1.00,,,,,,,,,,,,,,,,,,
+83845,NC_000913,"4,186,706",SNP,G→A,rpoC,,"RNA polymerase, beta prime subunit",,,V453I (GTT→ATT),1.00,1.00,,,,,,,,,,,,,,,,,,
+83846,NC_000913,"962,922",SNP,G→T,rpsA,,30S ribosomal subunit protein S1,,,D310Y (GAC→TAC),,,,,,,,,,,,,,,1.00,,,,,
+83841,NC_000913,"4,392,453",SNP,C→T,"glyV, glyX",,tRNA-Gly/tRNA-Gly,,,intergenic (+18/‑19),,,,,,,,1.00,,,,,,,,,,,,
+83848,NC_000913,"3,400,811",SNP,G→T,mreB,,"cell wall structural complex MreBCD, actin-like component MreB",,,H93N (CAC→AAC),,,,,,,,,,,,,,,1.00,,,,,
+83849,NC_000913,"3,823,799",SNP,G→A,spoT,,"bifunctional (p)ppGpp synthetase II/ guanosine-3',5'-bis pyrophosphate 3'-pyrophosphohydrolase",,,R467H (CGC→CAC),,,,,,,,,,,,,,,1.00,,,,,
+83850,NC_000913,"568,660",SNP,C→T,"emrE, ybcK",,"DLP12 prophage, multidrug resistance protein/DLP12 prophage, putative recombinase",,,intergenic (+13/‑242),,,,,,,,,1.00,,,,,,,,,,,
+83851,NC_000913,"1,755,770",SNP,G→A,pykF,,pyruvate kinase I,,,D25N (GAC→AAC),,,,,,,,,1.00,,,,,,,,,,,
+83852,NC_000913,"2,023,551",MOB,IS5 (+) +3 bp :: +C,fliR,,flagellar export pore protein,,,coding (659‑661/786 nt),,,,,,,,,1.00,,,,,,,,,,,
+83853,NC_000913,"3,401,016",SNP,A→C,mreB,,"cell wall structural complex MreBCD, actin-like component MreB",,,I24M (ATT→ATG),,,,,,,,,1.00,,,,,,,,,,,
+83854,NC_000913,"3,805,056",DEL,(T)8→7,waaS,,"lipopolysaccharide rhamnose:KdoIII transferase, lipopolysaccharide core biosynthesis protein",,,coding (61/936 nt),,,,,,,,,1.00,,,,,,,,,,,
+83855,NC_000913,"3,823,799",SNP,G→T,spoT,,"bifunctional (p)ppGpp synthetase II/ guanosine-3',5'-bis pyrophosphate 3'-pyrophosphohydrolase",,,R467L (CGC→CTC),,,,,,,,,1.00,,,,,,,,,,,
+83856,NC_000913,"3,910,569",DEL,Δ7 bp,pstS,,phosphate ABC transporter periplasmic binding protein,,,coding (951‑957/1041 nt),,,,,,,,,1.00,,,,,,,,,,,
+83857,NC_000913,"4,522,146",SNP,T→A,yjhG,,putative dehydratase,,,D650V (GAT→GTT),,,,,,,,,1.00,,,,,,,,,,,
+81923,NC_000913,"4,257,602",SNP,A→T,lexA,,transcriptional repressor of SOS regulon,,,N163I (AAT→ATT),,,1.00,1.00,1.00,,,,,,,,,,,,,,,
+83809,NC_000913,"83,679",DEL,(TAG)4→3,leuL,,leu operon leader peptide,,,coding (28‑30/87 nt),,,,,,,,,,,,,,,,,,,1.00,
+83847,NC_000913,"3,316,916",SNP,A→C,nusA,,transcription termination/antitermination L factor,,,M204R (ATG→AGG),,,,,,,,,,,,,,,1.00,,,,,
+43308,NC_000913,"3,815,808",DEL,(A)8→7,"pyrE, rph",,"orotate phosphoribosyltransferase/ribonuclease PH (defective),enzyme, Degradation of RNA, RNase PH",,,intergenic (‑40/+26),,,,,,,,,,,,,,,,,,1.00,1.00,1.00
+80947,NC_000913,"2,804,864",DEL,Δ13 bp,proV,,glycine betaine/proline ABC transporter periplasmic binding protein,,,coding (50‑62/1203 nt),,,,,,,,,,,,,1.00,1.00,,,,,,
+40628,NC_000913,"1,879,829",MOB,Δ1 bp :: IS186 (+) +6 bp :: Δ1 bp,yeaR,,"DUF1971 family protein, nitrate-inducible",,,coding (115‑120/360 nt),,,,,,,,,,,,,1.00,1.00,,,,,,
+83815,NC_000913,"3,823,811",SNP,G→A,spoT,,"bifunctional (p)ppGpp synthetase II/ guanosine-3',5'-bis pyrophosphate 3'-pyrophosphohydrolase",,,R471H (CGT→CAT),,,,,,,,,,,,,,,,,,1.00,1.00,1.00
+37947,NC_000913,"4,296,381",INS,+GC,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+587/+55),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+43381,NC_000913,"1,907,448",MOB,IS5 (–) +4 bp,yobF,,DUF2527 family heat-induced protein,,,coding (141‑144/144 nt),,,,,,,,,,,,,1.00,1.00,,,,,,
+83840,NC_000913,"4,392,446",DEL,Δ1 bp,"glyV, glyX",,tRNA-Gly/tRNA-Gly,,,intergenic (+11/‑26),,,,,,,,1.00,,,,,,,,,,,,
+26102,NC_000913,"257,908",DEL,Δ776 bp,[crl],,[crl],,,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+26183,NC_000913,"1,978,503",DEL,Δ776 bp,"insB1, insA",,"insB1, insA",,,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+81865,NC_000913,"3,473,612",SNP,A→C,rpsG,,30S ribosomal subunit protein S7,,,L157* (TTA→TGA),,,,,,,,,,,,,,,,,,1.00,1.00,1.00
+81866,NC_000913,"2,798,597",MOB,IS1 (+) +9 bp,"stpA, alaE",,"DNA binding protein, nucleoid-associated/alanine exporter, alanine-inducible, stress-responsive",,,intergenic (‑102/‑559),,,,,,,,,,,,1.00,,,,,,,,
+43127,NC_000913,"2,173,363",DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS,transport, Transport of small molecules: Carbohydrates, organic acids, alcohols, PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS,transport, Transport of small molecules: Carbohydrates, organic acids, alcohols, PTS system galactitol-specific enzyme IIC",,,intergenic (‑1/+1),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+26191,NC_000913,"1,299,499",DEL,"Δ1,199 bp","ychE, oppA",,UPF0056 family inner membrane protein/oligopeptide ABC transporter periplasmic binding protein,,,intergenic (+254/‑485),,,,,,,,,,,,,1.00,,,,,1.00,,1.00
+43128,NC_000913,"3,560,455",INS,+G,"glpR, glpR",,"pseudogene, DNA-binding transcriptional repressor,regulator, Energy metabolism, carbon: Anaerobic respiration, repressor of the glp operon/pseudogene, DNA-binding transcriptional repressor,regulator, Energy metabolism, carbon: Anaerobic respiration, repressor of the glp operon",,,intergenic (‑2/+1),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+83794,NC_000913,"3,377,150",SNP,C→A,sspA,,"stringent starvation protein A, phage P1 late gene activator, RNAP-associated acid-resistance protein, inactive glutathione S-transferase homolog",,,V91F (GTT→TTT),,,,,,,,,,,,1.00,,,,,,,,
+83795,NC_000913,"3,899,249",SNP,T→G,yieK,,putative 6-phosphogluconolactonase,,,T49P (ACC→CCC),,,,,,,,,,,,1.00,,,,,,,,
+83796,NC_000913,"3,908,805",DEL,Δ2 bp,pstA,,phosphate ABC transporter permease,,,coding (634‑635/891 nt),,,,,,,,,,,,1.00,,,,,,,,
+83797,NC_000913,"3,214,770",SNP,A→C,rpoD,,"RNA polymerase, sigma 70 (sigma D) factor",,,E575A (GAA→GCA),,,,,,,,,,1.00,1.00,,,,,1.00,1.00,,,
+83798,NC_000913,"4,186,551",SNP,T→G,rpoC,,"RNA polymerase, beta prime subunit",,,V401G (GTT→GGT),,,,,,,,,,1.00,1.00,,,,,,,,,
+83799,NC_000913,"1,673,532",DEL,Δ181 bp,"mdtJ, tqsA",,multidrug efflux system transporter/pheromone AI-2 transporter,,,intergenic (‑31/‑201),,,,,,,,,,,,,,,,,1.00,,,
+83800,NC_000913,"3,335,317",SNP,T→G,murA,,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,,,Y393S (TAT→TCT),,,,,,,,,,,,,,,,1.00,1.00,,,
+83801,NC_000913,"4,183,154",SNP,G→T,rpoB,,"RNA polymerase, beta subunit",,,R637L (CGT→CTT),,,,,,1.00,1.00,1.00,,,,,,,,1.00,1.00,,,
+83802,NC_000913,"1,211,308",SNP,G→T,"mcrA, icdC",,"putative 5-methylcytosine/5-hydroxymethylcytosine-specific restriction nuclease, 5-methylcytosine DNA binding protein/pseudogene, isocitrate dehydrogenase C-terminal gene fragment, idcC' is a 54 codon 3' gene fragment created during e14 prophage insertion",,,intergenic (+129/‑105),,,1.00,,1.00,,,,,,,,,,,,,,,
+83803,NC_000913,"2,661,793",SNP,C→A,iscR,,"isc operon transcriptional repressor, suf operon transcriptional activator, oxidative stress- and iron starvation-inducible, autorepressor",,,L113F (TTG→TTT),,,1.00,,1.00,,,,,,,,,,,,,,,
+83804,NC_000913,"2,799,867",SNP,C→A,ygaC,,uncharacterized protein,,,R43L (CGA→CTA),,,1.00,,1.00,,,,,,,,,,,,,,,
+83805,NC_000913,"2,804,946",INS,+T,proV,,glycine betaine/proline ABC transporter periplasmic binding protein,,,coding (132/1203 nt),,,1.00,,1.00,,,,,,,,,,,,,,,
+83806,NC_000913,"2,904,286",DEL,Δ122 bp,"ygcE, queE",,"putative kinase/7-carboxy-7-deazaguanine synthase, queosine biosynthesis",,,intergenic (+912/+340),,,,,1.00,,,,,,,,,,,,,,,
+83807,NC_000913,"4,178,239",SNP,G→T,nusG,,transcription termination factor,,,G166V (GGT→GTT),,,1.00,,1.00,,,,,,,,,,,,,,,
+83808,NC_000913,"4,267,824",SNP,A→C,tyrB,,"tyrosine aminotransferase, tyrosine-repressible, PLP-dependent",,,L237F (TTA→TTC),,,,,1.00,,,,,,,,,,,,,,,
+40592,NC_000913,"3,815,859",DEL,Δ82 bp,"[rph], [rph]",,"[rph], [rph]",,,,,,,,,,,,,,,,1.00,1.00,,,,,,
+83810,NC_000913,"701,233",DEL,Δ1 bp,nagC,,N-acetylglucosamine-inducible nag divergent operon transcriptional repressor,,,coding (362/1221 nt),,,,,,,,,,,,,,,,,,,1.00,
+83811,NC_000913,"2,025,435",SNP,T→A,"dsrA, yedP",,"sRNA antisense regulator enhances translation of RpoS, Hfq-dependent/putative mannosyl-3-phosphoglycerate phosphatase",,,intergenic (‑122/‑76),,,,,,,,,,,,,,,,,,,1.00,
+83812,NC_000913,"2,807,248",INS,+T,proX,,"glycine betaine/proline ABC transporter periplasmic binding protein, cold shock protein",,,coding (117/993 nt),,,,,,,,,,,,,,,,,,1.00,1.00,1.00
+83813,NC_000913,"3,318,960",SNP,C→A,argG,,argininosuccinate synthetase,,,A108A (GCC→GCA),,,,,,,,,,,,,,,,,,1.00,1.00,1.00
+83814,NC_000913,"3,400,195",SNP,G→A,mreB,,"cell wall structural complex MreBCD, actin-like component MreB",,,A298V (GCA→GTA),,,,,,,,,,,,,,,,,,1.00,1.00,1.00
+83793,NC_000913,"3,336,073",SNP,C→G,murA,,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,,,G141A (GGT→GCT),,,,,,,,,,,,1.00,,,,,,,,
+83816,NC_000913,"576,891",SNP,C→T,"nmpC, essD",,"DLP12 prophage, truncated outer membrane porin (pseudogene),IS, phage, Tn, Phage or Prophage Related, outer membrane porin protein, locus of qsr prophage/DLP12 prophage, putative phage lysis protein",,,intergenic (‑66/‑507),,,,,,,,,,,,,1.00,1.00,,,,,,
+83817,NC_000913,"777,151",DEL,Δ48 bp,tolA,,membrane anchored protein in TolA-TolQ-TolR complex,,,coding (810‑857/1266 nt),,,,,,,,,,,,,,1.00,,,,,,
+83818,NC_000913,"962,933",SNP,C→G,rpsA,,30S ribosomal subunit protein S1,,,N313K (AAC→AAG),,,,,,,,,,,,,1.00,1.00,,,,,,
+83819,NC_000913,"1,199,680",MOB,IS1 (+) +8 bp,intE,,"e14 prophage, putative integrase",,,coding (1120‑1127/1128 nt),,,,,,,,,,,,,1.00,1.00,,,,,,
+83820,NC_000913,"3,079,559",SNP,C→T,"cmtB, tktA",,"putative mannitol-specific enzyme IIA component of PTS/transketolase 1, thiamine triphosphate-binding",,,intergenic (‑229/+85),,,,,,,,,,,,,1.00,1.00,,,,,,
+83821,NC_000913,"3,267,294",SNP,G→T,"tdcA, tdcR",,tdc operon transcriptional activator/L-threonine dehydratase operon activator protein,,,intergenic (‑229/‑86),,,,,,,,,,,,,,1.00,,,,,,
+83822,NC_000913,"4,282,760",SNP,T→C,yjcF,,pentapeptide repeats protein,,,R106G (AGA→GGA),,,,,,,,,,,,,,1.00,,,,,,
+83823,NC_000913,"2,678,755",MOB,IS5 (–) +4 bp,yphF,,putative sugar ABC transporter periplasmic binding protein,,,coding (610‑613/984 nt),,,,1.00,,,,,,,,,,,,,,,,
+83824,NC_000913,"2,774,809",DEL,(A)7→6,yfjW,,"CP4-57 prophage, putative inner membrane protein",,,coding (1492/1704 nt),,,,1.00,,,,,,,,,,,,,,,,
+83825,NC_000913,"3,400,453",SNP,T→G,mreB,,"cell wall structural complex MreBCD, actin-like component MreB",,,E212A (GAA→GCA),,,,1.00,,,,,,,,,,,,,,,,
+83826,NC_000913,"3,911,366",INS,+T,pstS,,phosphate ABC transporter periplasmic binding protein,,,coding (160/1041 nt),,,,1.00,,,,,,,,,,,,,,,,
+83827,NC_000913,"562,667",SNP,T→C,sfmH,,"FimA homolog, function unknown",,,F111S (TTC→TCC),,,,,,,,,,,,,,,,,,,,1.00
+83828,NC_000913,"700,785",DEL,Δ47 bp,nagC,,N-acetylglucosamine-inducible nag divergent operon transcriptional repressor,,,coding (764‑810/1221 nt),,,,,,,,,,,,,,,,,,,,1.00
+83829,NC_000913,"1,934,806",SNP,C→T,"edd, zwf",,6-phosphogluconate dehydratase/glucose-6-phosphate 1-dehydrogenase,,,intergenic (‑202/+33),,,1.00,,,,,,,,,,,,,,,,,
+83830,NC_000913,"2,018,716",INS,(CGGTGGCTG)1→2,fliK,,flagellar hook-length control protein,,,coding (331/1128 nt),,,1.00,,,,,,,,,,,,,,,,,
+83831,NC_000913,"457,406",DEL,(CAAAGAA)2→1,"clpP, clpX",,proteolytic subunit of ClpA-ClpP and ClpX-ClpP ATP-dependent serine proteases/ATPase and specificity subunit of ClpX-ClpP ATP-dependent serine protease,,,intergenic (+106/‑14),,,,,,1.00,,,,,,,,,,,,,,
+83832,NC_000913,"665,554",SNP,C→T,mrdB,,cell wall shape-determining protein,,,E254K (GAA→AAA),,,,,,1.00,1.00,1.00,,,,,,,,,,,,
+83833,NC_000913,"1,907,410",MOB,IS5 (+) +4 bp,cspC,,"stress protein, member of the CspA-family",,,coding (23‑26/210 nt),,,,,,1.00,1.00,1.00,,,,,,,,,,,,
+83834,NC_000913,"2,805,131",INS,+T,proV,,glycine betaine/proline ABC transporter periplasmic binding protein,,,coding (317/1203 nt),,,,,,1.00,1.00,1.00,,,,,,,,,,,,
+83835,NC_000913,"4,452,005",SNP,G→A,ytfR,,putative sugar ABC transporter ATPase,,,T316T (ACG→ACA),,,,,,,,,,1.00,,,,,,,,,,
+83836,NC_000913,"3,197,154",DEL,Δ12 bp,glnE,,fused deadenylyltransferase/adenylyltransferase for glutamine synthetase,,,coding (2477‑2488/2841 nt),,,,,,,,,,,,,1.00,,,,,,,
+83837,NC_000913,"4,186,186",SNP,G→C,rpoC,,"RNA polymerase, beta prime subunit",,,L279L (CTG→CTC),,,,,,,,,,,,,1.00,,,,,,,
+83838,NC_000913,"962,473",SNP,A→T,rpsA,,30S ribosomal subunit protein S1,,,D160V (GAT→GTT),,,,,,,1.00,1.00,,,,,,,,,,,,
+83839,NC_000913,"1,236,007",DEL,Δ50 bp,ycgB,,SpoVR family stationary phase protein,,,coding (1186‑1235/1533 nt),,,,,,,,1.00,,,,,,,,,,,,

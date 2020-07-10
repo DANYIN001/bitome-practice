@@ -1,0 +1,25 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,MG1655-M9-NC_000913_3gb-stationary-37-monomethyl_succinate2 A1 F15 I0 R1,MG1655-M9-NC_000913_3gb-stationary-37-monomethyl_succinate2 A1 F15 I1 R1,MG1655-M9-NC_000913_3gb-stationary-37-monomethyl_succinate2 A2 F12 I0 R1,MG1655-M9-NC_000913_3gb-stationary-37-monomethyl_succinate2 A2 F12 I1 R1
+43392,NC_000913,"4,296,286",SNP,C→T,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+492/+150),0.21,,0.22,
+43395,NC_000913,"4,296,380",INS,+CG,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+586/+56),,,1.00,
+43463,NC_000913,"4,296,380",INS,+C,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+586/+56),0.95,,,
+43464,NC_000913,"4,296,380",INS,+G,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+586/+56),0.95,,,
+80407,NC_000913,"526,792",SNP,A→C,rhsD,,Rhs protein with DUF4329 family putative toxin domain; putative neighboring cell growth inhibitor,,,S1178R (AGC→CGC),0.24,,,
+43352,NC_000913,"1,529,185",SNP,C→T,rhsE,,"pseudogene, Rhs family",,,pseudogene (1284/2037 nt),1.00,1.00,1.00,1.00
+43350,NC_000913,"1,529,175",SNP,T→C,rhsE,,"pseudogene, Rhs family",,,pseudogene (1274/2037 nt),1.00,1.00,1.00,1.00
+43351,NC_000913,"1,529,180",SNP,T→C,rhsE,,"pseudogene, Rhs family",,,pseudogene (1279/2037 nt),1.00,1.00,1.00,1.00
+80408,NC_000913,"526,800",SNP,A→G,rhsD,,Rhs protein with DUF4329 family putative toxin domain; putative neighboring cell growth inhibitor,,,E1180E (GAA→GAG),0.23,,,
+43353,NC_000913,"1,529,203",SNP,C→A,rhsE,,"pseudogene, Rhs family",,,pseudogene (1302/2037 nt),1.00,1.00,1.00,1.00
+43354,NC_000913,"1,529,218",SNP,C→T,rhsE,,"pseudogene, Rhs family",,,pseudogene (1317/2037 nt),1.00,1.00,1.00,1.00
+83866,NC_000913,"1,978,503",DEL,Δ776 bp,"insB1,insA",,"insB1,insA",,,,1.00,1.00,1.00,1.00
+80350,NC_000913,"712,864",INS,(TGCCACAGGG)1→2,"ybfF, seqA",,acyl-CoA esterase/negative modulator of initiation of replication,,,intergenic (‑62/‑123),,,,1.00
+80351,NC_000913,"712,875",INS,+C,"ybfF, seqA",,acyl-CoA esterase/negative modulator of initiation of replication,,,intergenic (‑73/‑112),1.00,1.00,,
+43389,NC_000913,"4,296,190",SNP,A→G,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+396/+246),,,0.30,
+83897,NC_000913,"526,796",SNP,C→G,rhsD,,Rhs protein with DUF4329 family putative toxin domain; putative neighboring cell growth inhibitor,,,A1179G (GCG→GGG),0.24,,,
+37939,NC_000913,"2,173,363",DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,intergenic (‑1/+1),,1.00,,1.00
+26102,NC_000913,"257,908",DEL,Δ776 bp,[crl],,[crl],,,,1.00,1.00,1.00,1.00
+80440,NC_000913,"712,853",INS,+GTGCCACAGG,"ybfF, seqA",,acyl-CoA esterase/negative modulator of initiation of replication,,,intergenic (‑51/‑134),,,1.00,
+37945,NC_000913,"3,560,455",INS,+G,"glpR, glpR",,"pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon/pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon",,,intergenic (‑2/+1),1.00,1.00,1.00,1.00
+37947,NC_000913,"4,296,381",INS,+GC,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+587/+55),,1.00,,1.00
+80317,NC_000913,"2,173,361",DEL,Δ2 bp,gatC,,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,pseudogene (1‑2/442 nt),1.00,,1.00,
+43390,NC_000913,"4,296,191",SNP,A→C,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+397/+245),,,0.30,
+43391,NC_000913,"4,296,268",SNP,T→C,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+474/+168),0.32,,0.35,

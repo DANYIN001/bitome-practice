@@ -1,0 +1,25 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,Central carbon knockout sdh A0 F0 I1 R1,Central carbon knockout sdh A20 F176 I0 R1,Central carbon knockout sdh A20 F176 I1 R1,Central carbon knockout sdh A20 F176 I2 R1,Central carbon knockout sdh A22 F178 I0 R1,Central carbon knockout sdh A22 F178 I1 R1,Central carbon knockout sdh A22 F178 I2 R1,Central carbon knockout sdh A23 F176 I0 R1,Central carbon knockout sdh A23 F176 I1 R1,Central carbon knockout sdh A23 F176 I2 R1
+77122,NC_000913,"759,776",SNP,C→A,sucA,,"2-oxoglutarate decarboxylase, thiamine triphosphate-binding",,,D357E (GAC→GAA),,,,,0.60,,,,,
+39115,NC_000913,"4,296,189",SNP,A→G,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+396/+248),,0.37,,,0.52,,,0.37,,
+26183,NC_000913,"1,978,503",DEL,Δ776 bp,"insB1, insA",,"insB1, insA",,,,,1.00,1.00,1.00,,1.00,1.00,,1.00,1.00
+77131,NC_000913,"3,951,560",SNP,C→T,ilvG,,"pseudogene, acetolactate synthase 2 large subunit, valine-insensitive, acetolactate synthase II, large subunit, cryptic, interrupted",,,pseudogene (20/663 nt),,,,,0.40,,,,,
+39116,NC_000913,"4,296,190",SNP,A→C,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+397/+247),,0.40,,,0.59,,,0.33,,
+77069,NC_000913,"762,329",DEL,Δ19 bp,sucB,,dihydrolipoyltranssuccinase,,,coding (808‑826/1218 nt),,,,1.00,,,,,,
+77070,NC_000913,"2,396,911",SNP,G→A,nuoH,,"NADH:ubiquinone oxidoreductase, membrane subunit H",,,T177I (ACC→ATC),0.23,,,,,,,,,
+26191,NC_000913,"1,299,499",DEL,"Δ1,199 bp","ychE, oppA",,UPF0056 family inner membrane protein/oligopeptide ABC transporter periplasmic binding protein,,,intergenic (+254/‑485),1.00,1.00,,,1.00,,,,,
+77073,NC_000913,"759,912",SNP,C→A,sucA,,"2-oxoglutarate decarboxylase, thiamine triphosphate-binding",,,R403S (CGT→AGT),,,,,,1.00,,,,
+77138,NC_000913,"186,454",SNP,A→C,glnD,,uridylyltransferase,,,L733V (TTA→GTA),,,1.00,,,,,,,
+77139,NC_000913,"754,410",SNP,A→G,gltA,,citrate synthase,,,V20A (GTG→GCG),,,1.00,,,,,,,
+39445,NC_000913,"2,132,787",SNP,A→C,wcaA,,putative glycosyl transferase,,,I204S (ATC→AGC),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+77078,NC_000913,"665,856",SNP,A→G,mrdB,,cell wall shape-determining protein,,,L153P (CTG→CCG),,0.45,,,,,,,,
+77080,NC_000913,"758,697",SNP,G→T,"sdhB, sucA",,"succinate dehydrogenase, FeS subunit/2-oxoglutarate decarboxylase, thiamine triphosphate-binding",,,intergenic (+292/‑9),,0.50,,,,,,,,
+38171,NC_000913,"3,815,858",DEL,Δ82 bp,"[rph], [rph]",,"[rph], [rph]",,,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+77047,NC_000913,"759,508",DEL,(TGAACGTGCTGG)2→1,sucA,,"2-oxoglutarate decarboxylase, thiamine triphosphate-binding",,,coding (803‑814/2802 nt),,,,,,,,,1.00,
+38503,NC_000913,"4,001,644",DEL,Δ5 bp,corA,,magnesium/nickel/cobalt transporter,,,coding (220‑224/951 nt),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+77058,NC_000913,"2,876,424",SNP,G→A,"cysD, iap",,"sulfate adenylyltransferase, subunit 2/aminopeptidase in alkaline phosphatase isozyme conversion",,,intergenic (‑97/‑155),,,,,,,,0.78,1.00,1.00
+77037,NC_000913,"4,296,154",SNP,T→C,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+361/+283),,,,,,,,0.23,,
+77039,NC_000913,"761,422",SNP,C→T,sucA,,"2-oxoglutarate decarboxylase, thiamine triphosphate-binding",,,A906V (GCC→GTC),,,,,,,1.00,,,
+77040,NC_000913,"2,876,374",SNP,G→T,"cysD, iap",,"sulfate adenylyltransferase, subunit 2/aminopeptidase in alkaline phosphatase isozyme conversion",,,intergenic (‑47/‑205),,,,,,,1.00,,,
+77041,NC_000913,"186,409",SNP,C→T,glnD,,uridylyltransferase,,,A748T (GCG→ACG),,,,,,,,0.34,,1.00
+26102,NC_000913,"257,908",DEL,Δ776 bp,[crl],,[crl],,,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+38199,NC_000913,"4,184,542",SNP,C→A,rpoB,,"RNA polymerase, beta subunit",,,P1100Q (CCG→CAG),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00

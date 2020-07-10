@@ -1,0 +1,87 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,TM GluGly A1 F1 I1 R1,TM GluGly A2 F1 I1 R1,TM GluGly A3 F1 I1 R1,TM GluGly A4 F1 I1 R1,TM GluGly A5 F1 I1 R1,TM GluGly A6 F1 I1 R1
+40496,NC_021214,"1,110",INS,+66 bp,"TMARI_RS09660, TMARI_RS00005",,hypothetical protein/IGHMBP2 family helicase,,,intergenic (+1035/+2045),1.00,1.00,1.00,1.00,1.00,1.00
+40497,NC_021214,"30,321",SNP,G→A,TMARI_RS00135,,peptide ABC transporter substrate-binding protein,,,Q327* (CAG→TAG),,,1.00,,,
+40498,NC_021214,"66,952",SNP,C→T,TMARI_RS00310,,ketohydroxyglutarate aldolase,,,H91Y (CAC→TAC),,,1.00,,,
+40499,NC_021214,"531,887",DEL,Δ1 bp,"TMARI_RS02580, TMARI_RS02585",,ABC transporter permease/molecular chaperone GroES,,,intergenic (‑320/‑355),1.00,1.00,1.00,1.00,1.00,1.00
+40500,NC_021214,"621,104",SNP,C→T,TMARI_RS03010,,manganese-dependent inorganic pyrophosphatase,,,D331N (GAT→AAT),,,1.00,,,
+40501,NC_021214,"1,073,831",SNP,A→G,TMARI_RS05405,,MFS transporter,,,L152P (CTC→CCC),,,1.00,,,
+40502,NC_021214,"1,104,046",SNP,C→T,TMARI_RS05545,,TrkA family potassium uptake protein,,,A78V (GCG→GTG),,,1.00,,,
+40503,NC_021214,"1,814,273",DEL,(CCCT)2→1,"TMARI_RS09830, TMARI_RS09405",,DUF4896 domain-containing protein/maltose/maltodextrin ABC transporter substrate-binding protein MalE,,,intergenic (‑48/+60),1.00,1.00,1.00,1.00,1.00,1.00
+40504,NC_021214,"1,815,540",DEL,Δ28 bp,"TMARI_RS09405, TMARI_RS09410",,maltose/maltodextrin ABC transporter substrate-binding protein MalE/alpha-amylase,,,intergenic (‑23/‑201),1.00,1.00,1.00,1.00,1.00,1.00
+40505,NC_021214,"253,934",SNP,G→A,TMARI_RS01225,,hypothetical protein,,,D165N (GAT→AAT),,,,1.00,1.00,1.00
+40506,NC_021214,"441,262",SNP,C→T,gldA,,glycerol dehydrogenase,,,C204Y (TGC→TAC),,,,1.00,1.00,
+40507,NC_021214,"448,951",SNP,T→C,TMARI_RS02175,,methyl-accepting chemotaxis protein 1,,,R536R (AGA→AGG),1.00,1.00,,1.00,1.00,
+40508,NC_021214,"529,409",SNP,A→G,TMARI_RS02570,,ABC transporter ATP-binding protein,,,S45P (TCG→CCG),,,,1.00,1.00,
+40509,NC_021214,"588,234",SNP,C→T,carB,,carbamoyl-phosphate synthase large chain,,,P200P (CCG→CCA),,,,1.00,1.00,
+40510,NC_021214,"1,478,808",INS,(AAAGAATTTT)1→2,TMARI_RS07485,,HD domain-containing protein,,,coding (32/1281 nt),,,,,1.00,
+40511,NC_021214,"1,568,476",SNP,G→T,TMARI_RS08065,,peptide chain release factor 2,,,S5I (AGT→ATT),,,,1.00,1.00,
+40512,NC_021214,"1,645,029",SNP,A→G,TMARI_RS08475,,DNA-binding response regulator,,,L114P (CTT→CCT),,,,1.00,1.00,
+40513,NC_021214,"1,828,119",SNP,A→G,TMARI_RS09445,,ROK family transcriptional regulator,,,V20A (GTT→GCT),,,,1.00,1.00,
+40514,NC_021214,"32,473",DEL,"Δ1,603 bp",TMARI_RS00145,,TMARI_RS00145,,,,1.00,,,,,
+40515,NC_021214,"453,837",SNP,A→G,"TMARI_RS02190, TMARI_RS02195",,carbohydrate ABC transporter substrate-binding protein/pectate trisaccharide-lyase,,,intergenic (‑207/‑40),1.00,1.00,,,,
+40516,NC_021214,"619,041",SNP,C→T,TMARI_RS03000,,gfo/Idh/MocA family oxidoreductase,,,W173* (TGG→TGA),1.00,1.00,,,,
+40517,NC_021214,"620,909",SNP,C→T,TMARI_RS03010,,manganese-dependent inorganic pyrophosphatase,,,G396R (GGA→AGA),1.00,1.00,,,,
+40518,NC_021214,"1,577,174",SNP,C→T,TMARI_RS08125,,peptidase C11,,,E979K (GAA→AAA),1.00,1.00,,,,
+40519,NC_021214,"1,831,868",SNP,T→C,"TMARI_RS09460, TMARI_RS09465",,sugar ABC transporter substrate-binding protein/carbohydrate ABC transporter permease,,,intergenic (‑123/+144),1.00,1.00,,,,
+40520,NC_021214,"1,831,886",SNP,C→A,"TMARI_RS09460, TMARI_RS09465",,sugar ABC transporter substrate-binding protein/carbohydrate ABC transporter permease,,,intergenic (‑141/+126),1.00,1.00,,,,
+40521,NC_021214,"1,811,372",INS,(TATCTTCTGAA)1→2,TMARI_RS09395,,maltose ABC transporter permease,,,coding (1154/2502 nt),,1.00,,,,
+40522,NC_021214,"8,781",SNP,C→T,TMARI_RS00030,,NADH-quinone oxidoreductase subunit NuoF,,,C558Y (TGT→TAT),,,,,,1.00
+40523,NC_021214,"51,724",SNP,G→A,TMARI_RS00255,,"xylan alpha-1,2-glucuronosidase",,,L644L (CTC→CTT),,,,,,1.00
+40524,NC_021214,"70,289",SNP,G→A,TMARI_RS00325,,mannonate dehydratase,,,D116N (GAT→AAT),,,,,,1.00
+40525,NC_021214,"153,436",SNP,C→T,"TMARI_RS00715, TMARI_RS00720",,ribosome silencing factor/glutamine--fructose-6-phosphate aminotransferase,,,intergenic (‑8/+10),,,,,,1.00
+40526,NC_021214,"174,525",SNP,C→T,TMARI_RS00820,,leucine--tRNA ligase,,,V182V (GTC→GTT),,,,,,1.00
+40527,NC_021214,"189,999",SNP,C→T,TMARI_RS00875,,16S ribosomal RNA,,,noncoding (1033/1564 nt),,,,,,1.00
+40528,NC_021214,"252,862",SNP,C→T,TMARI_RS01220,,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--LD- lysine ligase,,,G171G (GGG→GGA),,,,,,1.00
+40529,NC_021214,"254,907",SNP,C→T,TMARI_RS01230,,glucose-1-phosphate adenylyltransferase subunit GlgD,,,A295V (GCA→GTA),,,,,,1.00
+40530,NC_021214,"255,452",SNP,C→T,TMARI_RS01235,,glucose-1-phosphate adenylyltransferase,,,A102V (GCC→GTC),,,,,,1.00
+40531,NC_021214,"263,426",SNP,C→T,TMARI_RS01285,,DNA-protecting protein DprA,,,A154V (GCG→GTG),,,,,,1.00
+40532,NC_021214,"292,337",SNP,C→T,TMARI_RS01420,,sugar ABC transporter substrate-binding protein,,,P288S (CCT→TCT),,,,,,1.00
+40533,NC_021214,"323,757",SNP,C→T,TMARI_RS01555,,ABC transporter ATP-binding protein,,,P242S (CCT→TCT),,,,,,1.00
+40534,NC_021214,"324,273",SNP,G→A,TMARI_RS01560,,endoglucanase,,,D92N (GAT→AAT),,,,,,1.00
+40535,NC_021214,"329,640",SNP,C→T,TMARI_RS01575,,alpha-xylosidase,,,R520K (AGA→AAA),,,,,,1.00
+40536,NC_021214,"334,236",SNP,C→T,TMARI_RS01585,,beta-galactosidase,,,L233L (CTC→CTT),,,,,,1.00
+40537,NC_021214,"374,924",SNP,C→T,TMARI_RS01815,,TolC family protein,,,S31N (AGC→AAC),,,,,,1.00
+40538,NC_021214,"380,678",SNP,C→T,TMARI_RS01855,,fibronectin-binding domain-containing protein,,,F99F (TTC→TTT),,,,,,1.00
+40539,NC_021214,"391,330",SNP,C→T,TMARI_RS01900,,AcrB/AcrD/AcrF family protein,,,R236R (AGG→AGA),,,,,,1.00
+40540,NC_021214,"423,580",SNP,C→T,TMARI_RS02045,,P-II family nitrogen regulator,,,T29I (ACT→ATT),,,,,,1.00
+40541,NC_021214,"441,508",INS,+G,gldA,,glycerol dehydrogenase,,,coding (365/1095 nt),,,,,,1.00
+40542,NC_021214,"453,685",SNP,G→A,"TMARI_RS02190, TMARI_RS02195",,carbohydrate ABC transporter substrate-binding protein/pectate trisaccharide-lyase,,,intergenic (‑55/‑192),,,,,,1.00
+40543,NC_021214,"464,696",SNP,C→T,TMARI_RS02240,,DUF2088 domain-containing protein,,,H310H (CAC→CAT),,,,,,1.00
+40544,NC_021214,"529,260",SNP,C→T,TMARI_RS02570,,ABC transporter ATP-binding protein,,,M94I (ATG→ATA),,,,,,1.00
+40545,NC_021214,"566,333",SNP,G→A,TMARI_RS02765,,fumarate hydratase,,,V134M (GTG→ATG),,,,,,1.00
+40546,NC_021214,"596,931",SNP,A→T,TMARI_RS02905,,Rrf2 family transcriptional regulator,,,M26K (ATG→AAG),,,,,,1.00
+40547,NC_021214,"622,429",SNP,C→T,TMARI_RS03015,,rod shape-determining protein,,,T107M (ACG→ATG),,,,,,1.00
+40548,NC_021214,"653,212",SNP,T→C,TMARI_RS03175,,glycosyltransferase family 4 protein,,,R25R (AGA→AGG),,,,,,1.00
+40549,NC_021214,"692,396",SNP,C→T,TMARI_RS03390,,ribonuclease J,,,E232E (GAG→GAA),,,,,,1.00
+40550,NC_021214,"700,621",SNP,C→T,TMARI_RS03435,,flagellar hook-length control protein FliK,,,P516S (CCC→TCC),,,,,,1.00
+40551,NC_021214,"712,512",INS,(A)7→8,TMARI_RS03505,,DNA polymerase III subunit gamma/tau,,,coding (1061/1437 nt),,,,,,1.00
+40552,NC_021214,"712,650",INS,+A,TMARI_RS03505,,DNA polymerase III subunit gamma/tau,,,coding (1199/1437 nt),,,,,,1.00
+40553,NC_021214,"725,314",SNP,C→T,TMARI_RS03590,,cinA-like protein,,,V283V (GTG→GTA),,,,,,1.00
+40554,NC_021214,"732,714",SNP,C→T,TMARI_RS03625,,MarR family transcriptional regulator,,,P79L (CCA→CTA),,,,,,1.00
+40555,NC_021214,"771,217",SNP,C→T,TMARI_RS03825,,tRNA (adenine-N1)-methyltransferase,,,D42N (GAT→AAT),,,,,,1.00
+40556,NC_021214,"775,454",SNP,C→T,TMARI_RS03850,,alpha-glucosidase/alpha-galactosidase,,,E144E (GAG→GAA),,,,,,1.00
+40557,NC_021214,"886,742",SNP,C→T,TMARI_RS04415,,glucose-1-phosphate thymidylyltransferase,,,D109N (GAC→AAC),,,,,,1.00
+40558,NC_021214,"927,801",SNP,G→A,TMARI_RS04645,,flagellar biosynthesis protein FlhA,,,I15I (ATC→ATT),,,,,,1.00
+40559,NC_021214,"961,214",SNP,G→A,TMARI_RS04830,,hypothetical protein,,,K317K (AAG→AAA),,,,,,1.00
+40560,NC_021214,"1,008,986",SNP,C→T,TMARI_RS05055,,DUF3883 domain-containing protein,,,L738F (CTT→TTT),,,,,,1.00
+40561,NC_021214,"1,050,568",SNP,C→T,TMARI_RS05270,,mannose-1-phosphate guanylyltransferase,,,G155G (GGG→GGA),,,,,,1.00
+40562,NC_021214,"1,079,864",SNP,C→T,TMARI_RS05430,,ABC transporter permease,,,G187S (GGT→AGT),,,,,,1.00
+40563,NC_021214,"1,107,515",SNP,G→A,TMARI_RS05560,,histidine--tRNA ligase,,,R372K (AGA→AAA),,,,,,1.00
+40564,NC_021214,"1,162,954",SNP,C→T,TMARI_RS05860,,ABC transporter permease,,,T180T (ACG→ACA),,,,,,1.00
+40565,NC_021214,"1,187,604",SNP,C→T,TMARI_RS05970,,ABC transporter substrate-binding protein,,,R24R (CGG→CGA),,,,,,1.00
+40566,NC_021214,"1,236,482",SNP,G→A,TMARI_RS06190,,NADH dehydrogenase,,,G62R (GGA→AGA),,,,,,1.00
+40567,NC_021214,"1,250,396",SNP,C→T,TMARI_RS06255,,ABC transporter substrate-binding protein,,,G427E (GGA→GAA),,,,,,1.00
+40568,NC_021214,"1,339,657",SNP,G→A,TMARI_RS06710,,ABC transporter ATP-binding protein,,,G319D (GGT→GAT),,,,,,1.00
+40569,NC_021214,"1,351,908",SNP,A→G,TMARI_RS06775,,hypothetical protein,,,A207A (GCT→GCC),,,,,,1.00
+40570,NC_021214,"1,446,537",SNP,G→A,TMARI_RS07295,,glycerol kinase,,,G127D (GGT→GAT),,,,,,1.00
+40571,NC_021214,"1,468,583",SNP,G→A,TMARI_RS07400,,RNA polymerase sigma factor SigA,,,A195V (GCG→GTG),,,,,,1.00
+40572,NC_021214,"1,530,195",SNP,T→G,TMARI_RS07850,,B12-binding domain-containing radical SAM protein,,,L24R (CTC→CGC),,,,,,1.00
+40573,NC_021214,"1,569,199",SNP,C→A,TMARI_RS08065,,peptide chain release factor 2,,,S246Y (TCT→TAT),,,,,,1.00
+40574,NC_021214,"1,645,038",SNP,C→T,TMARI_RS08475,,DNA-binding response regulator,,,R111K (AGA→AAA),,,,,,1.00
+40575,NC_021214,"1,651,040",SNP,G→A,TMARI_RS08520,,class I SAM-dependent methyltransferase,,,S198S (TCC→TCT),,,,,,1.00
+40576,NC_021214,"1,677,498",SNP,G→A,TMARI_RS08700,,HD-GYP domain-containing protein,,,M16I (ATG→ATA),,,,,,1.00
+40577,NC_021214,"1,718,805",SNP,G→A,TMARI_RS08915,,haloacid dehalogenase,,,R175K (AGA→AAA),,,,,,1.00
+40578,NC_021214,"1,755,576",SNP,G→A,"TMARI_RS09105, TMARI_RS09110",,ribosome maturation factor/tRNA-Ser,,,intergenic (‑37/+25),,,,,,1.00
+40579,NC_021214,"1,784,731",SNP,G→A,TMARI_RS09265,,type III-A CRISPR-associated RAMP protein Csm4,,,P265S (CCA→TCA),,,,,,1.00
+40580,NC_021214,"1,806,077",SNP,G→A,TMARI_RS09375,,IS200/IS605 family transposase,,,H62Y (CAT→TAT),,,,,,1.00
+40581,NC_021214,"1,839,693",SNP,G→A,TMARI_RS09490,,DUF4382 domain-containing protein,,,G80R (GGA→AGA),,,,,,1.00

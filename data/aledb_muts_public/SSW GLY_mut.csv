@@ -1,0 +1,14 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,SSW GLY A1 F45 I1 R1,SSW GLY A1 F45 I2 R1,SSW GLY A2 F45 I1 R1,SSW GLY A2 F45 I2 R1
+40587,NC_000913,"4,117,030",SNP,G→T,glpK,,glycerol kinase,,,L65M (CTG→ATG),,,1.00,1.00
+40582,NC_000913,"564,107",MOB,IS2 (+) +5 bp,sfmZ,,response regulator family protein,,,coding (370‑374/633 nt),1.00,1.00,,
+26183,NC_000913,"1,978,503",DEL,Δ776 bp,"insB1, insA",,"insB1, insA",,,,1.00,1.00,1.00,1.00
+40584,NC_000913,"4,117,034",SNP,T→A,glpK,,glycerol kinase,,,E63D (GAA→GAT),1.00,1.00,,
+40585,NC_000913,"4,188,929",SNP,C→A,rpoC,,"RNA polymerase, beta prime subunit",,,R1194S (CGT→AGT),1.00,1.00,,
+40586,NC_000913,"2,145,313",SNP,C→A,yegE,,putative diguanylate cyclase,,,S683Y (TCC→TAC),,,1.00,1.00
+40583,NC_000913,"1,144,380",SNP,A→C,"rne, yceQ",,endoribonuclease; RNA-binding protein;RNA degradosome binding protein/uncharacterized protein,,,intergenic (‑13/‑122),1.00,1.00,,
+40588,NC_000913,"4,187,658",SNP,T→G,rpoC,,"RNA polymerase, beta prime subunit",,,L770R (CTC→CGC),,,1.00,1.00
+26191,NC_000913,"1,299,499",DEL,"Δ1,199 bp","ychE, oppA",,UPF0056 family inner membrane protein/oligopeptide ABC transporter periplasmic binding protein,,,intergenic (+254/‑485),1.00,1.00,1.00,
+37939,NC_000913,"2,173,363",DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,intergenic (‑1/+1),1.00,1.00,1.00,1.00
+26102,NC_000913,"257,908",DEL,Δ776 bp,[crl],,[crl],,,,1.00,1.00,1.00,1.00
+37945,NC_000913,"3,560,455",INS,+G,"glpR, glpR",,"pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon/pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon",,,intergenic (‑2/+1),1.00,1.00,1.00,1.00
+37947,NC_000913,"4,296,381",INS,+GC,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+587/+55),1.00,1.00,1.00,1.00

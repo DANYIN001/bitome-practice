@@ -1,0 +1,230 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,JCL260__isobutanol_production_host-M9-MG1655gbk A1 F999 I0 R1,JCL260__isobutanol_production_host-M9-MG1655gbk A2 F999 I0 R1
+85214,NC_000913,"66,528",SNP,T→C,araD,,L-ribulose-5-phosphate 4-epimerase,,,Q8R (CAG→CGG),1.00,1.00
+85215,NC_000913,"66,533",SUB,3540 bp→27 bp,"[araD],araA,araB",,"[araD],araA,araB",,,,1.00,1.00
+85216,NC_000913,"70,289",SNP,G→T,"araB, araC",,L-ribulokinase/transcriptional regulator for ara operon,,,intergenic (‑241/‑98),1.00,1.00
+85217,NC_000913,"78,003",SNP,A→C,yabM,,putative transport protein,,,E128A (GAG→GCG),1.00,1.00
+85218,NC_000913,"283,759",SNP,T→G,yagF,,putative dehydratase,,,A445A (GCT→GCG),1.00,1.00
+85219,NC_000913,"365,405",DEL,Δ93 bp,lacZ,,beta-D-galactosidase,,,coding (33‑125/3075 nt),1.00,1.00
+85220,NC_000913,"502,653",SNP,C→T,"ybaL, fsr",,putative transport protein/fosmidomycin resistance protein,,,intergenic (‑191/+47),1.00,1.00
+85221,NC_000913,"547,694",SNP,A→G,b4507,,hypothetical protein,,,E38E (GAA→GAG),1.00,1.00
+85222,NC_000913,"547,835",INS,+G,b4507,,hypothetical protein,,,coding (255/261 nt),1.00,1.00
+85223,NC_000913,"704,236",SNP,T→C,nagE,,"PTS system, N-acetylglucosamine-specific enzyme IIABC",,,L357S (TTG→TCG),1.00,1.00
+85224,NC_000913,"1,056,041",SNP,A→G,torT,,TorT,,,E186E (GAA→GAG),1.00,1.00
+85225,NC_000913,"1,302,782",SNP,A→G,oppD,,OppD,,,N2S (AAC→AGC),1.00,1.00
+85226,NC_000913,"1,335,418",SNP,A→G,acnA,,aconitate hydrase 1,,,S522G (AGC→GGC),1.00,1.00
+85227,NC_000913,"1,607,710",SNP,A→G,uxaB,,altronate oxidoreductase,,,L332P (CTT→CCT),1.00,
+85228,NC_000913,"1,617,423",SNP,C→T,marR,,MarR,,,R94C (CGC→TGC),1.00,
+85229,NC_000913,"1,650,355",SNP,T→C,b1579,,putative transposase,,,F274L (TTC→CTC),1.00,1.00
+85230,NC_000913,"1,652,626",SNP,T→C,rspA,,starvation sensing protein,,,E180E (GAA→GAG),1.00,1.00
+85231,NC_000913,"1,718,191",SNP,A→G,slyB,,putative outer membrane protein,,,T98A (ACT→GCT),1.00,1.00
+85232,NC_000913,"1,722,918",SNP,T→A,b1647,,hypothetical protein,,,N247Y (AAC→TAC),1.00,1.00
+85233,NC_000913,"1,739,051",SNP,A→G,ydhC,,putative transport protein,,,M373V (ATG→GTG),1.00,1.00
+85234,NC_000913,"1,741,574",SUB,2 bp→GA,ydhE,,putative transport protein,,,coding (94‑95/1374 nt),1.00,1.00
+85235,NC_000913,"1,812,482",SNP,T→C,katE,,catalase,,,F198L (TTC→CTC),1.00,1.00
+85236,NC_000913,"1,860,370",SNP,T→C,yeaA,,hypothetical protein,,,E28E (GAA→GAG),1.00,1.00
+85237,NC_000913,"1,980,940",INS,+C,araH|araH,,ABC-type arabinose transport system permease component|ABC-type arabinose transport system permease component,,,coding (1/363 nt)coding (627/627 nt),1.00,1.00
+85238,NC_000913,"2,008,480",INS,+A,yedK,,hypothetical protein,,,coding (637/654 nt),1.00,1.00
+85239,NC_000913,"2,043,272",SNP,A→G,b1978,,hypothetical protein,,,S130G (AGT→GGT),1.00,1.00
+85240,NC_000913,"2,072,030",SNP,T→A,b2000,,outer membrane fluffing protein,,,C824S (TGC→AGC),1.00,1.00
+85241,NC_000913,"2,216,746",SNP,G→C,yehZ,,putative transport system permease protein,,,S252S (TCC→TCG),1.00,1.00
+85242,NC_000913,"2,429,483",SNP,T→C,dedD,,putative lipoprotein,,,E65E (GAA→GAG),1.00,1.00
+85243,NC_000913,"2,691,024",SNP,A→T,purL,,phosphoribosylformyl-glycineamide synthetase,,,F847Y (TTT→TAT),1.00,1.00
+85244,NC_000913,"2,729,373",INS,+C,"rrsG, clpB",,16S ribosomal RNA/ClpB,,,intergenic (‑195/+247),1.00,1.00
+85245,NC_000913,"2,747,389",DEL,Δ1 bp,b4540,,hypothetical protein,,,coding (572/591 nt),1.00,1.00
+85246,NC_000913,"2,751,091",SNP,G→C,recN,,RecN,,,A426P (GCT→CCT),1.00,1.00
+85247,NC_000913,"2,766,382",SNP,C→G,b2632,,putative GTP-binding protein,,,P218A (CCC→GCC),1.00,1.00
+85248,NC_000913,"2,766,423",SNP,G→A,b2632,,putative GTP-binding protein,,,R231R (CGG→CGA),1.00,1.00
+85249,NC_000913,"2,766,427",SUB,2 bp→AC,b2632,,putative GTP-binding protein,,,coding (697‑698/864 nt),1.00,1.00
+85250,NC_000913,"2,766,473",SNP,A→G,b2632,,putative GTP-binding protein,,,D248G (GAT→GGT),1.00,1.00
+85251,NC_000913,"2,766,475",SNP,A→G,b2632,,putative GTP-binding protein,,,T249A (ACC→GCC),1.00,1.00
+85252,NC_000913,"2,781,020",INS,+G,"ypjA, b2648",,putative ATP-binding component of a transport system/hypothetical protein,,,intergenic (‑144/+65),1.00,1.00
+85253,NC_000913,"2,781,027",SNP,C→G,"ypjA, b2648",,putative ATP-binding component of a transport system/hypothetical protein,,,intergenic (‑151/+58),1.00,1.00
+85254,NC_000913,"2,785,180",DEL,Δ1 bp,b2655,,hypothetical protein,,,coding (413/495 nt),1.00,1.00
+85255,NC_000913,"2,806,762",SNP,T→C,"proX, b2682",,high-affinity transport system for glycine betaine and proline/hypothetical protein,,,intergenic (+617/‑876),1.00,1.00
+85256,NC_000913,"2,812,859",DEL,Δ1 bp,"ygaG, gshA",,hypothetical protein/gamma-glutamate-cysteine ligase,,,intergenic (‑105/+46),1.00,1.00
+85257,NC_000913,"2,820,144",DEL,Δ1 bp,"b4542, oraA",,hypothetical protein/OraA,,,intergenic (+24/+18),1.00,1.00
+85258,NC_000913,"2,823,915",SNP,A→G,srlA,,"PTS system, glucitol/sorbitol-specific IIC component",,,K21E (AAG→GAG),1.00,1.00
+85259,NC_000913,"2,824,797",SNP,T→C,srlE,,PTS system glucitol/sorbitol-specific enzyme IIBC component,,,F128S (TTT→TCT),1.00,1.00
+85260,NC_000913,"2,825,102",SNP,T→C,srlE,,PTS system glucitol/sorbitol-specific enzyme IIBC component,,,F230L (TTC→CTC),1.00,1.00
+85261,NC_000913,"2,838,044",INS,+G,ascF,,PTS system enzyme IIBC,,,coding (498/1458 nt),1.00,1.00
+85262,NC_000913,"2,838,055",DEL,Δ1 bp,ascF,,PTS system enzyme IIBC,,,coding (509/1458 nt),1.00,1.00
+85263,NC_000913,"2,842,033",SNP,G→T,hycG,,hydrogenase activity,,,R67R (CGC→CGA),1.00,1.00
+85264,NC_000913,"2,896,819",INS,+C,ygcU,,putative oxidoreductase subunit,,,coding (622/657 nt),1.00,1.00
+85265,NC_000913,"3,005,399",INS,+C,ygeW,,putative carbamoyl transferase,,,coding (1044/1092 nt),1.00,1.00
+85266,NC_000913,"3,025,676",INS,+C,ygfQ,,hypothetical protein,,,coding (535/570 nt),1.00,1.00
+85267,NC_000913,"3,075,220",INS,(T)5→6,yggP,,hypothetical protein,,,coding (256/357 nt),1.00,1.00
+85268,NC_000913,"3,077,514",DEL,Δ1 bp,"cmtB, tktA",,PTS system mannitol-specific enzyme IIA component/transketolase 1 isozyme,,,intergenic (‑165/+149),1.00,1.00
+85269,NC_000913,"3,077,640",INS,+G,"cmtB, tktA",,PTS system mannitol-specific enzyme IIA component/transketolase 1 isozyme,,,intergenic (‑291/+23),1.00,1.00
+85270,NC_000913,"3,077,905",SNP,A→G,tktA,,transketolase 1 isozyme,,,S584P (TCG→CCG),1.00,1.00
+85271,NC_000913,"3,078,245",SNP,C→G,tktA,,transketolase 1 isozyme,,,G470G (GGG→GGC),1.00,1.00
+85272,NC_000913,"3,099,661",INS,(A)5→6,"yggN, b2959",,hypothetical protein/hypothetical protein,,,intergenic (‑19/+164),1.00,1.00
+85273,NC_000913,"3,107,469",INS,+C,"b2965, yqgA",,ornithine decarboxylase isozyme/putative transport protein,,,intergenic (‑296/‑101),1.00,1.00
+85274,NC_000913,"3,108,438",SNP,C→A,pheV,,tRNA-Phe,,,noncoding (56/76 nt),1.00,1.00
+85275,NC_000913,"3,115,116",INS,+C,b2974,,putative endoglucanase,,,coding (2013/2028 nt),1.00,1.00
+85276,NC_000913,"3,123,585",INS,+G,glcF,,glycolate oxidase iron-sulfur subunit,,,coding (953/2286 nt),1.00,1.00
+85277,NC_000913,"3,130,334",SNP,A→G,b2983,,hypothetical protein,,,V30V (GTT→GTC),1.00,1.00
+85278,NC_000913,"3,152,247",INS,+C,"yghB, yqhC",,hypothetical protein/putative ARAC-type regulatory protein,,,intergenic (+10/+29),1.00,1.00
+85279,NC_000913,"3,156,257",DEL,(CCA)2→1,yqhG,,hypothetical protein,,,coding (594‑596/930 nt),1.00,1.00
+85280,NC_000913,"3,158,202",INS,+C,ygiRQ,,Fe-S oxidoreductase,,,coding (961/975 nt),1.00,1.00
+85281,NC_000913,"3,166,935",SUB,2 bp→CG,b3023,,hypothetical protein,,,coding (312‑313/483 nt),1.00,1.00
+85282,NC_000913,"3,185,776",SNP,T→C,yqiG,,putative membrane protein,,,F121L (TTC→CTC),1.00,1.00
+85283,NC_000913,"3,185,807",SNP,T→C,yqiG,,putative membrane protein,,,F131S (TTT→TCT),1.00,1.00
+85284,NC_000913,"3,221,097",SUB,2 bp→GC,b3076,,evolved beta-D-galactosidase alpha subunit,,,coding (824‑825/3093 nt),1.00,1.00
+85285,NC_000913,"3,222,944",SUB,4 bp→AGCA,b3076,,evolved beta-D-galactosidase alpha subunit,,,coding (2671‑2674/3093 nt),1.00,1.00
+85286,NC_000913,"3,224,879",DEL,Δ1 bp,ygjI,,putative oxidoreductase,,,coding (1005/1434 nt),1.00,1.00
+85287,NC_000913,"3,224,926",INS,+C,ygjI,,putative oxidoreductase,,,coding (1052/1434 nt),1.00,1.00
+85288,NC_000913,"3,236,177",DEL,Δ1 bp,"ygjR, ygjT",,hypothetical protein/putative transport protein,,,intergenic (+239/‑45),1.00,1.00
+85289,NC_000913,"3,236,735",INS,+C,ygjT,,putative transport protein,,,coding (514/966 nt),1.00,1.00
+85290,NC_000913,"3,236,758",DEL,Δ1 bp,ygjT,,putative transport protein,,,coding (537/966 nt),1.00,1.00
+85291,NC_000913,"3,237,242",INS,+C,"ygjT, ygjU",,putative transport protein/putative transport protein,,,intergenic (+55/‑342),1.00,1.00
+85292,NC_000913,"3,237,247",INS,+C,"ygjT, ygjU",,putative transport protein/putative transport protein,,,intergenic (+60/‑337),1.00,1.00
+85293,NC_000913,"3,253,742",DEL,Δ1 bp,yhaNM,,hypothetical protein,,,coding (551/552 nt),1.00,1.00
+85294,NC_000913,"3,255,594",DEL,Δ1 bp,yhaO,,putative transport system permease protein,,,coding (4/1278 nt),1.00,1.00
+85295,NC_000913,"3,255,616",DEL,Δ1 bp,"yhaO, yhaP",,putative transport system permease protein/putative L-serine dehydratase,,,intergenic (‑19/+312),1.00,1.00
+85296,NC_000913,"3,256,893",INS,+C,yhaQ,,putative L-serine dehydratase,,,coding (405/423 nt),1.00,1.00
+85297,NC_000913,"3,257,838",INS,+G,tdcE,,putative formate acetyltransferase 3,,,coding (2222/2241 nt),1.00,1.00
+85298,NC_000913,"3,279,197",SNP,A→C,agaA,,putative N-acetylgalactosamine-6-phosphate deacetylase,,,R145S (AGA→AGC),1.00,1.00
+85299,NC_000913,"3,352,254",SUB,2 bp→GC,"yhcC, gltB",,hypothetical protein/glutamate synthase large subunit,,,intergenic (‑569/‑12),1.00,1.00
+85300,NC_000913,"3,389,812",DEL,Δ1 bp,"tldD, cafA",,TldD/CafA,,,intergenic (‑149/+4151),1.00,1.00
+85301,NC_000913,"3,393,106",DEL,Δ1 bp,"tldD, cafA",,TldD/CafA,,,intergenic (‑3443/+857),1.00,1.00
+85302,NC_000913,"3,418,840",INS,+G,b3269,,putative transport system permease protein,,,coding (1070/1089 nt),1.00,1.00
+85303,NC_000913,"3,429,527",DEL,Δ1 bp,yrdD,,putative DNA topoisomerase,,,coding (40/510 nt),1.00,1.00
+85304,NC_000913,"3,430,453",INS,+C,smf,,putative Rossmann-fold nucleotide-binding protein,,,coding (745/747 nt),1.00,1.00
+85305,NC_000913,"3,500,309",DEL,Δ1 bp,b3372,,hypothetical protein,,,coding (333/363 nt),1.00,1.00
+85306,NC_000913,"3,509,958",DEL,Δ1 bp,"yhfZ, trpS",,hypothetical protein/tryptophan tRNA synthetase,,,intergenic (‑195/+314),1.00,1.00
+85307,NC_000913,"3,510,121",INS,+G,"yhfZ, trpS",,hypothetical protein/tryptophan tRNA synthetase,,,intergenic (‑358/+151),1.00,1.00
+85308,NC_000913,"3,537,405",INS,+GC,"b3407, feoA",,hypothetical protein/ferrous iron transport protein A,,,intergenic (+61/‑394),1.00,1.00
+85309,NC_000913,"3,544,357",INS,+G,gntT,,gluconate permease,,,coding (163/1314 nt),1.00,1.00
+85310,NC_000913,"3,544,360",INS,+G,gntT,,gluconate permease,,,coding (166/1314 nt),1.00,1.00
+85311,NC_000913,"3,544,363",INS,+C,gntT,,gluconate permease,,,coding (169/1314 nt),1.00,1.00
+85312,NC_000913,"3,548,005",SNP,C→T,malP,,maltodextrin phosphorylase,,,G701D (GGT→GAT),1.00,1.00
+85313,NC_000913,"3,554,088",INS,+C,yhgKJ,,RNA phosphage cyclase,,,coding (2/624 nt),1.00,1.00
+85314,NC_000913,"3,554,113",DEL,Δ1 bp,yhgKJ,,RNA phosphage cyclase,,,coding (372/396 nt),1.00,1.00
+85315,NC_000913,"3,554,118",INS,+C,yhgKJ,,RNA phosphage cyclase,,,coding (367/396 nt),1.00,1.00
+85316,NC_000913,"3,558,932",SUB,2 bp→GC,glpG,,GlpG,,,coding (153‑154/831 nt),1.00,1.00
+85317,NC_000913,"3,573,700",INS,+C,"yhgN, gntK",,hypothetical protein/gluconokinase 2,,,intergenic (+403/+997),1.00,1.00
+85318,NC_000913,"3,575,446",INS,+G,gntR,,GntR,,,coding (912/942 nt),1.00,1.00
+85319,NC_000913,"3,627,142",INS,+G,"yhiH, yhiI",,"putative ATP-binding component of a transport system, fragment 1/putative membrane protein",,,intergenic (‑24/+23),1.00,1.00
+85320,NC_000913,"3,686,775",INS,+T,"b3530, yhjM",,putative oxidoreductase subunit/putative endoglucanase,,,intergenic (‑23/+9),1.00,1.00
+85321,NC_000913,"3,703,602",SUB,2 bp→GC,"dppB, dppA",,dipeptide transport system permease protein 1/dipeptide transport protein,,,intergenic (‑183/+124),1.00,1.00
+85322,NC_000913,"3,714,436",SUB,2 bp→GC,yiaD,,putative outer membrane protein,,,coding (261‑262/660 nt),1.00,1.00
+85323,NC_000913,"3,734,264",SUB,2 bp→GC,bax,,putative ATP-binding protein,,,coding (542‑543/825 nt),1.00,1.00
+85324,NC_000913,"3,737,956",SUB,2 bp→CG,avtA,,alanine-alpha-ketoisovalerate transaminase,,,coding (623‑624/1254 nt),1.00,1.00
+85325,NC_000913,"3,743,603",DEL,Δ1 bp,yiaN,,putative membrane protein,,,coding (1171/1275 nt),1.00,1.00
+85326,NC_000913,"3,754,310",SNP,C→A,yiaY,,putative oxidoreductase,,,R382M (AGG→ATG),1.00,1.00
+85327,NC_000913,"3,754,317",INS,+GCG,yiaY,,putative oxidoreductase,,,coding (1138/1149 nt),1.00,1.00
+85328,NC_000913,"3,765,234",SNP,G→A,yibJ,,hypothetical protein,,,G129G (GGG→GGA),1.00,1.00
+85329,NC_000913,"3,870,631",DEL,Δ1 bp,dgoA,,2-oxo-3-deoxygalactonate 6-phosphate aldolase,,,coding (610/1764 nt),1.00,1.00
+85330,NC_000913,"3,870,765",INS,+G,dgoA,,2-oxo-3-deoxygalactonate 6-phosphate aldolase,,,coding (476/1764 nt),1.00,1.00
+85331,NC_000913,"3,870,876",DEL,Δ1 bp,dgoA,,2-oxo-3-deoxygalactonate 6-phosphate aldolase,,,coding (365/1764 nt),1.00,1.00
+85332,NC_000913,"3,872,450",INS,+G,yidW,,regulator protein for dgo operon,,,coding (338/387 nt),1.00,1.00
+85333,NC_000913,"3,873,627",DEL,Δ1 bp,yidX,,putative replicase,,,coding (506/672 nt),1.00,1.00
+85334,NC_000913,"3,876,595",SNP,G→C,gyrB,,DNA gyrase subunit B,,,P385A (CCG→GCG),1.00,1.00
+85335,NC_000913,"3,881,483",DEL,Δ1 bp,"dnaA, rpmH",,DnaA/50S ribosomal subunit protein L34,,,intergenic (‑126/‑482),1.00,1.00
+85336,NC_000913,"3,896,324",INS,+G,b3718,,putative isomerase,,,coding (698/711 nt),1.00,1.00
+85337,NC_000913,"3,927,062",INS,+G,yieM|b4564,,hypothetical protein|hypothetical protein,,,coding (2/1284 nt)coding (169/183 nt),1.00,1.00
+85338,NC_000913,"3,930,457",DEL,Δ1 bp,kup,,low affinity potassium transport system,,,coding (1515/1560 nt),1.00,1.00
+85339,NC_000913,"3,930,568",INS,+G,"kup, rbsD",,low affinity potassium transport system/RbsD,,,intergenic (+66/‑373),1.00,1.00
+85340,NC_000913,"3,930,677",INS,+G,"kup, rbsD",,low affinity potassium transport system/RbsD,,,intergenic (+175/‑264),1.00,1.00
+85341,NC_000913,"3,938,587",INS,+TGC,yiePs,,hypothetical protein,,,coding (220/546 nt),1.00,1.00
+85342,NC_000913,"3,941,734",DEL,Δ1 bp,rrlC,,23S ribosomal RNA,,,noncoding (409/2906 nt),1.00,1.00
+85343,NC_000913,"3,944,676",SUB,2 bp→GC,"trpT, yifDA",,tRNA-Trp/transcription regulator,,,intergenic (+20/+75),1.00,1.00
+85344,NC_000913,"3,945,351",INS,+C,yifDA|yifDA,,transcription regulator|transcription regulator,,,coding (1/600 nt)coding (240/240 nt),1.00,1.00
+85345,NC_000913,"3,950,557",SUB,2 bp→GC,ilvE,,branched-chain amino-acid aminotransferase,,,coding (451‑452/930 nt),1.00,1.00
+85346,NC_000913,"3,951,166",INS,+C,ilvD,,dihydroxyacid dehydratase,,,coding (35/1818 nt),1.00,1.00
+85347,NC_000913,"3,951,168",INS,+G,ilvD,,dihydroxyacid dehydratase,,,coding (37/1818 nt),1.00,1.00
+85348,NC_000913,"3,957,092",INS,+CC,"ilvC, ppiC",,ketol-acid reductoisomerase/peptidyl-prolyl cis-trans isomerase C,,,intergenic (+26/+58),1.00,1.00
+85349,NC_000913,"3,957,124",INS,+G,"ilvC, ppiC",,ketol-acid reductoisomerase/peptidyl-prolyl cis-trans isomerase C,,,intergenic (+58/+26),1.00,1.00
+85350,NC_000913,"3,957,548",SUB,1 bp→GG,"ppiC, rep",,peptidyl-prolyl cis-trans isomerase C/rep helicase,,,intergenic (‑117/‑744),1.00,1.00
+85351,NC_000913,"3,957,551",INS,+T,"ppiC, rep",,peptidyl-prolyl cis-trans isomerase C/rep helicase,,,intergenic (‑120/‑741),1.00,1.00
+85352,NC_000913,"3,957,560",INS,+C,"ppiC, rep",,peptidyl-prolyl cis-trans isomerase C/rep helicase,,,intergenic (‑129/‑732),1.00,1.00
+85353,NC_000913,"3,958,877",SUB,2 bp→CG,rep,,rep helicase,,,coding (586‑587/2022 nt),1.00,1.00
+85354,NC_000913,"3,960,578",SUB,2 bp→CG,gppA,,guanosine pentaphosphatase,,,coding (1266‑1267/1485 nt),1.00,1.00
+85355,NC_000913,"3,961,588",SNP,C→G,gppA,,guanosine pentaphosphatase,,,R86T (AGG→ACG),1.00,1.00
+85356,NC_000913,"3,968,317",INS,+CGT,wecB,,UDP-N-acetyl glucosamine -2-epimerase,,,coding (612/1170 nt),1.00,1.00
+85357,NC_000913,"3,969,103",SUB,2 bp→GC,wecC,,UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase,,,coding (232‑233/1263 nt),1.00,1.00
+85358,NC_000913,"3,971,075",SUB,2 bp→GC,rffG,,"dTDP-glucose 4,6-dehydratase",,,coding (942‑943/1068 nt),1.00,1.00
+85359,NC_000913,"3,972,637",SUB,2 bp→GC,wecD,,hypothetical protein,,,coding (430‑431/546 nt),1.00,1.00
+85360,NC_000913,"3,975,313",DEL,Δ1 bp,"wzxE, wecF",,putative cytochrome/TDP-Fuc4NAc:lipidII transferase,,,intergenic (+173/‑901),1.00,1.00
+85361,NC_000913,"3,978,702",SNP,C→T,yifK,,putative amino acid/amine transport protein,,,S68F (TCC→TTC),1.00,1.00
+85362,NC_000913,"3,979,535",INS,+G,yifK,,putative amino acid/amine transport protein,,,coding (1036/1386 nt),1.00,1.00
+85363,NC_000913,"3,979,546",DEL,Δ1 bp,yifK,,putative amino acid/amine transport protein,,,coding (1047/1386 nt),1.00,1.00
+85364,NC_000913,"3,980,918",SUB,2 bp→CG,aslB,,putative arylsulfatase regulator,,,coding (348‑349/1236 nt),1.00,1.00
+85365,NC_000913,"3,987,586",SUB,2 bp→GC,hemC,,porphobilinogen deaminase,,,coding (814‑815/963 nt),1.00,1.00
+85366,NC_000913,"3,987,822",SUB,2 bp→CG,hemC,,porphobilinogen deaminase,,,coding (578‑579/963 nt),1.00,1.00
+85367,NC_000913,"3,998,290",INS,+G,b4566,,hypothetical protein,,,coding (379/486 nt),1.00,1.00
+85368,NC_000913,"4,001,421",SUB,2 bp→GC,rarD,,hypothetical protein,,,coding (381‑382/903 nt),1.00,1.00
+85369,NC_000913,"4,001,486",SUB,2 bp→GC,rarD,,hypothetical protein,,,coding (316‑317/903 nt),1.00,1.00
+85370,NC_000913,"4,001,717",INS,+C,rarD,,hypothetical protein,,,coding (86/903 nt),1.00,1.00
+85371,NC_000913,"4,004,979",INS,+G,recQ,,ATP-dependent DNA helicase,,,coding (1511/1833 nt),1.00,1.00
+85372,NC_000913,"4,004,984",INS,+CG,recQ,,ATP-dependent DNA helicase,,,coding (1516/1833 nt),1.00,1.00
+85373,NC_000913,"4,005,601",INS,+C,b4568,,hypothetical protein,,,coding (237/282 nt),1.00,1.00
+85374,NC_000913,"4,006,483",INS,+C,b4554,,hypothetical protein,,,coding (183/207 nt),1.00,1.00
+85375,NC_000913,"4,007,718",SUB,2 bp→CG,pldB,,lysophospholipase L(2),,,coding (943‑944/1023 nt),1.00,1.00
+85376,NC_000913,"4,007,907",INS,+GG,"pldB, b4555",,lysophospholipase L(2)/hypothetical protein,,,intergenic (+109/‑11),1.00,1.00
+85377,NC_000913,"4,008,375",INS,+A,b4555,,hypothetical protein,,,coding (458/516 nt),1.00,1.00
+85378,NC_000913,"4,008,391",INS,+C,b4555,,hypothetical protein,,,coding (474/516 nt),1.00,1.00
+85379,NC_000913,"4,008,393",SNP,C→G,b4555,,hypothetical protein,,,A159G (GCT→GGT),1.00,1.00
+85380,NC_000913,"4,008,421",INS,+T,b4555,,hypothetical protein,,,coding (504/516 nt),1.00,1.00
+85381,NC_000913,"4,008,429",INS,+TG,b4555,,hypothetical protein,,,coding (512/516 nt),1.00,1.00
+85382,NC_000913,"4,008,469",INS,+G,"b4555, yigM",,hypothetical protein/hypothetical protein,,,intergenic (+36/‑197),1.00,1.00
+85383,NC_000913,"4,008,473",INS,+G,"b4555, yigM",,hypothetical protein/hypothetical protein,,,intergenic (+40/‑193),1.00,1.00
+85384,NC_000913,"4,008,491",SUB,2 bp→CG,"b4555, yigM",,hypothetical protein/hypothetical protein,,,intergenic (+58/‑174),1.00,1.00
+85385,NC_000913,"4,008,525",INS,+G,"b4555, yigM",,hypothetical protein/hypothetical protein,,,intergenic (+92/‑141),1.00,1.00
+85386,NC_000913,"4,013,176",SNP,C→G,ysgA,,hypothetical protein,,,G182R (GGA→CGA),1.00,1.00
+85387,NC_000913,"4,013,177",INS,+C,ysgA,,hypothetical protein,,,coding (543/999 nt),1.00,1.00
+85388,NC_000913,"4,013,717",INS,+G,ysgA,,hypothetical protein,,,coding (3/999 nt),1.00,1.00
+85389,NC_000913,"4,013,772",INS,+C,"ysgA, udp",,hypothetical protein/uridine phosphorylase,,,intergenic (‑53/‑246),1.00,1.00
+85390,NC_000913,"4,016,743",SNP,C→T,ubiE,,UbiE,,,P101L (CCC→CTC),1.00,1.00
+85391,NC_000913,"4,019,857",SNP,C→T,"b3836, b3838",,hypothetical protein/hypothetical protein,,,intergenic (+56/‑28),1.00,1.00
+85392,NC_000913,"4,019,860",DEL,Δ2 bp,"b3836, b3838",,hypothetical protein/hypothetical protein,,,intergenic (+59/‑24),1.00,1.00
+85393,NC_000913,"4,021,684",DEL,Δ1 bp,b4556|tatD,,hypothetical protein|Mg-dependent DNase,,,coding (542/609 nt)|coding (1/243 nt),1.00,1.00
+85394,NC_000913,"4,026,252",SUB,2 bp→GC,fadA,,thiolase I,,,coding (110‑111/1164 nt),1.00,1.00
+85395,NC_000913,"4,031,984",INS,+C,trkH,,TrkH,,,coding (1250/1299 nt),1.00,1.00
+85396,NC_000913,"4,039,960",DEL,Δ1 bp,"yihD, yihE",,hypothetical protein/hypothetical protein,,,intergenic (+42/‑36),1.00,1.00
+85397,NC_000913,"4,041,654",SNP,G→A,"dsbA, b3861",,protein disulfide isomerase I/putative GTP-binding protein,,,intergenic (+29/‑125),1.00,1.00
+85398,NC_000913,"4,041,671",INS,(T)6→7,"dsbA, b3861",,protein disulfide isomerase I/putative GTP-binding protein,,,intergenic (+46/‑108),1.00,1.00
+85399,NC_000913,"4,051,144",DEL,Δ1 bp,"hemN, glnG",,O2-independent coproporphyrinogen III oxidase/GlnG,,,intergenic (+146/+305),1.00,1.00
+85400,NC_000913,"4,051,170",INS,+C,"hemN, glnG",,O2-independent coproporphyrinogen III oxidase/GlnG,,,intergenic (+172/+279),1.00,1.00
+85401,NC_000913,"4,057,759",INS,+C,yihK,,putative GTP-binding factor,,,coding (1773/1776 nt),1.00,1.00
+85402,NC_000913,"4,061,961",DEL,Δ1 bp,b3876,,putative permease,,,coding (1386/1458 nt),1.00,1.00
+85403,NC_000913,"4,085,675",DEL,Δ1 bp,"yiiG, frvR",,hypothetical protein/putative frv operon regulatory protein,,,intergenic (+38/+13),1.00,1.00
+85404,NC_000913,"4,091,351",SNP,C→T,rhaD,,rhamnulose-phosphate aldolase,,,G168D (GGC→GAC),1.00,1.00
+85405,NC_000913,"4,091,572",SUB,3461 bp→29 bp,"[rhaD],rhaA,rhaB",,"[rhaD],rhaA,rhaB",,,,1.00,1.00
+85406,NC_000913,"4,103,519",INS,+T,"cpxR, yiiP",,transcriptional regulator in 2-component system/putative transport system permease protein,,,intergenic (‑268/‑530),1.00,1.00
+85407,NC_000913,"4,139,669",INS,+C,yijI|b4558,,hypothetical protein|hypothetical protein,,,coding (233/330 nt)coding (132/159 nt),1.00,1.00
+85408,NC_000913,"4,158,827",SNP,G→T,yijC,,hypothetical protein,,,G61V (GGC→GTC),1.00,1.00
+85409,NC_000913,"4,161,702",SNP,C→G,btuB,,BtuB,,,A162G (GCA→GGA),1.00,1.00
+85410,NC_000913,"4,175,949",INS,+G,"nusG, rplK",,NusG/50S ribosomal subunit protein L11,,,intergenic (+82/‑76),1.00,1.00
+85411,NC_000913,"4,194,577",SUB,2 bp→GC,yjaD,,hypothetical protein,,,coding (97‑98/774 nt),1.00,1.00
+85412,NC_000913,"4,293,960",INS,+GC,"gltP, yjcO",,glutamate-aspartate symport protein/hypothetical protein,,,intergenic (+587/+55),1.00,
+85413,NC_000913,"4,311,496",INS,+C,phnQ,,hypothetical protein,,,coding (301/408 nt),1.00,1.00
+85414,NC_000913,"4,316,203",SNP,T→A,phnK,,ATP-binding component of phosphonate transport,,,Q47L (CAG→CTG),1.00,1.00
+85415,NC_000913,"4,435,684",INS,+A,ytfI,,hypothetical protein,,,coding (400/501 nt),1.00,1.00
+85416,NC_000913,"4,448,541",INS,+C,"ytfQ, ytfR",,putative LACI-type transcriptional regulator/YtfR,,,intergenic (+46/‑92),1.00,1.00
+85417,NC_000913,"4,448,543",INS,+C,"ytfQ, ytfR",,putative LACI-type transcriptional regulator/YtfR,,,intergenic (+48/‑90),1.00,1.00
+85418,NC_000913,"4,449,738",INS,+G,ytfR,,YtfR,,,coding (1106/1254 nt),1.00,1.00
+85419,NC_000913,"4,472,408",SNP,A→G,"b4251, b4252",,hypothetical protein/hypothetical protein,,,intergenic (+117/‑28),1.00,1.00
+85420,NC_000913,"4,474,826",INS,+A,"yjgL, argI",,hypothetical protein/ornithine carbamoyltransferase 1,,,intergenic (+1/+44),1.00,1.00
+85421,NC_000913,"4,474,849",SUB,20 bp→30 bp,"yjgL, argI",,hypothetical protein/ornithine carbamoyltransferase 1,,,intergenic (+24/+2),1.00,1.00
+85422,NC_000913,"4,477,041",DEL,Δ1 bp,"b4256, yjgN",,hypothetical protein/hypothetical protein,,,intergenic (‑151/‑269),1.00,1.00
+85423,NC_000913,"4,477,068",INS,+C,"b4256, yjgN",,hypothetical protein/hypothetical protein,,,intergenic (‑178/‑242),1.00,1.00
+85424,NC_000913,"4,477,281",DEL,Δ1 bp,"b4256, yjgN",,hypothetical protein/hypothetical protein,,,intergenic (‑391/‑29),1.00,1.00
+85425,NC_000913,"4,477,321",DEL,Δ1 bp,yjgN,,hypothetical protein,,,coding (12/1182 nt),1.00,1.00
+85426,NC_000913,"4,478,503",DEL,(A)7→6,"yjgN, valS",,hypothetical protein/valine tRNA synthetase,,,intergenic (+12/+47),1.00,1.00
+85427,NC_000913,"4,478,511",DEL,Δ1 bp,"yjgN, valS",,hypothetical protein/valine tRNA synthetase,,,intergenic (+20/+39),1.00,1.00
+85428,NC_000913,"4,478,527",DEL,Δ1 bp,"yjgN, valS",,hypothetical protein/valine tRNA synthetase,,,intergenic (+36/+23),1.00,1.00
+85429,NC_000913,"4,501,186",INS,(T)6→7,"yi41, b4279",,IS4 hypothetical protein/putative transport protein,,,intergenic (‑187/‑440),1.00,1.00
+85430,NC_000913,"4,542,643",DEL,Δ1 bp,"b4316, fimD",,Pil/FimD,,,intergenic (+46/‑22),1.00,1.00
+85431,NC_000913,"4,544,170",SNP,T→C,fimD,,FimD,,,I502I (ATT→ATC),1.00,1.00
+85432,NC_000913,"4,573,190",DEL,Δ1 bp,yjiU,,hypothetical protein,,,coding (1487/1542 nt),1.00,1.00
+85433,NC_000913,"4,583,050",SNP,G→A,hsdR,,endonuclease R,,,Q446* (CAA→TAA),1.00,1.00
+85434,NC_000913,"4,593,254",SUB,2 bp→GC,yjjM,,hypothetical protein,,,coding (59‑60/807 nt),1.00,1.00
+85435,NC_000913,"4,593,336",INS,+G,"yjjM, yjjN",,hypothetical protein/putative oxidoreductase,,,intergenic (‑23/‑208),1.00,1.00
+85436,NC_000913,"4,600,078",SNP,C→T,yjjP,,putative structural protein,,,W135* (TGG→TAG),1.00,1.00
+85437,NC_000913,"4,608,595",SUB,2 bp→GC,"prfC, osmY",,peptide chain release factor RF-3/OsmY,,,intergenic (+23/‑369),1.00,1.00
+85438,NC_000913,"4,614,238",SNP,G→T,yjjI,,hypothetical protein,,,L133I (CTA→ATA),1.00,1.00
+85439,NC_000913,"1,588,794",DEL,"Δ56,260 bp","hipA,hipB,b1509,ydeK,ydeV,ydeW,b1513,ydeY,ydeZ,b1516,yneB,b1518,b1519,b1520,uxaB,b1522,b1523,yneH,b1525,yneJ,b1527,ydeA,ydeB,marR,marA,marB,ydeD,ydeF,ydeH,ydeG,ydeI,ydeJ,dcp,ydfG,ydfH,b1541,ydfI,b1543,ydfK,b1545,ydfM,b1547,nohA,ydfO,b1550,b1551,cspI,b1553,b1554,b1555,b1556,cspB,cspF,b1559,b1560,rem,relF,relE,relB,b1565,flxA",,"hipA,hipB,b1509,ydeK,ydeV,ydeW,b1513,ydeY,ydeZ,b1516,yneB,b1518,b1519,b1520,uxaB,b1522,b1523,yneH,b1525,yneJ,b1527,ydeA,ydeB,marR,marA,marB,ydeD,ydeF,ydeH,ydeG,ydeI,ydeJ,dcp,ydfG,ydfH,b1541,ydfI,b1543,ydfK,b1545,ydfM,b1547,nohA,ydfO,b1550,b1551,cspI,b1553,b1554,b1555,b1556,cspB,cspF,b1559,b1560,rem,relF,relE,relB,b1565,flxA",,,,,1.00
+85440,NC_000913,"4,008,400",INS,+AA,b4555,,hypothetical protein,,,coding (483/516 nt),,1.00
+85441,NC_000913,"4,008,411",INS,+C,b4555,,hypothetical protein,,,coding (494/516 nt),,1.00
+85442,NC_000913,"4,045,713",SNP,C→G,polA,,DNA polymerase I,,,L390V (CTT→GTT),,1.00

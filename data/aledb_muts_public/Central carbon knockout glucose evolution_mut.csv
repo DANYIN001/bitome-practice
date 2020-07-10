@@ -1,0 +1,20 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,Central carbon knockout glucose evolution A23 F0 I0 R1,Central carbon knockout glucose evolution A23 F1 I0 R1,Central carbon knockout glucose evolution A23 F184 I0 R1,Central carbon knockout glucose evolution A23 F184 I1 R1,Central carbon knockout glucose evolution A23 F184 I2 R1,Central carbon knockout glucose evolution A24 F1 I0 R1,Central carbon knockout glucose evolution A24 F2 I0 R1,Central carbon knockout glucose evolution A24 F184 I0 R1,Central carbon knockout glucose evolution A24 F184 I1 R1,Central carbon knockout glucose evolution A24 F184 I2 R1
+76768,NC_000913,"2,066,465",SNP,T→C,insH1,,IS5 transposase and trans-activator,,,K286R (AAG→AGG),0.37,0.47,,,,,,,,
+76687,NC_000913,"451,643",SNP,G→A,"cyoA, ampG",,cytochrome o ubiquinol oxidase subunit II/muropeptide transporter,,,intergenic (‑33/+427),,,0.77,1.00,1.00,,,,,
+76710,NC_000913,"187,969",SNP,C→A,glnD,,uridylyltransferase,,,D228Y (GAT→TAT),,,,,,,,,1.00,
+38503,NC_000913,"4,001,644",DEL,Δ5 bp,corA,,magnesium/nickel/cobalt transporter,,,coding (220‑224/951 nt),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+26183,NC_000913,"1,978,503",DEL,Δ776 bp,"insB1, insA",,"insB1, insA",,,,,,1.00,1.00,1.00,,1.00,,1.00,1.00
+39115,NC_000913,"4,296,189",SNP,A→G,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+396/+248),0.43,0.26,0.34,,,,0.44,0.37,,
+39116,NC_000913,"4,296,190",SNP,A→C,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+397/+247),0.44,0.23,0.45,,,,0.38,0.41,,
+76813,NC_000913,"4,180,673",INS,(CTG)4→5,rplL,,50S ribosomal subunit protein L7/L12,,,coding (115/366 nt),,,,,,,,0.62,,
+26191,NC_000913,"1,299,499",DEL,"Δ1,199 bp","ychE, oppA",,UPF0056 family inner membrane protein/oligopeptide ABC transporter periplasmic binding protein,,,intergenic (+254/‑485),,,1.00,1.00,,,1.00,,1.00,
+76755,NC_000913,"1,646,088",DEL,Δ14 bp,ydfV,,"Qin prophage, uncharacterized protein",,,coding (192‑205/306 nt),,,,,,,,,,1.00
+76711,NC_000913,"3,976,196",DEL,Δ9 bp,wecE,,TDP-4-oxo-6-deoxy-D-glucose transaminase,,,coding (1052‑1060/1131 nt),,,,,,,,,1.00,
+39445,NC_000913,"2,132,787",SNP,A→C,wcaA,,putative glycosyl transferase,,,I204S (ATC→AGC),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+26102,NC_000913,"257,908",DEL,Δ776 bp,[crl],,[crl],,,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+38199,NC_000913,"4,184,542",SNP,C→A,rpoB,,"RNA polymerase, beta subunit",,,P1100Q (CCG→CAG),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+76756,NC_000913,"3,164,897",SNP,G→A,parC,,"DNA topoisomerase IV, subunit A",,,R359C (CGC→TGC),,,,,,,,,,1.00
+76794,NC_000913,"1,334,015",SNP,A→G,cysB,,"N-acetylserine-responsive cysteine regulon transcriptional activator, autorepressor",,,K54R (AAG→AGG),,,,,,,,0.59,,
+38171,NC_000913,"3,815,858",DEL,Δ82 bp,"[rph], [rph]",,"[rph], [rph]",,,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+76701,NC_000913,"3,951,535",DEL,Δ1 bp,ilvG,,"pseudogene, acetolactate synthase 2 large subunit, valine-insensitive, acetolactate synthase II, large subunit, cryptic, interrupted",,,pseudogene (977/984 nt),,,1.00,1.00,1.00,,,,,
+76757,NC_000913,"3,968,508",DEL,Δ1 bp,wecA,,UDP-GlcNAc:undecaprenylphosphate GlcNAc-1-phosphate transferase,,,coding (594/1104 nt),,,,,,,,,,1.00

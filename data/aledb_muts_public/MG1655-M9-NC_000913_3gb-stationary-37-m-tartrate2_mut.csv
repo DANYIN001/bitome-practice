@@ -1,0 +1,52 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,MG1655-M9-NC_000913_3gb-stationary-37-m-tartrate2 A1 F10 I1 R1,MG1655-M9-NC_000913_3gb-stationary-37-m-tartrate2 A1 F86 I0 R1,MG1655-M9-NC_000913_3gb-stationary-37-m-tartrate2 A1 F86 I1 R1,MG1655-M9-NC_000913_3gb-stationary-37-m-tartrate2 A2 F10 I1 R1,MG1655-M9-NC_000913_3gb-stationary-37-m-tartrate2 A2 F27 I1 R1,MG1655-M9-NC_000913_3gb-stationary-37-m-tartrate2 A2 F88 I0 R1,MG1655-M9-NC_000913_3gb-stationary-37-m-tartrate2 A2 F88 I1 R1
+80513,NC_000913,"1,514,951",SNP,G→T,ydcV,,putative ABC transporter permease,,,A64S (GCC→TCC),,,,,,,1.00
+43395,NC_000913,"4,296,380",INS,+CG,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+586/+56),,1.00,,,,1.00,
+80516,NC_000913,"1,867,235",DEL,Δ4 bp,yeaG,,"protein kinase, endogenous substrate unidentified; autokinase",,,coding (328‑331/1935 nt),,,,,1.00,1.00,1.00
+80517,NC_000913,"1,881,844",SNP,T→G,"dmlR, dmlA",,"transcriptional activator of dmlA/D-malate oxidase, NAD-dependent; putative tartrate dehydrogenase",,,intergenic (‑35/‑68),,,,,1.00,1.00,1.00
+80650,NC_000913,"1,610,724",SNP,T→C,"uxaB, yneF",,"altronate oxidoreductase, NAD-dependent/putative membrane-bound diguanylate cyclase",,,intergenic (‑44/+183),,,,,,,1.00
+80649,NC_000913,"2,416,824",DEL,Δ1 bp,pta,,phosphate acetyltransferase,,,coding (2078/2145 nt),,,,,1.00,,
+80522,NC_000913,"2,416,854",SNP,T→G,pta,,phosphate acetyltransferase,,,I703S (ATC→AGC),,,,,,0.25,
+80651,NC_000913,"1,881,859",SNP,C→T,"dmlR, dmlA",,"transcriptional activator of dmlA/D-malate oxidase, NAD-dependent; putative tartrate dehydrogenase",,,intergenic (‑50/‑53),,,,1.00,,,
+80652,NC_000913,"2,860,796",SNP,G→A,ygbI,,DeoR family putative transcriptional regulator,,,R147W (CGG→TGG),,,,1.00,,,
+80653,NC_000913,"4,613,473",SNP,G→T,yjjU,,putative patatin-like family phospholipase,,,D355Y (GAT→TAT),,,,1.00,,,
+80526,NC_000913,"2,860,769",DEL,Δ20 bp,ygbI,,DeoR family putative transcriptional regulator,,,coding (447‑466/768 nt),,,,,1.00,1.00,1.00
+83858,NC_000913,"1,196,245",SNP,T→C,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,L375L (TTA→CTA),,0.21,,,,,
+83859,NC_000913,"1,196,247",SNP,A→G,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,L375L (TTA→TTG),,0.21,,,,,
+80405,NC_000913,"2,698,431",INS,+CA,pgpC,,"phosphatidylglycerophosphatase C, membrane bound",,,coding (120/636 nt),,,1.00,,,,
+80406,NC_000913,"2,860,761",SUB,2 bp→TT,ygbI,,DeoR family putative transcriptional regulator,,,coding (473‑474/768 nt),,,1.00,,,,
+83865,NC_000913,"1,905,253",DEL,"Δ36,755 bp","[yobD],mntP,rlmA,cspC,yobF,yebO,mgrB,yobH,kdgR,yebQ,htpX,prc,proQ,msrC,yebS,yebT,rsmF,yebV,yebW,pphA,ryeA,sdsR,yebY,yebZ,yobA,holE,yobB,exoX,ptrB,yebE,yebF,yebG,purT,eda,edd,zwf,yebK,pykA,lpxM,mepM,[znuA]",,"[yobD],mntP,rlmA,cspC,yobF,yebO,mgrB,yobH,kdgR,yebQ,htpX,prc,proQ,msrC,yebS,yebT,rsmF,yebV,yebW,pphA,ryeA,sdsR,yebY,yebZ,yobA,holE,yobB,exoX,ptrB,yebE,yebF,yebG,purT,eda,edd,zwf,yebK,pykA,lpxM,mepM,[znuA]",,,,1.00,1.00,1.00,,,,
+80537,NC_000913,"3,951,538",DEL,Δ1 bp,ilvG,,"pseudogene, acetolactate synthase 2 large subunit, valine-insensitive; acetolactate synthase II, large subunit, cryptic, interrupted",,,pseudogene (979/984 nt),,,,,1.00,0.94,1.00
+83866,NC_000913,"1,978,503",DEL,Δ776 bp,"insB1,insA",,"insB1,insA",,,,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+80540,NC_000913,"4,001,885",SNP,G→T,corA,,magnesium/nickel/cobalt transporter,,,D154Y (GAC→TAC),,,,,,,1.00
+80538,NC_000913,"3,991,184",SNP,G→T,cyaA,,adenylate cyclase,,,R11I (AGA→ATA),,,,,,,1.00
+80287,NC_000913,"562,624",MOB,IS5 (–) +4 bp,sfmH,,"FimA homolog, function unknown",,,coding (289‑292/984 nt),,,1.00,,,,
+83879,NC_000913,"3,951,543",DEL,Δ1 bp,ilvG|ilvG,,"pseudogene, acetolactate synthase 2 large subunit, valine-insensitive; acetolactate synthase II, large subunit, cryptic, interrupted|pseudogene, acetolactate synthase 2 large subunit, valine-insensitive; acetolactate synthase II, large subunit, cryptic, interrupted",,,pseudogene (984/984 nt)|pseudogene (2/663 nt),,0.35,,,,,
+80302,NC_000913,"1,290,656",SNP,C→T,rssB,,PcnB-degradosome interaction factor; response regulator,,,L139F (CTT→TTT),,,1.00,,,,
+80303,NC_000913,"1,333,383",SNP,T→A,topA,,"DNA topoisomerase I, omega subunit",,,V779E (GTG→GAG),,,1.00,,,,
+80305,NC_000913,"1,335,283",SNP,G→T,ymiA,,uncharacterized protein,,,G54* (GGA→TGA),,,1.00,,,,
+83890,NC_000913,"3,815,859",DEL,Δ82 bp,"[rph],[rph]",,"[rph],[rph]",,,,,,,,,0.58,
+37939,NC_000913,"2,173,363",DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,intergenic (‑1/+1),1.00,,1.00,1.00,1.00,,1.00
+80521,NC_000913,"2,416,823",DEL,Δ1 bp,pta,,phosphate acetyltransferase,,,coding (2077/2145 nt),,,,,,0.46,
+80312,NC_000913,"1,882,635",SNP,G→A,dmlA,,"D-malate oxidase, NAD-dependent; putative tartrate dehydrogenase",,,A242T (GCG→ACG),1.00,1.00,1.00,,,,
+37945,NC_000913,"3,560,455",INS,+G,"glpR, glpR",,"pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon/pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon",,,intergenic (‑2/+1),1.00,1.00,1.00,1.00,1.00,1.00,1.00
+37947,NC_000913,"4,296,381",INS,+GC,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+587/+55),1.00,,1.00,1.00,1.00,,1.00
+40636,NC_000913,"1,196,220",SNP,C→T,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,H366H (CAC→CAT),,0.25,,,,,1.00
+40637,NC_000913,"1,196,232",SNP,C→T,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,T370T (ACC→ACT),,0.23,,,,,1.00
+40638,NC_000913,"1,196,245",SNP,T→C,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,L375M (TTA→CTG),,,,,,,1.00
+40639,NC_000913,"1,196,247",SNP,A→G,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,L375M (TTA→CTG),,,,,,,1.00
+80321,NC_000913,"2,698,428",INS,+A,pgpC,,"phosphatidylglycerophosphatase C, membrane bound",,,coding (123/636 nt),,0.94,,,,,
+80322,NC_000913,"2,698,428",INS,+C,pgpC,,"phosphatidylglycerophosphatase C, membrane bound",,,coding (123/636 nt),,0.94,,,,,
+80520,NC_000913,"2,416,674",SNP,C→A,pta,,phosphate acetyltransferase,,,S643Y (TCT→TAT),,,,,,,1.00
+26191,NC_000913,"1,299,499",DEL,"Δ1,199 bp","ychE, oppA",,UPF0056 family inner membrane protein/oligopeptide ABC transporter periplasmic binding protein,,,intergenic (+254/‑485),,1.00,1.00,1.00,,,
+80533,NC_000913,"3,815,810",SNP,G→T,"pyrE, rph",,orotate phosphoribosyltransferase/ribonuclease PH (defective);enzyme; Degradation of RNA; RNase PH,,,intergenic (‑42/+24),,,,,,,1.00
+43350,NC_000913,"1,529,175",SNP,T→C,rhsE,,"pseudogene, Rhs family",,,pseudogene (1274/2037 nt),,,,1.00,,,
+43351,NC_000913,"1,529,180",SNP,T→C,rhsE,,"pseudogene, Rhs family",,,pseudogene (1279/2037 nt),,,,1.00,,,
+43352,NC_000913,"1,529,185",SNP,C→T,rhsE,,"pseudogene, Rhs family",,,pseudogene (1284/2037 nt),,,,1.00,,,
+43353,NC_000913,"1,529,203",SNP,C→A,rhsE,,"pseudogene, Rhs family",,,pseudogene (1302/2037 nt),,,,1.00,,,
+43354,NC_000913,"1,529,218",SNP,C→T,rhsE,,"pseudogene, Rhs family",,,pseudogene (1317/2037 nt),,,,1.00,,,
+80317,NC_000913,"2,173,361",DEL,Δ2 bp,gatC,,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,pseudogene (1‑2/442 nt),,1.00,,,,1.00,
+26102,NC_000913,"257,908",DEL,Δ776 bp,[crl],,[crl],,,,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+80504,NC_000913,"302,732",MOB,IS2 (–) +5 bp,"paoA, yagU",,"PaoABC aldehyde oxidoreductase, 2Fe-2S subunit/DUF1440 family inner membrane acid resistance protein",,,intergenic (‑159/‑255),,,,,,,1.00
+43389,NC_000913,"4,296,190",SNP,A→G,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+396/+246),,0.28,,,,0.28,
+43390,NC_000913,"4,296,191",SNP,A→C,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+397/+245),,0.27,,,,0.32,
+43391,NC_000913,"4,296,268",SNP,T→C,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+474/+168),,0.29,,,,0.26,

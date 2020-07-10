@@ -1,0 +1,31 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,MG1655-M9-NC_000913_3gb-stationary-37-D-arabinose2 A1 F9 I1 R1,MG1655-M9-NC_000913_3gb-stationary-37-D-arabinose2 A1 F48 I1 R1,MG1655-M9-NC_000913_3gb-stationary-37-D-arabinose2 A1 F78 I0 R1,MG1655-M9-NC_000913_3gb-stationary-37-D-arabinose2 A1 F78 I1 R1,MG1655-M9-NC_000913_3gb-stationary-37-D-arabinose2 A2 F6 I1 R1,MG1655-M9-NC_000913_3gb-stationary-37-D-arabinose2 A2 F27 I1 R1,MG1655-M9-NC_000913_3gb-stationary-37-D-arabinose2 A2 F70 I0 R1,MG1655-M9-NC_000913_3gb-stationary-37-D-arabinose2 A2 F70 I1 R1
+80385,NC_000913,"2,939,592",SNP,C→A,fucR,,l-fucose operon activator,,,S75R (AGC→AGA),,,0.81,1.00,,1.00,1.00,1.00
+43395,NC_000913,"4,296,380",INS,+CG,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+586/+56),,,1.00,,,,1.00,
+26102,NC_000913,"257,908",DEL,Δ776 bp,[crl],,[crl],,,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+80545,NC_000913,"2,940,099",SNP,A→C,fucR,,l-fucose operon activator,,,*244C (TGA→TGC),,,,,1.00,1.00,1.00,1.00
+80393,NC_000913,"3,541,500",SNP,C→T,feoB,,ferrous iron transporter protein B and GTP-binding protein; membrane protein,,,S365F (TCC→TTC),,,0.30,,,,,
+80546,NC_000913,"3,049,512",DEL,Δ1 bp,gcvH,,glycine cleavage complex lipoylprotein,,,coding (38/390 nt),,,,,,,,1.00
+26191,NC_000913,"1,299,499",DEL,"Δ1,199 bp","ychE, oppA",,UPF0056 family inner membrane protein/oligopeptide ABC transporter periplasmic binding protein,,,intergenic (+254/‑485),,,,,,1.00,,
+80400,NC_000913,"4,215,883",SNP,C→T,aceB,,malate synthase A,,,L136L (CTG→TTG),,,0.29,,,,,
+80547,NC_000913,"3,967,560",SNP,A→T,rho,,transcription termination factor,,,I382F (ATC→TTC),,,,,1.00,1.00,1.00,1.00
+83866,NC_000913,"1,978,503",DEL,Δ776 bp,"insB1,insA",,"insB1,insA",,,,1.00,,1.00,,1.00,,1.00,
+80544,NC_000913,"70,852",SNP,C→A,araC,,ara regulon transcriptional activator; autorepressor,,,L156I (CTT→ATT),,,,,,,0.87,1.00
+43354,NC_000913,"1,529,218",SNP,C→T,rhsE,,"pseudogene, Rhs family",,,pseudogene (1317/2037 nt),,,,,1.00,1.00,1.00,1.00
+80352,NC_000913,"924,050",SNP,T→G,clpA,,"ATPase and specificity subunit of ClpA-ClpP ATP-dependent serine protease, chaperone activity",,,F263V (TTT→GTT),1.00,1.00,0.28,,,,,
+80353,NC_000913,"2,939,611",SNP,G→T,fucR,,l-fucose operon activator,,,D82Y (GAT→TAT),1.00,1.00,,,,,,
+80354,NC_000913,"3,443,906",SNP,A→C,secY,,preprotein translocase membrane subunit,,,F64L (TTT→TTG),,1.00,,,,,,
+80355,NC_000913,"70,406",DEL,Δ6 bp,araC,,ara regulon transcriptional activator; autorepressor,,,coding (20‑25/879 nt),,,0.70,1.00,,,,
+80548,NC_000913,"2,934,616",SNP,G→T,fucP,,L-fucose transporter,,,A128S (GCA→TCA),,,,,,1.00,,
+40615,NC_000913,"3,622,299",SNP,G→A,rhsB,,Rhs protein with DUF4329 family putative toxin domain; putative neighboring cell growth inhibitor,,,T1036T (ACG→ACA),,,,1.00,,,,
+43391,NC_000913,"4,296,268",SNP,T→C,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+474/+168),,,0.29,,,,0.27,
+80605,NC_000913,"3,049,511",DEL,Δ1 bp,gcvH,,glycine cleavage complex lipoylprotein,,,coding (39/390 nt),,,,,,,0.73,
+80368,NC_000913,"1,198,576",MOB,IS2 (–) +5 bp,"ymfE, lit",,"e14 prophage; putative inner membrane protein/T4 phage exclusion protein; cell death peptidase, e14 prophage",,,intergenic (‑339/‑115),,,0.23,,,,,
+83890,NC_000913,"3,815,859",DEL,Δ82 bp,"[rph],[rph]",,"[rph],[rph]",,,,,,0.50,1.00,,,,
+37939,NC_000913,"2,173,363",DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,intergenic (‑1/+1),1.00,1.00,,1.00,1.00,1.00,,1.00
+80374,NC_000913,"2,173,497",SNP,G→A,gatC,,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,pseudogene (782/914 nt),,,0.84,1.00,,,,
+43389,NC_000913,"4,296,190",SNP,A→G,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+396/+246),,,,,,,0.22,
+37945,NC_000913,"3,560,455",INS,+G,"glpR, glpR",,"pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon/pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon",,,intergenic (‑2/+1),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+37947,NC_000913,"4,296,381",INS,+GC,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+587/+55),1.00,1.00,,1.00,1.00,1.00,,1.00
+80317,NC_000913,"2,173,361",DEL,Δ2 bp,gatC,,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,pseudogene (1‑2/442 nt),,,1.00,,,,1.00,
+43390,NC_000913,"4,296,191",SNP,A→C,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+397/+245),,,0.21,,,,0.27,
+84095,NC_000913,"924,950",DEL,(CTG)3→2,clpA,,"ATPase and specificity subunit of ClpA-ClpP ATP-dependent serine protease, chaperone activity",,,coding (1687‑1689/2277 nt),,,,1.00,,,,

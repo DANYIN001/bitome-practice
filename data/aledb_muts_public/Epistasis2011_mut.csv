@@ -1,0 +1,8 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,Epistasis2011 A1 F1 I1 R1
+38129,CP001510,"482,896",INS,+C,"motC, MexAM1_META1p0460",,chemotaxis protein MotC/conserved hypothetical protein,,,intergenic (+992/‑854),1.00
+38130,CP001510,"701,479",DEL,Δ2 bp,"MexAM1_META1p0670, gshA",,putative L-asparaginase (ansA-like)/gamma-glutamylcysteine synthetase,,,intergenic (+62/‑124),1.00
+38131,CP001510,"2,329,713",DEL,Δ1 bp,"MexAM1_META1p2261, hisI",,conserved hypothetical protein with 2 CBS domains/phosphoribosyl c-AMP cyclohydrolase,,,intergenic (+765/+344),1.00
+38132,CP001510,"2,777,457",SNP,T→G,MexAM1_META1p2648,,Hypothetical protein,,,P136P (CCA→CCC),1.00
+38133,CP001510,"3,037,772",DEL,Δ1 bp,MexAM1_META1p2908,,hypothetical protein,,,coding (721/939 nt),1.00
+38134,CP001510,"3,087,664",SNP,C→T,"MexAM1_META1p2955, pntAA",,"hypothetical protein, putative membrane protein/NAD(P)+ transhydrogenase, subunit alpha part 1",,,intergenic (+64/‑48),1.00
+38135,CP001510,"3,159,073",DEL,Δ1 bp,"glnG, MexAM1_META1p3022",,"two-component sigma-54 specific nitrogen transcriptional regulator, Fis subfamily, N-terminal response receiver/putative helicase domain protein with DEAD/DEAH motif",,,intergenic (+570/‑75),1.00

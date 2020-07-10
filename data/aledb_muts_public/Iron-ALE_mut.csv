@@ -1,0 +1,19 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,Iron-ALE A17 F45 I1 R1,Iron-ALE A18 F39 I1 R1,Iron-ALE A19 F39 I1 R1,Iron-ALE A20 F40 I1 R1
+85952,NC_000913,"331,806",SNP,G→A,"betT, yahA",,choline transporter of high affinity/c-di-GMP-specific phosphodiesterase,,,intergenic (+310/‑565),,,1.00,
+85953,NC_000913,"1,531,875",SNP,G→A,ydcC,,H repeat-associated putative transposase,,,W20* (TGG→TGA),,,1.00,
+85954,NC_000913,"2,067,837",SNP,G→T,yoeG,,"pseudogene, CP4-44 putative prophage remnant;Phage or Prophage Related",,,pseudogene (56/435 nt),,1.00,1.00,
+85955,NC_000913,"2,152,433",SNP,A→G,yegK,,ser/thr phosphatase-related protein,,,S14P (TCG→CCG),,,1.00,
+85956,NC_000913,"4,158,809",SNP,C→T,oxyR,,oxidative and nitrosative stress transcriptional regulator,,,P107L (CCG→CTG),,,1.00,
+85957,NC_000913,"4,159,126",SNP,G→C,oxyR,,oxidative and nitrosative stress transcriptional regulator,,,A213P (GCG→CCG),1.00,,,
+85958,NC_000913,"4,159,112",SNP,G→A,oxyR,,oxidative and nitrosative stress transcriptional regulator,,,C208Y (TGT→TAT),,1.00,,
+85959,NC_000913,"3,458,110",SNP,C→A,gspD,,"general secretory pathway component, cryptic",,,T578T (ACC→ACA),,,,1.00
+85960,NC_000913,"3,482,325",SNP,G→A,yheS,,ABC-F family protein predicted regulatory ATPase,,,R346H (CGC→CAC),,,,1.00
+85961,NC_000913,"4,158,827",SNP,T→A,oxyR,,oxidative and nitrosative stress transcriptional regulator,,,L113Q (CTG→CAG),,,,1.00
+85962,NC_000913,"4,473,927",SNP,C→A,bdcA,,c-di-GMP-binding biofilm dispersal mediator protein,,,A43S (GCC→TCC),,,,1.00
+83890,NC_000913,"3,815,859",DEL,Δ82 bp,"[rph],[rph]",,"[rph],[rph]",,,,,1.00,1.00,1.00
+37938,NC_000913,"1,979,486",MOB,IS5 (+) +4 bp,"insA, uspC",,IS1 repressor TnpA/universal stress protein,,,intergenic (‑271/‑264),1.00,1.00,1.00,1.00
+37939,NC_000913,"2,173,363",DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,intergenic (‑1/+1),1.00,1.00,1.00,1.00
+26102,NC_000913,"257,908",DEL,Δ776 bp,[crl],,[crl],,,,1.00,,1.00,1.00
+37945,NC_000913,"3,560,455",INS,+G,"glpR, glpR",,"pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon/pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon",,,intergenic (‑2/+1),1.00,1.00,1.00,1.00
+83866,NC_000913,"1,978,503",DEL,Δ776 bp,"insB1,insA",,"insB1,insA",,,,1.00,1.00,1.00,1.00
+37947,NC_000913,"4,296,381",INS,+GC,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+587/+55),1.00,1.00,1.00,1.00

@@ -1,0 +1,51 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,SSW XYL A1 F116 I1 R1,SSW XYL A2 F109 I1 R1,SSW XYL A3 F112 I1 R1,SSW XYL A4 F113 I1 R1
+40588,NC_000913,"4,187,658",SNP,T→G,rpoC,,"RNA polymerase, beta prime subunit",,,L770R (CTC→CGC),1.00,,,
+40589,NC_000913,"691,331",SNP,C→A,ybeX,,putative ion transport,,,D152Y (GAC→TAC),,,1.00,
+40590,NC_000913,"2,567,761",SNP,T→C,eutH,,ethanolamine transporter,,,D116G (GAC→GGC),,,1.00,
+40591,NC_000913,"3,440,087",SNP,C→T,rpoA,,"RNA polymerase, alpha subunit",,,G315S (GGC→AGC),,,1.00,
+40592,NC_000913,"3,815,859",DEL,Δ82 bp,"[rph], [rph]",,"[rph], [rph]",,,,1.00,1.00,1.00,1.00
+40593,NC_000913,"3,735,339",SNP,C→T,xylR,,xylose divergent operon transcriptional activator,,,R121C (CGC→TGC),1.00,,,
+40594,NC_000913,"3,211,597",SNP,G→C,dnaG,,DNA primase,,,G164A (GGC→GCC),,1.00,,
+40595,NC_000913,"4,188,573",SNP,G→T,rpoC,,"RNA polymerase, beta prime subunit",,,R1075L (CGT→CTT),,1.00,,
+40596,NC_000913,"4,189,448",SNP,C→T,rpoC,,"RNA polymerase, beta prime subunit",,,Q1367* (CAG→TAG),,1.00,,
+40597,NC_000913,"4,542,930",SNP,A→G,"fimE, fimA",,tyrosine recombinase/inversion of on/off regulator of fimA/major type 1 subunit fimbrin (pilin),,,intergenic (+297/‑185),,1.00,,
+40598,NC_000913,"525,276",SNP,C→T,rhsD,,Rhs protein with DUF4329 family putative toxin domain; putative neighboring cell growth inhibitor,,,G672G (GGC→GGT),,,,1.00
+40599,NC_000913,"1,351,196",DEL,(G)7→6,"fabI, ycjD",,"enoyl-[acyl-carrier-protein] reductase, NADH-dependent/DUF559 family endonuclease-related protein",,,intergenic (‑157/+211),,,,1.00
+40600,NC_000913,"1,642,981",SNP,G→C,quuQ,,Qin prophage; putative antitermination protein Q,,,I87M (ATC→ATG),,,,1.00
+40601,NC_000913,"1,745,706",SNP,T→C,ydhQ,,autotransporter adhesin-related protein,,,E141G (GAG→GGG),,,,1.00
+40602,NC_000913,"1,807,657",SNP,G→A,ydiZ,,uncharacterized protein,,,T86T (ACG→ACA),,,,1.00
+39451,NC_000913,"367,852",DEL,(GC)6→5,mhpR,,mhp operon transcriptional activator,,,coding (568‑569/834 nt),,,,1.00
+40604,NC_000913,"2,051,535",SNP,G→A,yeeJ,,putative adhesin,,,A2200T (GCC→ACC),,,,1.00
+40605,NC_000913,"2,183,397",DEL,(T)5→4,yegX,,putative family 25 glycosyl hydrolase,,,coding (255/819 nt),,,,1.00
+40606,NC_000913,"2,245,845",SNP,G→A,cirA,,colicin IA outer membrane receptor and translocator; ferric iron-catecholate transporter,,,P309S (CCG→TCG),,,,1.00
+40607,NC_000913,"2,620,434",INS,(T)6→7,upp,,uracil phosphoribosyltransferase,,,coding (439/627 nt),,,,1.00
+40608,NC_000913,"2,857,648",SNP,G→T,mutS,,methyl-directed mismatch repair protein,,,E186* (GAA→TAA),,,,1.00
+40609,NC_000913,"2,905,539",SNP,T→C,"queE, yqcG",,7-carboxy-7-deazaguanine synthase; queosine biosynthesis/membrane stress resistance protein,,,intergenic (‑121/‑18),,,,1.00
+40610,NC_000913,"3,229,827",SNP,A→G,ygjK,,alpha-glucosidase,,,N314D (AAC→GAC),,,,1.00
+40603,NC_000913,"1,978,440",INS,(G)6→7,"flhD, insB1",,"flagellar class II regulon transcriptional activator, with FlhC/IS1 transposase B",,,intergenic (‑243/+78),,,,1.00
+40612,NC_000913,"3,459,879",SNP,T→C,gspF,,"general secretory pathway component, cryptic",,,A21A (GCT→GCC),,,,1.00
+40613,NC_000913,"3,595,025",INS,+A,livM,,branched-chain amino acid ABC transporter permease,,,coding (456/1278 nt),,,,1.00
+40614,NC_000913,"3,619,150",SNP,T→C,"nikR, rhsB",,"transcriptional repressor, Ni-binding/Rhs protein with DUF4329 family putative toxin domain; putative neighboring cell growth inhibitor",,,intergenic (+161/‑42),,,,1.00
+40615,NC_000913,"3,622,299",SNP,G→A,rhsB,,Rhs protein with DUF4329 family putative toxin domain; putative neighboring cell growth inhibitor,,,T1036T (ACG→ACA),,,,1.00
+40616,NC_000913,"3,622,314",SNP,G→A,rhsB,,Rhs protein with DUF4329 family putative toxin domain; putative neighboring cell growth inhibitor,,,R1041R (AGG→AGA),,,,1.00
+40617,NC_000913,"3,622,316",SNP,G→C,rhsB,,Rhs protein with DUF4329 family putative toxin domain; putative neighboring cell growth inhibitor,,,S1042T (AGC→ACC),,,,1.00
+40618,NC_000913,"3,735,003",SNP,A→G,xylR,,xylose divergent operon transcriptional activator,,,T9A (ACA→GCA),,,,1.00
+40619,NC_000913,"3,777,535",SNP,C→T,lldP,,L-lactate permease,,,T46M (ACG→ATG),,,,1.00
+40620,NC_000913,"3,928,930",SNP,G→A,viaA,,stimulator of RavA ATPase activity; von Willebrand factor domain protein,,,A225V (GCC→GTC),,,,1.00
+40621,NC_000913,"3,966,553",SNP,G→A,rho,,transcription termination factor,,,G46D (GGC→GAC),,,,1.00
+40622,NC_000913,"4,060,920",SNP,T→C,yihL,,putative DNA-binding transcriptional regulator,,,L158L (CTT→CTC),,,,1.00
+40623,NC_000913,"4,275,912",SNP,A→G,yjcC,,putative membrane-anchored cyclic-di-GMP phosphodiesterase,,,M148V (ATG→GTG),,,,1.00
+40624,NC_000913,"4,453,435",DEL,(G)5→4,ytfT,,putative sugar ABC transporter permease,,,coding (865/1026 nt),,,,1.00
+40625,NC_000913,"4,464,163",DEL,(T)6→5,treC,,trehalose-6-P hydrolase,,,coding (547/1656 nt),,,,1.00
+37938,NC_000913,"1,979,486",MOB,IS5 (+) +4 bp,"insA, uspC",,IS1 repressor TnpA/universal stress protein,,,intergenic (‑271/‑264),1.00,1.00,,1.00
+37939,NC_000913,"2,173,363",DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,intergenic (‑1/+1),1.00,1.00,1.00,1.00
+37945,NC_000913,"3,560,455",INS,+G,"glpR, glpR",,"pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon/pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon",,,intergenic (‑2/+1),1.00,1.00,1.00,1.00
+37947,NC_000913,"4,296,381",INS,+GC,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+587/+55),1.00,1.00,1.00,1.00
+38212,NC_000913,"380,022",DEL,(G)10→9,"frmR, yaiO",,regulator protein that represses frmRAB operon/outer membrane protein,,,intergenic (‑141/+47),,,,1.00
+26183,NC_000913,"1,978,503",DEL,Δ776 bp,"insB1, insA",,"insB1, insA",,,,,1.00,,1.00
+37962,NC_000913,"3,966,676",SNP,G→T,rho,,transcription termination factor,,,R87L (CGC→CTC),,,1.00,
+26191,NC_000913,"1,299,499",DEL,"Δ1,199 bp","ychE, oppA",,UPF0056 family inner membrane protein/oligopeptide ABC transporter periplasmic binding protein,,,intergenic (+254/‑485),,,,1.00
+40611,NC_000913,"3,342,107",INS,(G)6→7,kdsD,,D-arabinose 5-phosphate isomerase,,,coding (842/987 nt),,,,1.00
+40626,NC_000913,"4,597,488",SNP,A→G,opgB,,OPG periplasmic biosynthetic phosphoglycerol transferases I (membrane-bound) and II (soluble),,,W652R (TGG→CGG),,,,1.00
+40627,NC_000913,"4,609,336",INS,(C)7→8,"yjjG, prfC",,dUMP phosphatase/peptide chain release factor RF-3,,,intergenic (+13/‑78),,,,1.00
+26102,NC_000913,"257,908",DEL,Δ776 bp,[crl],,[crl],,,,1.00,1.00,1.00,1.00

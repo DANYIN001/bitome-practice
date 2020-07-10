@@ -1,0 +1,50 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,TOL n-butanol A1 F50 I1 R1,TOL n-butanol A1 F50 I2 R1,TOL n-butanol A1 F50 I3 R1,TOL n-butanol A2 F50 I1 R1,TOL n-butanol A3 F50 I1 R1,TOL n-butanol A3 F50 I2 R1,TOL n-butanol A3 F50 I3 R1,TOL n-butanol A4 F50 I1 R1,TOL n-butanol A4 F50 I2 R1,TOL n-butanol A4 F50 I3 R1,TOL n-butanol A5 F50 I1 R1,TOL n-butanol A5 F50 I2 R1,TOL n-butanol A6 F50 I1 R1,TOL n-butanol A6 F50 I2 R1,TOL n-butanol A6 F50 I3 R1,TOL n-butanol A7 F50 I1 R1,TOL n-butanol A7 F50 I2 R1,TOL n-butanol A7 F50 I3 R1,TOL n-butanol A8 F50 I1 R1,TOL n-butanol A8 F50 I2 R1
+80655,NC_000913,"1,394,081",DEL,Δ2 bp,mppA,,murein tripeptide (L-ala-gamma-D-glutamyl-meso-DAP) transporter subunit,,,coding (855‑856/1614 nt),,,,,,,,,,,1.00,,,,,,,,,
+40592,NC_000913,"3,815,859",DEL,Δ82 bp,"[rph], [rph]",,"[rph], [rph]",,,,,,,1.00,,,,,,,,,,,,,,,,
+80657,NC_000913,"1,903,497",SNP,T→C,manY,,mannose-specific enzyme IIC component of PTS,,,I139T (ATC→ACC),1.00,1.00,1.00,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+80658,NC_000913,"1,907,343",MOB,IS1 (–) +8 bp,cspC,,"stress protein, member of the CspA-family",,,coding (86‑93/210 nt),,,,,,,,1.00,1.00,1.00,1.00,1.00,,,,,,,,
+80659,NC_000913,"3,915,089",SNP,G→T,glmU,,fused N-acetyl glucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyl transferase,,,H38N (CAT→AAT),,,,,,,,1.00,1.00,1.00,1.00,1.00,,,,,,,,
+80660,NC_000913,"4,635,159",SNP,C→T,rob,,"right oriC-binding transcriptional activator, AraC family",,,G51D (GGC→GAC),,,,,,,,1.00,1.00,1.00,1.00,1.00,,,,,,,,
+80661,NC_000913,"1,618,666",MOB,IS2 (+) +5 bp,marC,,UPF0056 family inner membrane protein,,,coding (239‑243/666 nt),,,,,,,,1.00,1.00,1.00,,1.00,,,,,,,,
+80662,NC_000913,"949,006",SNP,T→G,ycaN,,LysR family putative transcriptional regulator,,,N188T (AAT→ACT),,,1.00,,,,,,,,,,,,,,,,,
+80663,NC_000913,"1,674,448",SNP,C→A,tqsA,,pheromone AI-2 transporter,,,P179Q (CCG→CAG),,,1.00,,,,,,,,,,,,,,,,,
+80664,NC_000913,"4,635,196",INS,+G,rob,,"right oriC-binding transcriptional activator, AraC family",,,coding (115/870 nt),,,1.00,,,,,,,,,,,,,,,,,
+80665,NC_000913,"226,248",SNP,C→A,rrlH,,23S ribosomal RNA of rrnH operon,,,noncoding (490/2904 nt),,,,,,,,1.00,,,,,,,1.00,,,,,
+80666,NC_000913,"226,262",SNP,A→T,rrlH,,23S ribosomal RNA of rrnH operon,,,noncoding (504/2904 nt),,,,,,,,1.00,,,,,,,1.00,,,,,
+80667,NC_000913,"226,278",SNP,G→A,rrlH,,23S ribosomal RNA of rrnH operon,,,noncoding (520/2904 nt),,,,,,,,1.00,,,,,,,1.00,,,,,
+80668,NC_000913,"226,280",SNP,A→G,rrlH,,23S ribosomal RNA of rrnH operon,,,noncoding (522/2904 nt),,,,,,,,1.00,,,,,,,1.00,,,,,
+80669,NC_000913,"226,299",SNP,A→C,rrlH,,23S ribosomal RNA of rrnH operon,,,noncoding (541/2904 nt),,,,,,,,,,,,,,,1.00,,,,,
+80670,NC_000913,"226,301",SNP,G→A,rrlH,,23S ribosomal RNA of rrnH operon,,,noncoding (543/2904 nt),,,,,,,,1.00,,,,,,,1.00,,,,,
+80671,NC_000913,"226,305",DEL,Δ1 bp,rrlH,,23S ribosomal RNA of rrnH operon,,,noncoding (547/2904 nt),,,,,,,,1.00,,,,,,,1.00,,,,,
+80672,NC_000913,"226,307",SUB,4 bp→TTAG,rrlH,,23S ribosomal RNA of rrnH operon,,,noncoding (549‑552/2904 nt),,,,,,,,1.00,,,,,,,1.00,,,,,
+80673,NC_000913,"1,606,886",DEL,"Δ11,558 bp","[lsrF], lsrG, tam, yneE, uxaB, yneF, yneG, glsB, sad, yneJ, yneK, ydeA, [marC]",,"[lsrF], lsrG, tam, yneE, uxaB, yneF, yneG, glsB, sad, yneJ, yneK, ydeA, [marC]",,,,,,,,,,,,,,,,1.00,1.00,1.00,,,,,
+80674,NC_000913,"4,635,243",SNP,G→T,rob,,"right oriC-binding transcriptional activator, AraC family",,,S23* (TCG→TAG),,,,,,,,,,,,,1.00,1.00,1.00,,,,,
+43299,NC_000913,"3,815,810",DEL,Δ1 bp,"pyrE, rph",,"orotate phosphoribosyltransferase/ribonuclease PH (defective),enzyme, Degradation of RNA, RNase PH",,,intergenic (‑42/+24),1.00,1.00,1.00,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+80676,NC_000913,"1,981,720",SNP,G→A,otsB,,"trehalose-6-phosphate phosphatase, biosynthetic",,,A223V (GCA→GTA),,,,,,,,,,,,,,,,,,,,1.00
+80677,NC_000913,"4,119,238",DEL,Δ18 bp,rraA,,ribonuclease E (RNase E) inhibitor protein,,,coding (76‑93/486 nt),,,,,,,,,,,,,,,,,,,1.00,1.00
+80678,NC_000913,"4,635,048",SNP,A→C,rob,,"right oriC-binding transcriptional activator, AraC family",,,F88C (TTT→TGT),,,,,,,,,,,,,,,,,,,1.00,1.00
+80679,NC_000913,"1,392,752",DEL,"Δ3,292 bp","[pgrR], mppA, ynaI",,"[pgrR], mppA, ynaI",,,IS5‑mediated,,,,,,,,,,,,,,,,1.00,1.00,1.00,,
+80680,NC_000913,"1,907,611",MOB,IS5 (+) +4 bp,"yobF, yebO",,DUF2527 family heat-induced protein/putative inner membrane protein,,,intergenic (‑20/+647),,,,,,,,,,,,,,,,1.00,1.00,1.00,,
+80681,NC_000913,"4,635,203",SNP,C→T,rob,,"right oriC-binding transcriptional activator, AraC family",,,W36* (TGG→TGA),,,,,,,,,,,,,,,,1.00,1.00,1.00,,
+80682,NC_000913,"1,618,698",SNP,T→A,marC,,UPF0056 family inner membrane protein,,,I71F (ATT→TTT),,,,1.00,,,,,,,,,,,,,,,,
+80683,NC_000913,"4,400,407",SNP,T→G,hfq,,"global sRNA chaperone, HF-I, host factor for RNA phage Q beta replication",,,D40E (GAT→GAG),,,,1.00,,,,,,,,,,,,,,,,
+80684,NC_000913,"4,634,895",INS,+A,rob,,"right oriC-binding transcriptional activator, AraC family",,,coding (416/870 nt),,,,1.00,,,,,,,,,,,,,,,,
+80685,NC_000913,"82,594",SNP,T→G,leuA,,2-isopropylmalate synthase,,,E312D (GAA→GAC),,,,,1.00,,,,,,,,,,,,,,,
+80686,NC_000913,"1,618,281",DEL,Δ1 bp,marC,,UPF0056 family inner membrane protein,,,coding (628/666 nt),,,,,1.00,1.00,1.00,,,,,,,,,,,,,
+80687,NC_000913,"1,356,672",SNP,A→G,sapA,,antimicrobial peptide transport ABC transporter periplasmic binding protein,,,Y147H (TAC→CAC),,,,,,,,,1.00,,,,,,,,,,,
+80688,NC_000913,"1,673,883",MOB,IS5 (–) +4 bp,"mdtJ, tqsA",,multidrug efflux system transporter/pheromone AI-2 transporter,,,intergenic (‑382/‑27),1.00,1.00,,,,1.00,1.00,,,,,,,,,,,,,
+80689,NC_000913,"4,362,600",INS,+C,pheU,,tRNA-Phe,,,noncoding (27/76 nt),,,,,,1.00,1.00,,,,,,,,,,,,,
+80690,NC_000913,"1,907,330",DEL,Δ2 bp,cspC,,"stress protein, member of the CspA-family",,,coding (105‑106/210 nt),1.00,1.00,,,,,,,,,,,,,,,,,,
+80691,NC_000913,"4,635,114",SNP,A→C,rob,,"right oriC-binding transcriptional activator, AraC family",,,L66R (CTA→CGA),1.00,1.00,,,,,,,,,,,,,,,,,,
+80692,NC_000913,"226,309",SUB,2 bp→AG,rrlH,,23S ribosomal RNA of rrnH operon,,,noncoding (551‑552/2904 nt),,,,,,,,,,,,,1.00,,,,,,,
+80693,NC_000913,"226,354",SNP,T→A,rrlH,,23S ribosomal RNA of rrnH operon,,,noncoding (596/2904 nt),,,,,,,,,,,,,1.00,,,,,,,
+80694,NC_000913,"3,895,843",SNP,A→C,adeP,,"adenine permease, high affinity, adenine:H+ symporter",,,V256G (GTG→GGG),1.00,,,,,,,,,,,,,,,,,,,
+37947,NC_000913,"4,296,381",INS,+GC,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+587/+55),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+26183,NC_000913,"1,978,503",DEL,Δ776 bp,"insB1, insA",,"insB1, insA",,,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+26191,NC_000913,"1,299,499",DEL,"Δ1,199 bp","ychE, oppA",,UPF0056 family inner membrane protein/oligopeptide ABC transporter periplasmic binding protein,,,intergenic (+254/‑485),1.00,1.00,1.00,1.00,1.00,1.00,1.00,,,1.00,1.00,1.00,1.00,,1.00,1.00,1.00,,1.00,
+80675,NC_000913,"1,618,379",INS,+C,marC,,UPF0056 family inner membrane protein,,,coding (530/666 nt),,,,,,,,,,,,,,,,,,,1.00,1.00
+80656,NC_000913,"1,618,850",MOB,IS5 (–) +4 bp,marC,,UPF0056 family inner membrane protein,,,coding (56‑59/666 nt),,,,,,,,,,,1.00,,,,,,,,,
+43381,NC_000913,"1,907,448",MOB,IS5 (–) +4 bp,yobF,,DUF2527 family heat-induced protein,,,coding (141‑144/144 nt),,,1.00,,1.00,1.00,1.00,,,,,,1.00,1.00,1.00,,,,,
+26102,NC_000913,"257,908",DEL,Δ776 bp,[crl],,[crl],,,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+43127,NC_000913,"2,173,363",DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS,transport, Transport of small molecules: Carbohydrates, organic acids, alcohols, PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS,transport, Transport of small molecules: Carbohydrates, organic acids, alcohols, PTS system galactitol-specific enzyme IIC",,,intergenic (‑1/+1),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+43128,NC_000913,"3,560,455",INS,+G,"glpR, glpR",,"pseudogene, DNA-binding transcriptional repressor,regulator, Energy metabolism, carbon: Anaerobic respiration, repressor of the glp operon/pseudogene, DNA-binding transcriptional repressor,regulator, Energy metabolism, carbon: Anaerobic respiration, repressor of the glp operon",,,intergenic (‑2/+1),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
