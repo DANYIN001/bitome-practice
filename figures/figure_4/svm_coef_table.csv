@@ -1,0 +1,14 @@
+feature,coef
+codon_TAG_(+3),1.01
+codon_TAG_(-2),0.99
+sigmulon_Sigma32,-0.97
+codon_TAG_(+2),0.85
+codon_TAG_(-3),0.75
+base_G_(-1),0.7
+base_T_(-1),0.69
+base_T_(+1),0.68
+codon_TAG_(-1),0.68
+base_A_(+1),0.67
+Fis/H-NS/Lrp Regulon,-0.62
+base_A_(-1),0.61
+codon_TAG_(+1),0.55
